@@ -75,6 +75,16 @@ def fetch_plus_deals() -> List[DealItem]:
                         break
                     page.wait_for_timeout(500)
 
+                # The whole page covers one validity period (e.g. "Woensdag 8 juli
+                # t/m dinsdag 14 juli") shown once near the top, applying to every card.
+                period_text = None
+                period_match = re.search(
+                    r"(Maandag|Dinsdag|Woensdag|Donderdag|Vrijdag|Zaterdag|Zondag)\s+\d{1,2}\s+\w+\s+t/m\s+\w+\s+\d{1,2}\s+\w+",
+                    page.inner_text("body"),
+                )
+                if period_match:
+                    period_text = period_match.group(0)
+
                 cards = page.locator(".plp-item-wrapper").all()
                 for card in cards:
                     try:
@@ -107,6 +117,7 @@ def fetch_plus_deals() -> List[DealItem]:
                             actieprijs=price,
                             inhoud_waarde=volume,
                             inhoud_unit=unit,
+                            geldig_tekst=period_text,
                         ))
                     except Exception as e:
                         logger.debug(f"[Plus] Card parse error: {e}")

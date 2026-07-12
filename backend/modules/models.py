@@ -10,6 +10,8 @@ class DealItem(BaseModel):
     actieprijs: Optional[float] = None
     inhoud_waarde: Optional[int] = None
     inhoud_unit: Optional[str] = None
+    geldig_tekst: Optional[str] = None  # human-readable validity period, e.g. "8 - 14 jul" — free text since every store formats this differently
+    categorie: Optional[str] = None  # assigned by modules/categorizer.py, e.g. "Groente & Fruit" — not set by the fetchers themselves
 
     @field_validator("winkel", "productnaam", mode="before")
     @classmethod

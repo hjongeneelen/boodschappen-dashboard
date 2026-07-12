@@ -43,10 +43,24 @@ manually pasted URL — see comments in `.env.template`).
 ```bash
 python main.py                                       # all stores, full JSON export
 python main.py --stores jumbo hoogvliet              # only these stores
+python main.py --categorize                          # also tag each deal with a category via the local LLM
 python main.py --no-export                           # extract only, skip JSON export
 python main.py --clear-cache                          # force re-download PDFs
 python main.py --list-stores                          # show all configured stores
 ```
+
+`--categorize` runs `modules/categorizer.py`: batches of 20 product names are
+sent to your local LLM (`LLM_MODEL` in `.env`) asking it to pick one of a
+fixed Dutch category list (Groente & Fruit, Vlees & Vis, Zuivel & Eieren,
+Dranken, ...) per product; the result is written to each deal's `categorie`
+field. Tested at ~2000 deals in ~5 minutes with `qwen3.5:9b`. If you're on
+Ollama with a hybrid-reasoning model (Qwen3-family models default to
+"thinking" mode), this module talks to Ollama's native `/api/chat` with
+`think: false` — without that, the model burns its entire token budget on
+internal reasoning before ever producing the JSON answer (confirmed: a
+3-item batch used all 2048 tokens thinking and returned nothing). It falls
+back to a plain OpenAI-compatible call for non-Ollama backends, without that
+optimization.
 
 Each store's deals are exported immediately after processing to
 `../frontend/public/data/stores/<slug>.json` (e.g. `albert-heijn.json`), and
@@ -90,17 +104,25 @@ and other stores' data is never wiped by a partial `--stores` run.
   `.inner_text()`) — no OCR/vision model involved, since it's real HTML once
   rendered.
   - Aldi (195 items) and Plus (36 items) return everything their own
-    `/aanbiedingen` page shows — confirmed by aggressive scrolling that no
-    more cards load.
-  - Jumbo reads `/producten/alle-aanbiedingen/` (the "Alle aanbiedingen"
-    catalog filter, richer per-item data than the `/aanbiedingen/nu`
-    highlights page) but only its first page (~24 of the ~1300 items the
-    site claims). Its pagination turned out to be a dead end for a headless
-    browser: neither navigating `?page=N` directly nor clicking the page-N
-    button (even with a realistic mouse move + down/up) changes the
-    rendered results or fires a request — the app silently no-ops it. That
-    smells like it's specifically gating scripted interaction, so we didn't
-    push further into working around it.
+    `/aanbiedingen` page shows — confirmed with `window.scrollTo` down to a
+    stable page height (5 consecutive unchanged heights) that no more cards
+    load; neither page is lazy beyond what's rendered on load.
+  - Jumbo's `/aanbiedingen/nu` page IS lazy-loaded, but deceptively so: a
+    shallow scroll (a handful of `mouse.wheel` ticks, or ~5 scroll-to-bottom
+    rounds) looks fully loaded at ~24 cards and then jumps to 100+ once you
+    keep scrolling past that point. `jumbo_connector.py` scrolls until the
+    page height is stable across 5 consecutive rounds (up to 60 rounds)
+    before reading cards — this reads ~103 items instead of 24.
+  - We separately tried Jumbo's `/producten/alle-aanbiedingen/` catalog (a
+    different, larger ~1300-item listing with richer per-item data — pack
+    sizes embedded in the title). Its first page alone matches what the
+    `/nu` page's full scroll now gives us, and its pagination is a genuine
+    dead end for a headless browser: neither navigating `?page=N` directly
+    nor clicking the page-N button (even with a realistic mouse move + down/
+    up, not just a synthetic click) changes the rendered results or fires a
+    request — the app silently no-ops it. That smells like it's specifically
+    gating scripted interaction, so we didn't push further into working
+    around it, and stuck with the `/nu` page's full-scroll result instead.
 - **Lidl**: currently returns 0 deals — every candidate endpoint in
   `modules/lidl_connector.py` is dead (DNS failures / 404s) as of 2026-07.
   Lidl no longer appears to expose a public leaflet API, and (unlike Jumbo/

@@ -28,6 +28,10 @@ export interface DealItem {
   actieprijs: number | null;
   inhoud_waarde: number | null;
   inhoud_unit: string | null;
+  /** Free-text validity period, e.g. "8 - 14 jul" — format varies per store, not every store provides it. */
+  geldig_tekst: string | null;
+  /** Assigned by the backend's local-LLM categorizer pass; null if that step wasn't run for this store. */
+  categorie: string | null;
 }
 
 /** Shape of public/data/stores/<slug>.json. */

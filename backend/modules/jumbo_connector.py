@@ -10,97 +10,48 @@ Chromium via Playwright and read deal cards straight out of the DOM — no
 OCR/vision needed, since the text is plain HTML, just not reachable via a
 bare HTTP request.
 
-We read /producten/alle-aanbiedingen/ (the "Alle aanbiedingen" filter a
-shopper would click on the site) rather than the curated /aanbiedingen/nu
-highlights page — same ~24 items on the first page, but with much richer
-data: full titles including pack size (e.g. "Hertog Jan - Pils - Krat - 24 x
-300ML"), which we parse for inhoud_waarde/inhoud_unit, and cleaner prices.
+We read /aanbiedingen/nu, which lazy-loads far more than its initial ~24
+cards: it only reveals more as you scroll deep enough (confirmed: nothing
+new appears until repeated `window.scrollTo(bottom)` calls past the ~5th
+round, then it jumps to 100+). A shallow scroll — a handful of mouse-wheel
+ticks — looks fully loaded but isn't; we scroll until the page height is
+stable across several consecutive rounds before stopping.
 
-This listing says it has ~1300 products across ~54 pages, but its pagination
-turned out to be a dead end for a headless browser: neither navigating
-`?page=N` directly nor clicking the page-N button (even with a realistic
-mouse move + down/up, not just a synthetic click) changes the rendered
-results — the app never fires a request or updates `aria-current`. Rather
-than dig further into why (which risks turning into working around
-whatever's gating it), we only read page 1. If someone figures out the
-pagination trigger later, this is the place to extend it.
+We deliberately did NOT go with /producten/alle-aanbiedingen/ (a separate,
+richer "all offers" catalog with ~1300 items) — its pagination doesn't
+respond to a headless browser at all (see git history / README), so it
+would've meant settling for its ~24-item first page.
 """
 import logging
 import re
-from typing import List, Optional, Tuple
+from typing import List, Optional
 
 from modules.models import DealItem
 
 logger = logging.getLogger(__name__)
 
-_LISTING_URL = "https://www.jumbo.com/producten/alle-aanbiedingen/"
+_URL = "https://www.jumbo.com/aanbiedingen/nu"
 _USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
-
-_VOLUME_RE = re.compile(
-    r"(\d+(?:[.,]\d+)?)\s*(x)?\s*(\d+(?:[.,]\d+)?)?\s*(gram|gr|g|ml|cl|liter|ltr|l|kg)\b",
-    re.IGNORECASE,
-)
-_UNIT_MAP = {"gr": "gram", "g": "gram", "ltr": "liter", "l": "liter", "cl": "ml"}
+_MAX_SCROLL_ROUNDS = 60
+_STABLE_ROUNDS_TO_STOP = 5
 
 
-def _parse_volume(title: str) -> Tuple[Optional[int], Optional[str]]:
-    """
-    Pull a pack size out of a Jumbo product title, e.g.:
-      'Jumbo Aardbeien Hollands 400 g'      -> (400, 'gram')
-      'Coca-Cola ... 6 x 1,5 L'             -> (9000, 'ml')   (6 * 1.5L)
-      'Hertog Jan - Pils - Krat - 24 x 300ML' -> (7200, 'ml') (24 * 300ml)
-    """
-    m = _VOLUME_RE.search(title)
-    if not m:
-        return None, None
-    first_num = float(m.group(1).replace(",", "."))
-    has_multiplier = m.group(2) is not None and m.group(3) is not None
-    unit = m.group(4).lower()
-    unit = _UNIT_MAP.get(unit, unit)
-
-    if has_multiplier:
-        pack_count = first_num
-        per_unit = float(m.group(3).replace(",", "."))
-    else:
-        pack_count = 1
-        per_unit = first_num
-
-    total = pack_count * per_unit
-    if unit == "cl":
-        total *= 10
-        unit = "ml"
-    if unit == "liter":
-        total *= 1000
-        unit = "ml"
-    if unit == "kg":
-        # Always convert to grams — Jumbo pack sizes are often fractional kg
-        # (e.g. "1,5 kg"), which would truncate to 1 if kept as an int kg count.
-        total *= 1000
-        unit = "gram"
-    return int(round(total)), unit
-
-
-def _parse_price(card) -> Optional[float]:
-    whole = card.locator(".current-price .whole")
-    frac = card.locator(".current-price .fractional")
-    if not whole.count():
+def _parse_price(tag_text: str) -> Optional[float]:
+    """Pull a euro price out of tags like 'voor 2,49' or '2 voor 4,00'."""
+    numbers = re.findall(r"(\d+,\d{2})", tag_text)
+    if not numbers:
         return None
-    whole_txt = re.sub(r"\D", "", whole.first.inner_text())
-    frac_txt = re.sub(r"\D", "", frac.first.inner_text()) if frac.count() else "00"
-    if not whole_txt:
-        return None
-    return float(f"{whole_txt}.{frac_txt or '00'}")
+    return float(numbers[-1].replace(",", "."))
 
 
 def fetch_jumbo_deals() -> List[DealItem]:
     """
-    Fetch Jumbo's current offers (first page of the "alle aanbiedingen"
-    listing — see module docstring for why pagination isn't followed) by
-    rendering it with a headless browser and reading the product cards
-    straight out of the DOM.
+    Fetch Jumbo's current offers by rendering /aanbiedingen/nu with a
+    headless browser, scrolling until no more cards lazy-load, and reading
+    each card's DOM text directly.
     Returns an empty list (never raises) if Playwright/the page is unavailable.
     """
     try:
@@ -115,32 +66,51 @@ def fetch_jumbo_deals() -> List[DealItem]:
         with sync_playwright() as p:
             browser = p.chromium.launch()
             try:
-                page = browser.new_page(user_agent=_USER_AGENT)
-                page.goto(_LISTING_URL, wait_until="domcontentloaded", timeout=30000)
-                page.wait_for_timeout(2000)
+                page = browser.new_page(user_agent=_USER_AGENT, viewport={"width": 1400, "height": 900})
+                page.goto(_URL, wait_until="domcontentloaded", timeout=45000)
+                page.wait_for_timeout(3000)
 
-                cards = page.locator('[data-testid^="product-card-"]').all()
+                prev_height = -1
+                stable_rounds = 0
+                for _ in range(_MAX_SCROLL_ROUNDS):
+                    page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                    page.wait_for_timeout(900)
+                    height = page.evaluate("document.body.scrollHeight")
+                    stable_rounds = stable_rounds + 1 if height == prev_height else 0
+                    prev_height = height
+                    if stable_rounds >= _STABLE_ROUNDS_TO_STOP:
+                        break
+
+                cards = page.locator('[data-testid="promotion-card"]').all()
+                seen_ids = set()
                 for card in cards:
                     try:
-                        title_loc = card.locator("h3")
-                        title = title_loc.first.inner_text().strip() if title_loc.count() else None
-                        if not title:
+                        card_id = card.get_attribute("id")
+                        if card_id and card_id in seen_ids:
                             continue
 
-                        price = _parse_price(card)
-                        volume, unit = _parse_volume(title)
+                        title = card.locator("h3").first.inner_text().strip()
+                        if not title:
+                            continue
+                        tag_text = ""
+                        tag_loc = card.locator(".tag")
+                        if tag_loc.count():
+                            tag_text = tag_loc.first.inner_text().strip()
 
-                        tag_loc = card.locator(".product-tags")
-                        tag_text = tag_loc.first.inner_text().strip() if tag_loc.count() else ""
+                        subtitle_loc = card.locator(".subtitle")
+                        subtitle = subtitle_loc.first.inner_text().strip() if subtitle_loc.count() else None
 
                         deals.append(DealItem(
                             winkel="Jumbo",
                             productnaam=title,
                             korting_tekst=tag_text or None,
-                            actieprijs=price,
-                            inhoud_waarde=volume,
-                            inhoud_unit=unit,
+                            actieprijs=_parse_price(tag_text),
+                            inhoud_waarde=None,
+                            inhoud_unit=None,
+                            geldig_tekst=subtitle or None,
                         ))
+                        if card_id:
+                            seen_ids.add(card_id)
                     except Exception as e:
                         logger.debug(f"[Jumbo] Card parse error: {e}")
             finally:
@@ -150,7 +120,7 @@ def fetch_jumbo_deals() -> List[DealItem]:
         return []
 
     if not deals:
-        logger.warning("[Jumbo] Rendered the catalog but found no deal cards — Jumbo may have changed its layout.")
+        logger.warning("[Jumbo] Rendered the page but found no deal cards — Jumbo may have changed its layout.")
     else:
-        logger.info(f"[Jumbo] {len(deals)} deals read from the rendered offers catalog")
+        logger.info(f"[Jumbo] {len(deals)} deals read from the rendered page")
     return deals

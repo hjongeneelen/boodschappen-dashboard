@@ -27,6 +27,12 @@ export function DealCard({ deal }: DealCardProps) {
           )}
         </div>
 
+        {deal.categorie && (
+          <span className="w-fit rounded-full bg-indigo-50 px-2 py-0.5 text-xs font-medium text-indigo-600 dark:bg-indigo-500/10 dark:text-indigo-400">
+            {deal.categorie}
+          </span>
+        )}
+
         <h3 className="line-clamp-2 text-base leading-snug font-semibold text-slate-900 dark:text-slate-50">
           {deal.productnaam}
         </h3>
@@ -38,13 +44,18 @@ export function DealCard({ deal }: DealCardProps) {
         )}
       </div>
 
-      <div className="mt-4 flex items-end justify-between">
+      <div className="mt-4 flex items-end justify-between gap-2">
         {price ? (
           <span className="text-2xl font-bold tracking-tight text-indigo-600 dark:text-indigo-400">
             {price}
           </span>
         ) : (
           <span className="text-sm text-slate-400 italic dark:text-slate-500">Prijs onbekend</span>
+        )}
+        {deal.geldig_tekst && (
+          <span className="shrink-0 text-right text-xs text-slate-400 dark:text-slate-500">
+            {deal.geldig_tekst}
+          </span>
         )}
       </div>
     </article>

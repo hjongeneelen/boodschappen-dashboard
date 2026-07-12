@@ -20,6 +20,7 @@ from typing import Any, List, Optional
 
 import requests
 
+from modules.date_utils import format_period
 from modules.models import DealItem
 
 logger = logging.getLogger(__name__)
@@ -131,6 +132,7 @@ def _parse_offer(offer: dict) -> Optional[DealItem]:
             actieprijs=float(offer_price) if offer_price is not None else None,
             inhoud_waarde=volume,
             inhoud_unit=unit,
+            geldig_tekst=format_period(offer.get("startDate"), offer.get("endDate")),
         )
     except Exception as e:
         logger.debug(f"[Dirk] Item parse error: {e} — raw: {str(offer)[:120]}")

@@ -14,6 +14,7 @@ Two processing modes per store:
 Usage:
   python main.py                                    # all stores, full export
   python main.py --stores jumbo hoogvliet           # only these stores
+  python main.py --categorize                      # also tag each deal with a category via the local LLM
   python main.py --no-export                        # extract only, skip JSON export
   python main.py --clear-cache                      # force re-download PDFs
   python main.py --list-stores                      # show all configured stores
@@ -32,6 +33,7 @@ from openai import OpenAI
 from config import settings
 from modules.ah_connector import fetch_ah_deals
 from modules.aldi_connector import fetch_aldi_deals
+from modules.categorizer import categorize_deals
 from modules.converter import pdf_to_images
 from modules.dirk_connector import fetch_dirk_deals
 from modules.downloader import download_pdf
@@ -290,6 +292,11 @@ def main() -> None:
         action="store_true",
         help="Print all configured stores with their modes and exit",
     )
+    parser.add_argument(
+        "--categorize",
+        action="store_true",
+        help="Tag each deal with a category via the local LLM (see modules/categorizer.py) before export",
+    )
     args = parser.parse_args()
 
     if args.list_stores:
@@ -318,8 +325,8 @@ def main() -> None:
     else:
         active_stores = STORES
 
-    # Only initialise the LLM client if we have at least one pdf store
-    needs_llm = any(s.mode == "pdf" for s in active_stores)
+    # Only initialise the LLM client if we have at least one pdf store, or categorization was requested
+    needs_llm = any(s.mode == "pdf" for s in active_stores) or args.categorize
     client = get_llm_client() if needs_llm else None
 
     logger.info("═" * 64)
@@ -337,6 +344,10 @@ def main() -> None:
             store_deals = _run_store(store, client)
             logger.info(f"[{store.name}] ✓ {len(store_deals)} deals extracted")
             all_deals.extend(store_deals)
+
+            if args.categorize and store_deals:
+                tagged = categorize_deals(store_deals, client=client, model=settings.llm_model)
+                logger.info(f"[{store.name}] Categorized {tagged}/{len(store_deals)} deals")
 
             if not args.no_export:
                 export_store(store.name, store.mode, store_deals, settings.data_dir)
