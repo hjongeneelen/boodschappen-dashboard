@@ -52,7 +52,11 @@ _BATCH_SIZE = 20  # 40 was unreliable — qwen3.5:9b would occasionally miscount
 
 _SYSTEM_PROMPT = (
     "You are a JSON-only classification assistant for Dutch supermarket products. "
-    "You NEVER write explanatory text or markdown. You ONLY output a raw JSON array of strings."
+    "You NEVER write explanatory text or markdown. You ONLY output a raw JSON array of strings. "
+    "Classify by the product itself, not by any sauce/side/condiment it's served with — e.g. "
+    "'Bapao kipsate' and 'Bapao rundvlees' are both meat snacks (Vlees & Vis), not Zuivel & Eieren, "
+    "even though 'sate' can also refer to a peanut sauce elsewhere. Meat-substitute/vegetarian "
+    "products (tofu, vega burgers, 'De Vegetarische Slager', etc.) also belong under Vlees & Vis."
 )
 
 _CATEGORY_LIST_TEXT = "\n".join(f"- {c}" for c in CATEGORIES)
@@ -169,19 +173,23 @@ def _categorize_batch(client: OpenAI, model: str, names: List[str], _depth: int 
 def categorize_deals(deals: List[DealItem], client: Optional[OpenAI] = None, model: Optional[str] = None) -> int:
     """
     Assign `.categorie` on each DealItem in place, via the local LLM, in
-    batches of _BATCH_SIZE. Returns the number of deals successfully tagged.
-    Never raises — deals that fail to categorize are just left as None.
+    batches of _BATCH_SIZE. Deals that already have a categorie (e.g. Lidl,
+    which reads it directly from the store's own category taxonomy — see
+    modules/lidl_connector.py) are left untouched and don't cost an LLM call.
+    Returns the number of deals newly tagged. Never raises — deals that fail
+    to categorize are just left as None.
     """
-    if not deals:
+    todo = [d for d in deals if not d.categorie]
+    if not todo:
         return 0
     if client is None:
         client = OpenAI(base_url=settings.llm_base_url, api_key=settings.llm_api_key)
     model = model or settings.llm_model
 
     tagged = 0
-    total_batches = -(-len(deals) // _BATCH_SIZE)
-    for i in range(0, len(deals), _BATCH_SIZE):
-        batch = deals[i : i + _BATCH_SIZE]
+    total_batches = -(-len(todo) // _BATCH_SIZE)
+    for i in range(0, len(todo), _BATCH_SIZE):
+        batch = todo[i : i + _BATCH_SIZE]
         names = [d.productnaam for d in batch]
         categories = _categorize_batch(client, model, names)
         for deal, category in zip(batch, categories):

@@ -346,8 +346,10 @@ def main() -> None:
             all_deals.extend(store_deals)
 
             if args.categorize and store_deals:
-                tagged = categorize_deals(store_deals, client=client, model=settings.llm_model)
-                logger.info(f"[{store.name}] Categorized {tagged}/{len(store_deals)} deals")
+                newly_tagged = categorize_deals(store_deals, client=client, model=settings.llm_model)
+                total_categorized = sum(1 for d in store_deals if d.categorie)
+                logger.info(f"[{store.name}] Categorized {total_categorized}/{len(store_deals)} deals "
+                            f"({newly_tagged} via LLM, rest already had one)")
 
             if not args.no_export:
                 export_store(store.name, store.mode, store_deals, settings.data_dir)

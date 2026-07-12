@@ -7,6 +7,10 @@ screen-action call needed is only fetched lazily after client-side JS
 navigation. Simplest robust route: drive a real (headless) Chromium via
 Playwright to https://www.plus.nl/aanbiedingen, dismiss the cookie banner,
 and read the already-rendered deal cards straight out of the DOM.
+
+The page has two tabs — "t/m dinsdag" (this week, the default) and "Vanaf
+woensdag" (next week) — each covering a different ~1-week validity period
+with mostly different products; we read both instead of just the default.
 """
 import logging
 import re
@@ -21,6 +25,7 @@ _USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
+_ITEM_ID_RE = re.compile(r"\bitem__(\d+)\b")
 
 
 def _parse_volume(text: str) -> Tuple[Optional[int], Optional[str]]:
@@ -41,10 +46,81 @@ def _parse_volume(text: str) -> Tuple[Optional[int], Optional[str]]:
     return int(raw_val), unit
 
 
+def _wait_for_stable_count(page, locator, rounds: int = 20, stable_rounds_needed: int = 3) -> None:
+    prev = -1
+    stable = 0
+    for _ in range(rounds):
+        page.wait_for_timeout(400)
+        n = locator.count()
+        stable = stable + 1 if n == prev else 0
+        prev = n
+        if stable >= stable_rounds_needed and n > 0:
+            return
+
+
+def _scrape_current_tab(page, seen_ids: set) -> List[DealItem]:
+    """Read whatever tab is currently active — caller has already switched tabs."""
+    deals: List[DealItem] = []
+
+    period_text = None
+    period_match = re.search(
+        r"(Maandag|Dinsdag|Woensdag|Donderdag|Vrijdag|Zaterdag|Zondag)\s+\d{1,2}\s+\w+\s+t/m\s+\w+\s+\d{1,2}\s+\w+",
+        page.inner_text("body"),
+    )
+    if period_match:
+        period_text = period_match.group(0)
+
+    for card in page.locator(".plp-item-wrapper").all():
+        try:
+            id_match = _ITEM_ID_RE.search(card.get_attribute("class") or "")
+            item_id = id_match.group(1) if id_match else None
+            if item_id and item_id in seen_ids:
+                continue
+
+            price_int_loc = card.locator(".product-header-price-integer")
+            if not price_int_loc.count():
+                continue  # e.g. "gratis bezorging" threshold cards with no per-product price
+            price_dec_loc = card.locator(".product-header-price-decimals")
+            int_part = re.sub(r"\D", "", price_int_loc.first.inner_text())
+            dec_part = re.sub(r"\D", "", price_dec_loc.first.inner_text()) if price_dec_loc.count() else "00"
+            price = float(f"{int_part}.{dec_part or '00'}")
+            if price <= 0:
+                continue  # "gratis bezorging bij X euro" threshold cards, not a real product deal
+
+            name_loc = card.locator(".plp-item-name span")
+            title = name_loc.first.inner_text().strip() if name_loc.count() else None
+            if not title:
+                continue
+
+            label_loc = card.locator(".promo-offer-label span")
+            label = label_loc.first.inner_text().strip() if label_loc.count() else None
+
+            desc_loc = card.locator(".plp-item-complementary span")
+            desc = desc_loc.first.inner_text().strip() if desc_loc.count() else ""
+            volume, unit = _parse_volume(desc)
+
+            deals.append(DealItem(
+                winkel="Plus",
+                productnaam=title,
+                korting_tekst=label,
+                actieprijs=price,
+                inhoud_waarde=volume,
+                inhoud_unit=unit,
+                geldig_tekst=period_text,
+            ))
+            if item_id:
+                seen_ids.add(item_id)
+        except Exception as e:
+            logger.debug(f"[Plus] Card parse error: {e}")
+
+    return deals
+
+
 def fetch_plus_deals() -> List[DealItem]:
     """
-    Fetch Plus's current offers by rendering the page with a headless
-    browser and reading the deal cards' DOM text directly.
+    Fetch Plus's current offers (both the "t/m dinsdag" and "Vanaf woensdag"
+    tabs) by rendering the page with a headless browser and reading the
+    deal cards' DOM text directly.
     Returns an empty list (never raises) if Playwright/the page is unavailable.
     """
     try:
@@ -55,6 +131,7 @@ def fetch_plus_deals() -> List[DealItem]:
         return []
 
     deals: List[DealItem] = []
+    seen_ids: set = set()
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch()
@@ -68,59 +145,20 @@ def fetch_plus_deals() -> List[DealItem]:
                     pass
 
                 # The SPA re-renders its product list after the cookie banner closes,
-                # so poll for priced cards to actually appear rather than a fixed sleep.
+                # so poll until the priced-card count stabilizes rather than a fixed
+                # sleep (or stopping as soon as the first card appears — cards render
+                # in over a few rounds, so that undercounts).
                 priced_locator = page.locator(".plp-item-wrapper:has(.product-header-price-integer)")
-                for _ in range(20):
-                    if priced_locator.count() > 0:
-                        break
-                    page.wait_for_timeout(500)
+                _wait_for_stable_count(page, priced_locator)
 
-                # The whole page covers one validity period (e.g. "Woensdag 8 juli
-                # t/m dinsdag 14 juli") shown once near the top, applying to every card.
-                period_text = None
-                period_match = re.search(
-                    r"(Maandag|Dinsdag|Woensdag|Donderdag|Vrijdag|Zaterdag|Zondag)\s+\d{1,2}\s+\w+\s+t/m\s+\w+\s+\d{1,2}\s+\w+",
-                    page.inner_text("body"),
-                )
-                if period_match:
-                    period_text = period_match.group(0)
+                deals.extend(_scrape_current_tab(page, seen_ids))
 
-                cards = page.locator(".plp-item-wrapper").all()
-                for card in cards:
-                    try:
-                        price_int_loc = card.locator(".product-header-price-integer")
-                        if not price_int_loc.count():
-                            continue  # e.g. "gratis bezorging" threshold cards with no per-product price
-                        price_dec_loc = card.locator(".product-header-price-decimals")
-                        int_part = re.sub(r"\D", "", price_int_loc.first.inner_text())
-                        dec_part = re.sub(r"\D", "", price_dec_loc.first.inner_text()) if price_dec_loc.count() else "00"
-                        price = float(f"{int_part}.{dec_part or '00'}")
-                        if price <= 0:
-                            continue  # "gratis bezorging bij X euro" threshold cards, not a real product deal
-
-                        name_loc = card.locator(".plp-item-name span")
-                        title = name_loc.first.inner_text().strip() if name_loc.count() else None
-                        if not title:
-                            continue
-
-                        label_loc = card.locator(".promo-offer-label span")
-                        label = label_loc.first.inner_text().strip() if label_loc.count() else None
-
-                        desc_loc = card.locator(".plp-item-complementary span")
-                        desc = desc_loc.first.inner_text().strip() if desc_loc.count() else ""
-                        volume, unit = _parse_volume(desc)
-
-                        deals.append(DealItem(
-                            winkel="Plus",
-                            productnaam=title,
-                            korting_tekst=label,
-                            actieprijs=price,
-                            inhoud_waarde=volume,
-                            inhoud_unit=unit,
-                            geldig_tekst=period_text,
-                        ))
-                    except Exception as e:
-                        logger.debug(f"[Plus] Card parse error: {e}")
+                try:
+                    page.get_by_text("Vanaf woensdag", exact=True).first.click(timeout=5000)
+                    _wait_for_stable_count(page, priced_locator)
+                    deals.extend(_scrape_current_tab(page, seen_ids))
+                except Exception as e:
+                    logger.debug(f"[Plus] Could not read the 'Vanaf woensdag' tab: {e}")
             finally:
                 browser.close()
     except Exception as e:
@@ -130,5 +168,5 @@ def fetch_plus_deals() -> List[DealItem]:
     if not deals:
         logger.warning("[Plus] Rendered the page but found no priced deal cards — Plus may have changed its layout.")
     else:
-        logger.info(f"[Plus] {len(deals)} deals read from the rendered page")
+        logger.info(f"[Plus] {len(deals)} deals read from the rendered page (both weekly tabs)")
     return deals

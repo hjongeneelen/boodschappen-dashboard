@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-07-12T12:00:29.481630+00:00",
+  "updated_at": "2026-07-12T14:52:11.323715+00:00",
   "deals": [
     {
       "productnaam": "Mini-pruimtrostomaten",
@@ -65,7 +65,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "kg",
       "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Verse watermeloen en meloenmix",
@@ -173,7 +173,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "TESOROS DEL SUR Churros",
@@ -182,7 +182,7 @@
       "inhoud_waarde": 290,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "TESOROS DEL SUR Salami",
@@ -236,7 +236,7 @@
       "inhoud_waarde": 120,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "TESOROS DEL SUR Chileense mosselen",
@@ -245,7 +245,7 @@
       "inhoud_waarde": 115,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "TESOROS DEL SUR Ansjovisfilets",
@@ -254,7 +254,7 @@
       "inhoud_waarde": 80,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "TESOROS DEL SUR Mini-tortilla's",
@@ -263,7 +263,7 @@
       "inhoud_waarde": 220,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "TESOROS DEL SUR Banderillas",
@@ -272,7 +272,7 @@
       "inhoud_waarde": 950,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "TESOROS DEL SUR Almendrados",
@@ -281,7 +281,7 @@
       "inhoud_waarde": 325,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "TESOROS DEL SUR Magdalena's",
@@ -290,7 +290,7 @@
       "inhoud_waarde": 380,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "TESOROS DEL SUR Magdalenas Valencianas",
@@ -299,7 +299,7 @@
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "TESOROS DEL SUR Knoflookteentjes",
@@ -326,7 +326,7 @@
       "inhoud_waarde": 3000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Sangria",
@@ -335,7 +335,7 @@
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Spekreepjes",
@@ -344,7 +344,7 @@
       "inhoud_waarde": 190,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Boterhamworst",
@@ -416,7 +416,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "MILSANI Vla",
@@ -425,7 +425,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Mueslibollen",
@@ -461,7 +461,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "AVIKO Friet van 't huis",
@@ -470,7 +470,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "MUCCI Speculoos-, salted caramel-, white cookies- of white almond-ijs",
@@ -479,7 +479,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Overig"
     },
     {
       "productnaam": "SUN LOLLY IJslolly's",
@@ -488,7 +488,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Overig"
     },
     {
       "productnaam": "ALMARE SEAFOOD Tonijn in pikante saus",
@@ -506,7 +506,7 @@
       "inhoud_waarde": 145,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "BECEL Margarine",
@@ -515,7 +515,7 @@
       "inhoud_waarde": 550,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "BECEL ProActiv",
@@ -524,7 +524,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "TRADER JOE'S Chilibonen",
@@ -533,7 +533,7 @@
       "inhoud_waarde": 420,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "BECEL Vloeibaar original of olijf",
@@ -560,7 +560,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "ALL SEASONS 3-pack tomaten frito",
@@ -587,7 +587,7 @@
       "inhoud_waarde": 40,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "KNORR Maaltijdmix",
@@ -614,7 +614,7 @@
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "STORCK Merci Finest Selection",
@@ -641,7 +641,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "TRADER JOE'S Cashewpindamix",
@@ -758,7 +758,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Grüner Veltliner, Castillo Mayor en Charette Merlot rosé",
@@ -767,7 +767,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "BALLATURI Pinot Grigio of Pinot Grigio Blush",
@@ -776,7 +776,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "POWER FORCE Microvezel stof-, spons- of vaatdoeken",
@@ -875,7 +875,7 @@
       "inhoud_waarde": 416,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Slavinken",
@@ -911,7 +911,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "MY VAY Vegan nuggets",
@@ -929,7 +929,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Angelonia",
@@ -938,7 +938,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Sempervivum in schaal",
@@ -947,7 +947,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "4-pack Sempervivum",
@@ -956,7 +956,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "Livistona",
@@ -965,7 +965,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "Helianthus of Leeuwenbekje",
@@ -974,7 +974,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "4-pack Sempervivum",
@@ -983,7 +983,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "GARDENLINE Potgrond universeel",
@@ -992,7 +992,7 @@
       "inhoud_waarde": 20,
       "inhoud_unit": "liter",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "AMBIANO Zakloze stofzuiger",
@@ -1010,7 +1010,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "CROFTON Toiletborstelset",
@@ -1118,7 +1118,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Overig"
     },
     {
       "productnaam": "CASALUX Led solar tuinverlichting",
@@ -1127,7 +1127,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Overig"
     },
     {
       "productnaam": "TOPCRAFT Tuinhandschoenen",
@@ -1136,7 +1136,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "WORKZONE Hamer",
@@ -1181,7 +1181,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "PATTEX Lijm",
@@ -1190,7 +1190,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Kruidenierswaren"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "HOME CREATION Kledingrek",
@@ -1199,7 +1199,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "NOVITESSE Bedsprei",
@@ -1235,7 +1235,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Overig"
     },
     {
       "productnaam": "Kersen",
@@ -1280,7 +1280,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Cranberry- of roompaté",
@@ -1307,7 +1307,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "CONIMEX Aziatische soep",
@@ -1325,7 +1325,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "DUO PENOTTI Hazelnoot-vanillepasta",
@@ -1343,7 +1343,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "KELLOGG'S Mini-mix",
@@ -1379,7 +1379,7 @@
       "inhoud_waarde": 166,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "MITSUBA Rijstcrackers",
@@ -1388,7 +1388,7 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "LAY'S OF DORITOS Chips",
@@ -1523,7 +1523,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "BELAVI Solar ledfontein",
@@ -1586,7 +1586,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "GARDENLINE Tuinschaar",
@@ -1622,7 +1622,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "HOME CREATION Deurmat",
@@ -1676,7 +1676,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "UP2FASHION Jurk midi",
@@ -1685,7 +1685,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "ADIDAS 3-pack T-shirts",
@@ -1694,7 +1694,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "UP2FASHION Shortama",
@@ -1703,7 +1703,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "UP2FASHION Shortama",
@@ -1712,7 +1712,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "UP2FASHION Jeans short",
@@ -1721,7 +1721,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "UP2FASHION Denim joggshort",
@@ -1730,7 +1730,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "UP2FASHION Stretchjeans",
@@ -1739,7 +1739,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "CRANE Zwembroek",
@@ -1748,7 +1748,7 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "UP2FASHION 2-pack boxershorts",
@@ -1757,7 +1757,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     }
   ]
 }

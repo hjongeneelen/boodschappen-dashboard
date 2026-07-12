@@ -73,9 +73,12 @@ and other stores' data is never wiped by a partial `--stores` run.
 - **Albert Heijn, Lidl, Dirk, Jumbo, Plus, and Aldi** (`api` mode) need no
   local vision LLM — fully automatable in CI/a scheduled job (see
   `.github/workflows/update-and-deploy.yml` at the repo root, which runs this
-  on a daily cron). Jumbo/Plus/Aldi specifically need Playwright's Chromium
-  (`python -m playwright install chromium`) since they work by rendering the
-  store's own page with a real headless browser rather than calling an API.
+  on a daily cron). Jumbo/Plus/Aldi/Lidl specifically need Playwright's
+  Chromium (`python -m playwright install chromium`) since they work by
+  rendering the store's own page with a real headless browser rather than
+  calling an API. Jumbo's group-deal expansion in particular makes it the
+  slowest connector by far (~7 minutes, dozens of extra page visits) —
+  budget for that in any automation you build on top of this.
 - **The other 12 stores** (`pdf` mode) need a local vision LLM via Ollama, so
   they must be run locally (or on a machine with Ollama installed) and their
   output JSON committed into `frontend/public/data/` for the static site to
@@ -93,42 +96,60 @@ and other stores' data is never wiped by a partial `--stores` run.
   directly with a plain GET, no auth needed. (Dirk's GraphQL API also exists
   at `web-gateway.dirk.nl` but returns empty results without a browser
   session — the embedded payload sidesteps that.)
-- **Jumbo, Plus, Aldi**: work, via a different technique than the others.
+- **Jumbo, Plus, Aldi, Lidl**: work, via a different technique than AH/Dirk.
   Their APIs/backends are bot-protected (Akamai/Imperva — see below), but
   their consumer-facing deals pages render completely normally for a real
   browser; the blocking is on the API traffic pattern, not on loading the
-  page. `modules/jumbo_connector.py`, `plus_connector.py`, and
-  `aldi_connector.py` each launch headless Chromium via Playwright, load the
-  store's own page, dismiss the cookie banner where present, and read the
-  deal cards straight out of the rendered DOM (`page.locator(...)` +
+  page. `modules/jumbo_connector.py`, `plus_connector.py`, `aldi_connector.py`,
+  and `lidl_connector.py` each launch headless Chromium via Playwright, load
+  the store's own page, dismiss the cookie banner where present, and read
+  the deal cards straight out of the rendered DOM (`page.locator(...)` +
   `.inner_text()`) — no OCR/vision model involved, since it's real HTML once
   rendered.
-  - Aldi (195 items) and Plus (36 items) return everything their own
-    `/aanbiedingen` page shows — confirmed with `window.scrollTo` down to a
-    stable page height (5 consecutive unchanged heights) that no more cards
-    load; neither page is lazy beyond what's rendered on load.
+  - Aldi (195 items) returns everything its own `/aanbiedingen` page shows —
+    confirmed with `window.scrollTo` down to a stable page height (5
+    consecutive unchanged heights) that no more cards load.
   - Jumbo's `/aanbiedingen/nu` page IS lazy-loaded, but deceptively so: a
     shallow scroll (a handful of `mouse.wheel` ticks, or ~5 scroll-to-bottom
     rounds) looks fully loaded at ~24 cards and then jumps to 100+ once you
     keep scrolling past that point. `jumbo_connector.py` scrolls until the
     page height is stable across 5 consecutive rounds (up to 60 rounds)
-    before reading cards — this reads ~103 items instead of 24.
-  - We separately tried Jumbo's `/producten/alle-aanbiedingen/` catalog (a
-    different, larger ~1300-item listing with richer per-item data — pack
-    sizes embedded in the title). Its first page alone matches what the
-    `/nu` page's full scroll now gives us, and its pagination is a genuine
-    dead end for a headless browser: neither navigating `?page=N` directly
-    nor clicking the page-N button (even with a realistic mouse move + down/
-    up, not just a synthetic click) changes the rendered results or fires a
-    request — the app silently no-ops it. That smells like it's specifically
-    gating scripted interaction, so we didn't push further into working
-    around it, and stuck with the `/nu` page's full-scroll result instead.
-- **Lidl**: currently returns 0 deals — every candidate endpoint in
-  `modules/lidl_connector.py` is dead (DNS failures / 404s) as of 2026-07.
-  Lidl no longer appears to expose a public leaflet API, and (unlike Jumbo/
-  Plus/Aldi) it has no single obvious own-site deals page to render instead;
-  fixing this needs a fresh capture of real traffic from the Lidl Plus app.
-  Until then, treat Lidl like the vision-LLM stores.
+    before reading cards. About a third of its cards are "Alle X" group
+    deals (e.g. "Alle Jumbo groene salades") covering several specific
+    products at one price — each one's detail page lists the individual
+    products with their own name/price/size, so we visit it and expand the
+    group into one DealItem per product. End result: ~700 items instead of
+    the ~24 the naive first read gave.
+    - We separately tried Jumbo's `/producten/alle-aanbiedingen/` catalog (a
+      different, larger ~1300-item listing with richer per-item data — pack
+      sizes embedded in the title). Its pagination is a genuine dead end for
+      a headless browser: neither navigating `?page=N` directly nor
+      clicking the page-N button (even with a realistic mouse move + down/
+      up, not just a synthetic click) changes the rendered results or fires
+      a request — the app silently no-ops it. That smells like it's
+      specifically gating scripted interaction, so we didn't push further
+      into working around it, and stuck with the `/nu` page instead.
+  - Plus's `/aanbiedingen` page has two tabs — "t/m dinsdag" (this week) and
+    "Vanaf woensdag" (next week) — covering different validity periods with
+    mostly different products; we read both (~40 items combined, varies —
+    Plus's live inventory changes between runs, this isn't a fixed number).
+  - Lidl's `/c/aanbiedingen/a10008785` page publishes offers in three weekly
+    waves, each its own tab (Maandag/Woensdag/Vrijdag — very different sizes:
+    ~12/~92/~104 tiles), so we click through all three (~198 items combined).
+    Each tile carries a `data-gridbox-impression` attribute — a URL-encoded
+    JSON blob with the exact name, price, and **Lidl's own category
+    taxonomy** (`wonCategoryPrimary`, e.g. "Werelden van
+    nood/Eten.../Diepvriesvoeding/Diepvriespizza's & snacks") — cleaner than
+    scraping visible text, and it means Lidl deals get `categorie` mapped
+    straight from Lidl's own data (`_CATEGORY_KEYWORDS` in
+    `lidl_connector.py`) instead of costing an LLM call (184/198 tagged this
+    way in one run). Like Jumbo, ~a third of Lidl's tiles are "Alle X" group
+    deals; their detail page's `window.__NUXT__` data has empty
+    `variants`/`setItems` fields (checked directly), so instead we expand
+    them from each variant image's descriptive `alt` text (e.g. "800g
+    runder hamburgers in een voordeelverpakking.") — good enough for
+    distinct name + size, but no exact per-variant price (left null, with
+    the group's price-range text kept as `korting_tekst`).
 - **Coop, Kruidvat, Etos investigated, no automated path found**: Coop NL's
   own site has been decommissioned (redirects to plus.nl — Coop NL was
   acquired by Plus Retail), so there's no page left to render. Kruidvat and

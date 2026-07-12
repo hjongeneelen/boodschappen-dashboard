@@ -36,7 +36,9 @@ by a React dashboard instead of a spreadsheet only you could see.
   [frontend/README.md](frontend/README.md).
 - **`.github/workflows/update-and-deploy.yml`** — runs daily: re-scrapes the
   6 structured stores (Albert Heijn, Lidl, Dirk, Jumbo, Plus, Aldi), commits
-  any changes, builds the frontend, and deploys it to GitHub Pages.
+  any changes, builds the frontend, and deploys it to GitHub Pages. Budget
+  ~10 minutes for the scrape step — Jumbo's group-deal expansion alone
+  (dozens of extra page visits) takes ~7 of those.
 
 ## Data coverage
 
@@ -45,11 +47,11 @@ Not all 18 stores can be automated the same way:
 | Store | Mode | Status |
 |---|---|---|
 | Albert Heijn | `api` | ✅ Automated daily via GitHub Actions (anonymous-token search API, ~1500 live bonus items) |
+| Jumbo | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of jumbo.com/aanbiedingen/nu, scrolled until fully lazy-loaded, "Alle X" group deals expanded into their individual products; ~700 live items) |
+| Lidl | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read across Lidl's 3 weekly-wave tabs, categorized from Lidl's own taxonomy; ~200 live items) |
 | Aldi | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of aldi.nl — its legacy API is dead, the page isn't; ~195 live items) |
-| Plus | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of plus.nl/aanbiedingen; ~36 live items) |
 | Dirk | `api` | ✅ Automated daily via GitHub Actions (offers embedded in the page's server-rendered payload, no auth needed; ~124 live items) |
-| Jumbo | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of jumbo.com/aanbiedingen/nu, scrolled until fully lazy-loaded — its API is Akamai-blocked, the page isn't; ~103 live items) |
-| Lidl | `api` | ⚠️ Currently returns 0 — Lidl's public leaflet endpoints are dead; see [backend/README.md](backend/README.md#connector-status) |
+| Plus | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of plus.nl/aanbiedingen, both the current- and next-week tabs; ~40 live items — Plus's inventory changes between runs, this varies) |
 | Hoogvliet, Boni, Poiesz, DA Drogist, Coop, Kruidvat, Etos, Nettorama, Dekamarkt, Blokker, Gamma, Praxis | `pdf` | 🔧 Needs a local run with a vision LLM (Ollama) — not yet run. Auto-discovery of the weekly PDF URL currently fails for all of these (Publitas changed its site since this was written) |
 
 The site handles unscraped stores gracefully (shown muted in the filter bar
@@ -76,12 +78,15 @@ source actually supports them:
   categories to the live site.
 
 We looked into whether the blocked-API stores have a structured API the way
-Albert Heijn does — for Jumbo, Plus, and Aldi, the API itself is bot-protected
-(Akamai/Imperva) but their own *website* renders just fine for a real
-(headless) browser, so `modules/jumbo_connector.py`, `plus_connector.py`, and
-`aldi_connector.py` use Playwright to render the page and read the deal cards
-straight out of the DOM — no vision/OCR needed, since it's real HTML once
-rendered. Kruidvat and Etos are blocked even for a real headless browser
+Albert Heijn does — for Jumbo, Plus, Aldi, and Lidl, the API itself is
+bot-protected (Akamai/Imperva) or simply dead, but their own *website*
+renders just fine for a real (headless) browser, so `modules/jumbo_connector.py`,
+`plus_connector.py`, `aldi_connector.py`, and `lidl_connector.py` use
+Playwright to render the page and read the deal cards straight out of the
+DOM — no vision/OCR needed, since it's real HTML once rendered. Jumbo and
+Lidl both also have "buy one of several variants" group deals (e.g. "Alle
+burgers") that we expand into individual products via each group's detail
+page. Kruidvat and Etos are blocked even for a real headless browser
 (Akamai edge-level); Coop NL's site has been decommissioned entirely
 (redirects to plus.nl). Full findings are in
 [backend/README.md](backend/README.md#connector-status).

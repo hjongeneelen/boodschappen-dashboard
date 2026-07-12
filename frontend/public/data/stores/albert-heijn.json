@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "api",
-  "updated_at": "2026-07-12T11:57:22.149581+00:00",
+  "updated_at": "2026-07-12T14:39:59.385399+00:00",
   "deals": [
     {
       "productnaam": "AH Nederlandse aardbeien",
@@ -299,7 +299,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Coca-Cola Zero sugar 4pk",
@@ -461,7 +461,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Coca-Cola Zero sugar 40-pack",
@@ -524,7 +524,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Snoepgroente tomaat",
@@ -1370,7 +1370,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Verse granaatappelpitjes",
@@ -1379,7 +1379,7 @@
       "inhoud_waarde": 90,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Melkunie Breaker Aardbei yoghurt 4-pack",
@@ -1415,7 +1415,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Royal Club Tonic classic 0% suiker 4-pack",
@@ -1424,7 +1424,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Lay's Bugles nacho cheese 3-pack",
@@ -1577,7 +1577,7 @@
       "inhoud_waarde": 190,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Amstel Radler citroen 0.0 6-pack",
@@ -1793,7 +1793,7 @@
       "inhoud_waarde": 755,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Alpro Mild & creamy zonder suikers 2-pack",
@@ -1802,7 +1802,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Biologisch Griekse feta 4-pack",
@@ -1847,7 +1847,7 @@
       "inhoud_waarde": 60,
       "inhoud_unit": "stuks",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "AH Roerbakgroente Italiaans fijngesneden",
@@ -2000,7 +2000,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Scharrel kip saté schnitzel 2 stuks",
@@ -2009,7 +2009,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Mars Karamel chocolade ice bar 3-pack",
@@ -2018,7 +2018,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Danoontje Knijpyoghurt aardbei 5-pack",
@@ -2027,7 +2027,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "LU Bastogne original 2-pack",
@@ -2036,7 +2036,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "AH Scharrel kipsateschnitzel 2 stuks 3-pack",
@@ -2054,7 +2054,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Lay's Max paprika",
@@ -2090,7 +2090,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Scharrel kip sate schnitzel 2 stuks 2-pk",
@@ -2198,7 +2198,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Biologisch Italiaanse parmigiano reggiano 3-pack",
@@ -2207,7 +2207,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Grillworst kip",
@@ -2270,7 +2270,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Pringles Paprika 5-pack",
@@ -2306,7 +2306,7 @@
       "inhoud_waarde": 110,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Roasted ham 2-pack",
@@ -2315,7 +2315,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Scharrel kipfilet blokjes 3-pack",
@@ -2504,7 +2504,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Lay's Sensations Thai sweet chilli",
@@ -2621,7 +2621,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Unox Romige tomatensoep 4-pack",
@@ -2711,7 +2711,7 @@
       "inhoud_waarde": 600,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Remia Friteslijn",
@@ -2720,7 +2720,7 @@
       "inhoud_waarde": 350,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Raak Vruchtensiroop multivruchten zero 3-pack",
@@ -2729,7 +2729,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Aquafresh Fresh & minty bescherming tandpasta 6pck",
@@ -2873,7 +2873,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Andijvie fijngesneden kleinverpak 2-pack",
@@ -2972,7 +2972,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Dranken"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "AH Terra Plantaardig 100% pindakaas naturel 2-pck",
@@ -3026,7 +3026,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Terra Plantaardig 100% pindakaas naturl 3-pack",
@@ -3098,7 +3098,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Prodent Cool mint tandpasta 2-pack",
@@ -3764,7 +3764,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Karvan Cévitam Original aardbei siroop 3-pack",
@@ -3773,7 +3773,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Alpro Sojadrink original 4-pack",
@@ -3782,7 +3782,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Fanta Orange zero sugar 5-pack",
@@ -3845,7 +3845,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "AH Dunne maiswafels melkchocolade 4x 2-pack",
@@ -3971,7 +3971,7 @@
       "inhoud_waarde": 190,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Lasagne verspakket",
@@ -4007,7 +4007,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Campina Volle yoghurt 3-pack",
@@ -4052,7 +4052,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Coca-Cola Zero sugar zero caffeïne 40-pack",
@@ -4088,7 +4088,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "CoolBest Fruit drink mango 3-pack",
@@ -4097,7 +4097,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Arla Skyr naturel yoghurt 0% vet 4-pack",
@@ -4106,7 +4106,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Spa Touch of lemon 6-pack",
@@ -4115,7 +4115,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Honig Basis voor macaroni en spaghetti 6-pack",
@@ -4169,7 +4169,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Grand' Italia Spaghetti tradizionali",
@@ -4205,7 +4205,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Sprite Zero sugar lemon-lime 4-pack",
@@ -4232,7 +4232,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Karvan Cévitam Original aardbei siroop 6-pack",
@@ -4241,7 +4241,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Oreo Original 2-pack",
@@ -4439,7 +4439,7 @@
       "inhoud_waarde": 38,
       "inhoud_unit": "stuks",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "CoolBest Fruit drink mango 6-pack",
@@ -4529,7 +4529,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "AH Focaccia mozzarella 2-pack",
@@ -4538,7 +4538,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Coca-Cola Zero sugar zero caffeïne",
@@ -4781,7 +4781,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Liga Cracotte vezelrijk",
@@ -4790,7 +4790,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Duyvis Borrelnootjes provencale 4-pack",
@@ -4799,7 +4799,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Almhof Choco met echte slagroom original",
@@ -4808,7 +4808,7 @@
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "AH SmeuÃ¯ge pindakaas 2-pack",
@@ -4817,7 +4817,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Ola Cornetto classico mini 3-pack",
@@ -5024,7 +5024,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Alpro Mild & creamy vanille smaak 2-pack",
@@ -5033,7 +5033,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Glorix Power5 ocean wc-blok 2-pack",
@@ -5204,7 +5204,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Roomboter croissants 3-pack",
@@ -5222,7 +5222,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Roomboter appeltaartje",
@@ -5231,7 +5231,7 @@
       "inhoud_waarde": 640,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Fanta Orange 4-pack",
@@ -5321,7 +5321,7 @@
       "inhoud_waarde": 320,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Fanta Orange 5-pack",
@@ -5339,7 +5339,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Goudse jong komijn 48+ plakken",
@@ -5366,7 +5366,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Fanta Orange 10-pack",
@@ -5375,7 +5375,7 @@
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Taksi Tropisch fruit geen suiker toegevoegd 10",
@@ -5384,7 +5384,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Flammkuchendeeg 3-pack",
@@ -5402,7 +5402,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Ginger passion gember passievrucht",
@@ -5465,7 +5465,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Royal Club Ginger beer 0% suiker 4-pack",
@@ -5537,7 +5537,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Biologisch Creme fraiche 2-pack",
@@ -5825,7 +5825,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Campina Echte slagroom 2-pack",
@@ -5969,7 +5969,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Crystal Clear Appel peer 4-pack",
@@ -6032,7 +6032,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Glorix Power5 citrus wc-blok",
@@ -6050,7 +6050,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Goudse belegen 48+ geraspt 5-pack",
@@ -6086,7 +6086,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Campina Vlaflip vanille 2-pack",
@@ -6095,7 +6095,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Pastasaus tomaat mascarpone 2-pack",
@@ -6113,7 +6113,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Cervelaat",
@@ -6284,7 +6284,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Biologisch Grasboter makkelijk smeerbaar ongezo 2pk",
@@ -6455,7 +6455,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Excellent Black angus burger 3-pack",
@@ -6464,7 +6464,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Boterhamworst",
@@ -6716,7 +6716,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Unox Klassieke tomatensoep 6-pack",
@@ -6734,7 +6734,7 @@
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Santa Maria Tortilla wraps original 6x large 6-pack",
@@ -6788,7 +6788,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Lay's Cheese onion 3-pack",
@@ -6806,7 +6806,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Geroosterde pijnboompitten 2-pack",
@@ -6815,7 +6815,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "Magnum Mini almond",
@@ -6824,7 +6824,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Magnum Mini almond 3-pack",
@@ -6878,7 +6878,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Settesoli Pinot grigio blush rosé",
@@ -6950,7 +6950,7 @@
       "inhoud_waarde": 320,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Huishouden"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Corona Cero 0.0 alcoholvrij bier 18-pack",
@@ -6986,7 +6986,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Campina Langlekker magere melk 0% vet 3-pack",
@@ -7004,7 +7004,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Hak Witte bonen in tomatensaus 4-pack",
@@ -7022,7 +7022,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Optimel Proteine extra framboos aardbei 8-pack",
@@ -7103,7 +7103,7 @@
       "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Campina Vlaflip vanille 3-pack",
@@ -7130,7 +7130,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Hak Appelmoes 0% 4-pack",
@@ -7193,7 +7193,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "AH Scharrelkipreepjes Italians gebraden 5pk",
@@ -7301,7 +7301,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Boterhamworst 4-pack",
@@ -7310,7 +7310,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Karvan Cévitam Original framboos siroop",
@@ -7319,7 +7319,7 @@
       "inhoud_waarde": 600,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Dreft Platinum pls vaatwascapsules citroen 2pk",
@@ -7409,7 +7409,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Royal Club Bitter lemon 0% suiker 6-pack",
@@ -7526,7 +7526,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Biologisch Rundergehakt 6 pack",
@@ -7535,7 +7535,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Mini burratine 2-pack",
@@ -7553,7 +7553,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "John West Tonijnstukken in water",
@@ -7697,7 +7697,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Overig"
     },
     {
       "productnaam": "Fanta Orange 24-pack",
@@ -7742,7 +7742,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Overig"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Campina Vanille Vla 1L 3-pack",
@@ -7886,7 +7886,7 @@
       "inhoud_waarde": 115,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Karvan Cévitam Original framboos siroop 3-pack",
@@ -7895,7 +7895,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Hak Doperwtjes 4-pack",
@@ -7976,7 +7976,7 @@
       "inhoud_waarde": 240,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Karvan Cévitam Original grenadine siroop",
@@ -7985,7 +7985,7 @@
       "inhoud_waarde": 600,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "AH Terra Quinoa noten S",
@@ -7994,7 +7994,7 @@
       "inhoud_waarde": 205,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Mini burratine 3-pack",
@@ -8021,7 +8021,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Overig"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Settesoli Pinot grigio",
@@ -8111,7 +8111,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Hertog Jan Pilsener bier 6-pack",
@@ -8138,7 +8138,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Page Compleet schoon vochtig toiletpapier",
@@ -8210,7 +8210,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Spaanse fuet 4 pack",
@@ -8219,7 +8219,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Remia Satésaus kant & klaar",
@@ -8237,7 +8237,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Chocomel 0% suiker 1L 3-pack",
@@ -8255,7 +8255,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Scharrel kipfilet 4-pack",
@@ -8282,7 +8282,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Unox Heldere kippensoep",
@@ -8381,7 +8381,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Spa Touch bruisend blackcurrant 4-pack",
@@ -8399,7 +8399,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Campina Yoghurt Griekse stijl 2% 2-pack",
@@ -8417,7 +8417,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Terra Plantaardig biolgisch 100% pindakas 2pk",
@@ -8444,7 +8444,7 @@
       "inhoud_waarde": 235,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Campina Echte slagroom 4-pack",
@@ -8561,7 +8561,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Settesoli Pinot grigio 6 flessen",
@@ -8660,7 +8660,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Zuivelhoeve Boer'n yoghurt vanille & muesli 4-pack",
@@ -8768,7 +8768,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Ajax Eucalyptus allesreiniger 6-pack",
@@ -8975,7 +8975,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Doritos Sweet chilli pepper",
@@ -8984,7 +8984,7 @@
       "inhoud_waarde": 272,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Slaverrijker sojabonen",
@@ -9056,7 +9056,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Aardappel partjes Toscaans gekruid",
@@ -9119,7 +9119,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Scharrel gerookte kipfilet",
@@ -9146,7 +9146,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Scharrel gerookte kipfilet 2-pack",
@@ -9173,7 +9173,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Appelsientje Sinaasappelsap 8-pack",
@@ -9236,7 +9236,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Pepsi Zero sugar cola 4-pack",
@@ -9389,7 +9389,7 @@
       "inhoud_waarde": 9,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Optimel Proteine drinkyoghurt aardbei banaan 2pk",
@@ -9560,7 +9560,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "LU Mini crackers zout 3-pack",
@@ -9578,7 +9578,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Spa Touch cherry bruisend 6-pack",
@@ -9614,7 +9614,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "DubbelFrisss Boost framboos & cranberry",
@@ -9632,7 +9632,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "CoolBest Fruit drink strawberry 3-pack",
@@ -9650,7 +9650,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Goudse Jong 48+ pondstuk var 2-pack",
@@ -9794,7 +9794,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Fuze Tea Green ice tea",
@@ -9947,7 +9947,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Campina Botergoud grasboter 2-pack",
@@ -9983,7 +9983,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Lipton Ice tea green",
@@ -10001,7 +10001,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Excellent Spianata romana 2-pack",
@@ -10028,7 +10028,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Kipfiletreepjes 3-pack",
@@ -10037,7 +10037,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Tortelloni verdi ricotta spinaci 2-pack",
@@ -10055,7 +10055,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Stëlz Hard iced tea 12-pack",
@@ -10064,7 +10064,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Optimel Drinkyoghurt mango passievrucht 2-pack",
@@ -10127,7 +10127,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Pepsi Cola fles 6-pack",
@@ -10145,7 +10145,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Oral-B 3D White luxe perfection tandpasta",
@@ -10163,7 +10163,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Salakis Classic Greek feta 125g 2-pack",
@@ -10172,7 +10172,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Président Le brie 3-pack",
@@ -10514,7 +10514,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Goudse Jong 48+ pondstuk var 3-pack",
@@ -10541,7 +10541,7 @@
       "inhoud_waarde": 600,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Arla Biologisch volle yoghurt 2-pack",
@@ -10613,7 +10613,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Biefstuk 2 stuks 4-pack",
@@ -10631,7 +10631,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Red Band Dropfruit duo's",
@@ -10694,7 +10694,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Ola Split 3-pack",
@@ -10739,7 +10739,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Huishouden"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Glorix WC blok power 5 met bleek",
@@ -10748,7 +10748,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "AH Scharrel kipflakes kebab 5-pack",
@@ -10757,7 +10757,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Starbucks Caramel macchiato ijskoffie",
@@ -10766,7 +10766,7 @@
       "inhoud_waarde": 220,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Heinz Tomaten blokjes naturel 6-pack",
@@ -10775,7 +10775,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Gerookte zalm 4 pack",
@@ -10856,7 +10856,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Goudsalami 2-pack",
@@ -10865,7 +10865,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Alpro Mild & creamy kokosnoot 2-pack",
@@ -10874,7 +10874,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Appelsientje Fruitdrink goudappeltje 3-pack",
@@ -10937,7 +10937,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Sourcy Vitaminwater framboos granaatappel 6-pk",
@@ -11054,7 +11054,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Magnum Mini double caramel & billionaire 3-pack",
@@ -11126,7 +11126,7 @@
       "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Marhaba Kipfilet 3-pack",
@@ -11207,7 +11207,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Gerookte zalm 3-pck",
@@ -11252,7 +11252,7 @@
       "inhoud_waarde": 110,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Fuze Tea Green Ice Tea Mango Chamomile 3-pack",
@@ -11288,7 +11288,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 13 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Melkunie Protein aardbei yoghurt 4-pack",
@@ -11306,7 +11306,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "Friesche Vlag Latte opschuimmelk 5-pack",
@@ -11315,7 +11315,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Campina Yoghurt Griekse stijl 2% 4-pack",
@@ -11414,7 +11414,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Starbucks Caffé latte gst ijskoffie 4-pack",
@@ -11486,7 +11486,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Overig"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Magnum Mini classic 3-pack",
@@ -11513,7 +11513,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Ben & Jerry's Half baked 2-pack",
@@ -11522,7 +11522,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Campina Griekse yoghurt 5% 1kg 2-pack",
@@ -11594,7 +11594,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Quaker Cruesli zero sugar added nuts 4-pack",
@@ -11603,7 +11603,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Lay's Sensations red sweet paprika",
@@ -11639,7 +11639,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Optimel Drinkyoghurt vezels mango ananas 4-pack",
@@ -11702,7 +11702,7 @@
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Melkunie cheesecake framboos yoghurt 4-pack",
@@ -11801,7 +11801,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Optimel Yoghurt bosvruchten 2-pack",
@@ -12053,7 +12053,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Scharrel smokey kipburger 2 stuks 3-pack",
@@ -12098,7 +12098,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Crosta & Mollica Pizzetta margherita 3-pack",
@@ -12134,7 +12134,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Diepvries"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Santa Maria Taco schelpen",
@@ -12161,7 +12161,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Hak Sperziebonen 4-pack",
@@ -12179,7 +12179,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Starbucks Caramel macchiato ijskoffie 6-pack",
@@ -12215,7 +12215,7 @@
       "inhoud_waarde": 570,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Pringles Sour cream & onion 5-pack",
@@ -12242,7 +12242,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "Royal Club Pink grapefruit 0% suiker 6-pack",
@@ -12359,7 +12359,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Gehaktbal plakjes 2-pack",
@@ -12368,7 +12368,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Terra Hummus zongedroogde tomaat 3-pack",
@@ -12386,7 +12386,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Goudse extra belegen 48+ plakken",
@@ -12395,7 +12395,7 @@
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "Melkunie Breaker cheesecake fram. yoghurt 6-pack",
@@ -12404,7 +12404,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Karvan Cévitam Original tropical siroop 3-pack",
@@ -12440,7 +12440,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Ongezouten macadamiamix",
@@ -12449,7 +12449,7 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Karvan Cévitam Zero aardbei siroop 6-pack",
@@ -12485,7 +12485,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Biologisch Rundersoepballetjes 4-pack",
@@ -12494,7 +12494,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Cappelletti prosciutto crudo",
@@ -12953,7 +12953,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "AH Doosje met passievruchtblokjes 2-pack",
@@ -12962,7 +12962,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Twix Karamel cookie ice bar",
@@ -12971,7 +12971,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Spa Touch bruisend grapefruit 6-pack",
@@ -12989,7 +12989,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Taksi Tropisch fruit 10-pack",
@@ -13097,7 +13097,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Spa Reine Ecopack 5l 3-pack",
@@ -13124,7 +13124,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "AH Biologisch Krokante kipfiletschnitzel 2-pack",
@@ -13259,7 +13259,7 @@
       "inhoud_waarde": 430,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Brand Weizen 0.0 6-pack",
@@ -13529,7 +13529,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Karvan Cévitam Original tropical siroop 6-pack",
@@ -13574,7 +13574,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "AH Verse meloenmix",
@@ -13592,7 +13592,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Hak Worteltjes 4-pack",
@@ -13601,7 +13601,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "AH Roomboter rabarber appeltaartje",
@@ -13655,7 +13655,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Taksi Tropisch fruit 30-pack",
@@ -13682,7 +13682,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "AH Cranberrypate",
@@ -13718,7 +13718,7 @@
       "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
       "geldig_tekst": "13 - 19 jul",
-      "categorie": "Dranken"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Wokgroente Chinees kleinverpakking 2-pck",
@@ -13727,7 +13727,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "AH Kaas pesto dip 3-pack",
@@ -13817,7 +13817,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Diepvries"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "AH Zaanlander Jong belegen 48+ plakken",
@@ -13826,7 +13826,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "6 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Glorix Glorix eucalyptus bleek 2-pack",
@@ -13835,7 +13835,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "12 - 12 jul",
-      "categorie": "Huishouden"
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Zaanlander Jong belegen 48+ plakken 2-pack",
@@ -13907,7 +13907,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Liefmans Liefmans On the rocks 0.0 8-pack",
@@ -13943,7 +13943,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "vanaf 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Liefmans Liefmans On the rocks 0.0 16-pack",
