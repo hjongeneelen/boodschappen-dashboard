@@ -7,7 +7,9 @@ instead of pushing to a Google Sheet.
 
 Two processing modes per store:
   pdf  → download PDF → pdf2image → Vision LLM → parse → JSON export
-  api  → call JSON API directly → parse → JSON export   (AH, Lidl, Dirk)
+  api  → structured JSON API, or a headless-browser DOM read of the store's
+         own deals page, no vision LLM needed either way
+         (Albert Heijn, Lidl, Dirk, Jumbo, Plus, Aldi)
 
 Usage:
   python main.py                                    # all stores, full export
@@ -29,15 +31,17 @@ from openai import OpenAI
 
 from config import settings
 from modules.ah_connector import fetch_ah_deals
+from modules.aldi_connector import fetch_aldi_deals
 from modules.converter import pdf_to_images
 from modules.dirk_connector import fetch_dirk_deals
 from modules.downloader import download_pdf
 from modules.exporter import export_store
+from modules.jumbo_connector import fetch_jumbo_deals
 from modules.lidl_connector import fetch_lidl_deals
 from modules.llm_connector import extract_deals_from_image, get_llm_client
 from modules.models import DealItem
 from modules.parser import parse_llm_response
-from scrapers.aldi import AldiScraper
+from modules.plus_connector import fetch_plus_deals
 from scrapers.base import BaseScraper
 from scrapers.hoogvliet import HoogvlietScraper
 from scrapers.kruidvat import KruidvatScraper
@@ -105,13 +109,6 @@ STORES: List[StoreConfig] = [
     ),
     # ── Tier B: Publitas API ──────────────────────────────────────────────────
     StoreConfig(
-        name="Jumbo",
-        mode="pdf",
-        env_url=settings.jumbo_pdf_url,
-        scraper=PublitasScraper("Jumbo", "jumbo-supermarkten"),
-        note="Publitas (jumbo-supermarkten)",
-    ),
-    StoreConfig(
         name="Coop",
         mode="pdf",
         env_url=settings.coop_pdf_url,
@@ -142,13 +139,6 @@ STORES: List[StoreConfig] = [
         note="Publitas group ID 91409",
     ),
     StoreConfig(
-        name="Plus",
-        mode="pdf",
-        env_url=settings.plus_pdf_url,
-        scraper=PublitasScraper("Plus", "plus-supermarkt"),
-        note="Publitas — slug unconfirmed, may need PLUS_PDF_URL override",
-    ),
-    StoreConfig(
         name="Dekamarkt",
         mode="pdf",
         env_url=settings.dekamarkt_pdf_url,
@@ -176,15 +166,7 @@ STORES: List[StoreConfig] = [
         scraper=PublitasScraper("Praxis", "10", base_url="https://folder.praxis.nl"),
         note="Publitas custom domain — DIY/hardware",
     ),
-    # ── Tier C: Special cases ─────────────────────────────────────────────────
-    StoreConfig(
-        name="Aldi",
-        mode="pdf",
-        env_url=settings.aldi_pdf_url,
-        scraper=AldiScraper(),
-        note="JS-rendered viewer — set ALDI_PDF_URL manually in .env",
-    ),
-    # ── Structured JSON (no LLM) ──────────────────────────────────────────────
+    # ── Structured (no vision LLM) ────────────────────────────────────────────
     StoreConfig(
         name="Albert Heijn",
         mode="api",
@@ -201,7 +183,25 @@ STORES: List[StoreConfig] = [
         name="Dirk",
         mode="api",
         api_fn=fetch_dirk_deals,
-        note="Offers embedded in the aanbiedingen page's __NUXT_DATA__ payload — structured data, no vision LLM needed",
+        note="Offers embedded in the aanbiedingen page's __NUXT_DATA__ payload — no auth, no vision LLM needed",
+    ),
+    StoreConfig(
+        name="Jumbo",
+        mode="api",
+        api_fn=fetch_jumbo_deals,
+        note="Headless-browser DOM read of jumbo.com/aanbiedingen/nu — API is Akamai-blocked, the page itself isn't",
+    ),
+    StoreConfig(
+        name="Plus",
+        mode="api",
+        api_fn=fetch_plus_deals,
+        note="Headless-browser DOM read of plus.nl/aanbiedingen — no public API found, page renders fine",
+    ),
+    StoreConfig(
+        name="Aldi",
+        mode="api",
+        api_fn=fetch_aldi_deals,
+        note="Headless-browser DOM read of aldi.nl/aanbiedingen.html — legacy API is dead, page renders fine",
     ),
 ]
 

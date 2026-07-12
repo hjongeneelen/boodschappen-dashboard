@@ -1,0 +1,176 @@
+{
+  "store": "Jumbo",
+  "slug": "jumbo",
+  "mode": "api",
+  "updated_at": "2026-07-12T10:07:45.849141+00:00",
+  "deals": [
+    {
+      "productnaam": "Alle Jumbo groene salades",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 6.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Alle snackgroente",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Nederlandse kersen",
+      "korting_tekst": "voor 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Nederlandse aardbeien",
+      "korting_tekst": "voor 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Nectarines of wilde perziken",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Jonagold appels",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Spitskool",
+      "korting_tekst": "voor 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Frambozen",
+      "korting_tekst": "voor 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Avocado",
+      "korting_tekst": "voor 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Rode of blauwe pitloze druiven",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Zoete punt paprika mix",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Bloemkool",
+      "korting_tekst": "voor 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Jumbo verse friet",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Alle Jumbo fruitmixen met dressing",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Alle meloenen",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Verspakket kapsalon, Griekse gehaktschotel of kip Hawaï",
+      "korting_tekst": "voor 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Jumbo ovenschotels",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Jumbo airfryer & oven maaltijden",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Rundergehakt of rundergehakt bio",
+      "korting_tekst": "2 voor 7,00",
+      "actieprijs": 7.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "BBQ",
+      "korting_tekst": "4 voor 10,00",
+      "actieprijs": 10.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Jumbo Zeeuwse bodemmosselen super",
+      "korting_tekst": "voor 6,99",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Alle De Vegetarische Slager vleesvervangers of Oma's vleesvervangers",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Jumbo dorade of zeebaars",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    },
+    {
+      "productnaam": "Alle Jumbo lange cakes",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null
+    }
+  ]
+}

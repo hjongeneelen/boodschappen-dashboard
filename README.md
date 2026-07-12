@@ -20,8 +20,11 @@ by a React dashboard instead of a spreadsheet only you could see.
 │  Python scrapers  │              │ data/*.json        │                     │ (this repo)    │
 └─────────────────┘               └──────────────────┘                     └───────────────┘
         │
-        ├─ api mode  → Albert Heijn, Lidl, Dirk: direct JSON / embedded-payload, no LLM
-        └─ pdf mode  → 15 other retailers: PDF folder → vision LLM (Ollama) → structured JSON
+        ├─ api mode  → Albert Heijn, Lidl, Dirk: direct JSON / embedded page payload
+        ├─ api mode  → Jumbo, Plus, Aldi: headless-browser (Playwright) DOM read of
+        │              the store's own deals page — their APIs are bot-protected,
+        │              the rendered page isn't
+        └─ pdf mode  → 12 other retailers: PDF folder → vision LLM (Ollama) → structured JSON
 ```
 
 - **`backend/`** — Python pipeline that scrapes 18 Dutch retailers' weekly
@@ -31,10 +34,9 @@ by a React dashboard instead of a spreadsheet only you could see.
 - **`frontend/`** — React + TypeScript + Vite site that fetches that JSON and
   renders a searchable, filterable, sortable deal grid. See
   [frontend/README.md](frontend/README.md).
-- **`.github/workflows/update-and-deploy.yml`** — runs daily: re-scrapes
-  Albert Heijn, Lidl, and Dirk (the three stores with a structured, no-LLM
-  data source), commits any changes, builds the frontend, and deploys it to
-  GitHub Pages.
+- **`.github/workflows/update-and-deploy.yml`** — runs daily: re-scrapes the
+  6 structured stores (Albert Heijn, Lidl, Dirk, Jumbo, Plus, Aldi), commits
+  any changes, builds the frontend, and deploys it to GitHub Pages.
 
 ## Data coverage
 
@@ -43,19 +45,28 @@ Not all 18 stores can be automated the same way:
 | Store | Mode | Status |
 |---|---|---|
 | Albert Heijn | `api` | ✅ Automated daily via GitHub Actions (anonymous-token search API, ~1500 live bonus items) |
-| Dirk | `api` | ✅ Automated daily via GitHub Actions (offers embedded in the page's server-rendered payload, no auth needed, ~120 live items) |
+| Aldi | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of aldi.nl — its legacy API is dead, the page isn't; ~195 live items) |
+| Plus | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of plus.nl/aanbiedingen; ~36 live items) |
+| Dirk | `api` | ✅ Automated daily via GitHub Actions (offers embedded in the page's server-rendered payload, no auth needed; ~124 live items) |
+| Jumbo | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of jumbo.com/aanbiedingen/nu — its API is Akamai-blocked, the page isn't; ~24 curated items, not the full folder) |
 | Lidl | `api` | ⚠️ Currently returns 0 — Lidl's public leaflet endpoints are dead; see [backend/README.md](backend/README.md#connector-status) |
-| Hoogvliet, Boni, Poiesz, DA Drogist, Jumbo, Coop, Kruidvat, Etos, Nettorama, Plus, Dekamarkt, Blokker, Gamma, Praxis, Aldi | `pdf` | 🔧 Needs a local run with a vision LLM (Ollama) — not yet run |
+| Hoogvliet, Boni, Poiesz, DA Drogist, Coop, Kruidvat, Etos, Nettorama, Dekamarkt, Blokker, Gamma, Praxis | `pdf` | 🔧 Needs a local run with a vision LLM (Ollama) — not yet run. Auto-discovery of the weekly PDF URL currently fails for all of these (Publitas changed its site since this was written) |
 
 The site handles unscraped stores gracefully (shown muted in the filter bar
-with a "not yet scraped" tooltip) rather than erroring. Running the other 15
+with a "not yet scraped" tooltip) rather than erroring. Running the other 12
 stores locally and committing the resulting JSON is the easiest way to grow
 coverage — see below.
 
-We looked into whether Jumbo, Plus, Coop, Kruidvat, Etos, and Aldi have a
-structured API the way Albert Heijn and Dirk do — none panned out (Akamai/
-Imperva bot protection, decommissioned backends, or JS-only rendering); full
-findings are in [backend/README.md](backend/README.md#connector-status).
+We looked into whether the blocked-API stores have a structured API the way
+Albert Heijn does — for Jumbo, Plus, and Aldi, the API itself is bot-protected
+(Akamai/Imperva) but their own *website* renders just fine for a real
+(headless) browser, so `modules/jumbo_connector.py`, `plus_connector.py`, and
+`aldi_connector.py` use Playwright to render the page and read the deal cards
+straight out of the DOM — no vision/OCR needed, since it's real HTML once
+rendered. Kruidvat and Etos are blocked even for a real headless browser
+(Akamai edge-level); Coop NL's site has been decommissioned entirely
+(redirects to plus.nl). Full findings are in
+[backend/README.md](backend/README.md#connector-status).
 
 ## Local development
 
@@ -64,8 +75,8 @@ findings are in [backend/README.md](backend/README.md#connector-status).
 cd backend
 pip install -r requirements.txt
 cp .env.template .env   # configure LLM endpoint / store URL overrides
-python main.py --stores albert-heijn lidl dirk   # no LLM needed
-python main.py                                     # all 18 stores — needs Ollama running locally for the pdf stores
+python main.py --stores albert-heijn lidl dirk jumbo plus aldi   # no LLM needed
+python main.py                                                     # all 18 stores — needs Ollama running locally for the pdf stores
 ```
 
 **Frontend** (view the dashboard):

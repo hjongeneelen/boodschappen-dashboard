@@ -21,3 +21,7 @@ json-repair==0.28.4
 # HTML scraping for auto PDF URL discovery
 beautifulsoup4==4.12.3
 lxml==5.2.2
+
+# Headless-browser DOM reads for stores whose API is bot-protected but whose
+# own website renders fine (Jumbo, Plus, Aldi) — run `playwright install chromium` once after installing.
+playwright==1.61.0

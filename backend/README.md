@@ -6,13 +6,16 @@ a fork of an earlier Google Sheets–based scraper, with the Sheets upload step
 replaced by a plain JSON exporter (`modules/exporter.py`).
 
 Two processing modes per store:
-- `api` — direct structured JSON API, no LLM (Albert Heijn, Lidl, Dirk)
-- `pdf` — download PDF → pdf2image → vision LLM → parse (15 stores)
+- `api` — structured JSON API, or a headless-browser (Playwright) DOM read of
+  the store's own deals page — no vision LLM needed either way (Albert Heijn,
+  Lidl, Dirk, Jumbo, Plus, Aldi)
+- `pdf` — download PDF → pdf2image → vision LLM → parse (12 stores)
 
 ## Install
 
 ```bash
 pip install -r requirements.txt
+python -m playwright install chromium   # needed for the Jumbo/Plus/Aldi connectors
 ```
 
 **Windows + PDF stores:** `pdf2image` requires Poppler on `PATH`. Download from
@@ -20,8 +23,10 @@ https://github.com/oschwartz10612/poppler-windows/releases, extract, and add
 the `Library/bin` folder to your system `PATH`.
 
 **Vision LLM stores:** install [Ollama](https://ollama.com) and pull a vision
-model, e.g. `ollama pull llava:13b`. The connector talks to Ollama's
-OpenAI-compatible API at `http://localhost:11434/v1` by default.
+model, e.g. `ollama pull llava:13b` (any vision-capable model works — set
+`LLM_MODEL` in `.env` to whatever you have pulled, e.g. `qwen3.5:9b`). The
+connector talks to Ollama's OpenAI-compatible API at `http://localhost:11434/v1`
+by default.
 
 ## Configure
 
@@ -36,11 +41,11 @@ manually pasted URL — see comments in `.env.template`).
 ## Usage
 
 ```bash
-python main.py                                  # all stores, full JSON export
-python main.py --stores jumbo hoogvliet         # only these stores
-python main.py --no-export                      # extract only, skip JSON export
-python main.py --clear-cache                     # force re-download PDFs
-python main.py --list-stores                     # show all configured stores
+python main.py                                       # all stores, full JSON export
+python main.py --stores jumbo hoogvliet              # only these stores
+python main.py --no-export                           # extract only, skip JSON export
+python main.py --clear-cache                          # force re-download PDFs
+python main.py --list-stores                          # show all configured stores
 ```
 
 Each store's deals are exported immediately after processing to
@@ -51,14 +56,17 @@ and other stores' data is never wiped by a partial `--stores` run.
 
 ## Automation notes
 
-- **Albert Heijn, Lidl, and Dirk** (`api` mode) need no LLM and no local
-  machine — fully automatable in CI/a scheduled job (see
+- **Albert Heijn, Lidl, Dirk, Jumbo, Plus, and Aldi** (`api` mode) need no
+  local vision LLM — fully automatable in CI/a scheduled job (see
   `.github/workflows/update-and-deploy.yml` at the repo root, which runs this
-  on a daily cron).
-- **The other 15 stores** (`pdf` mode) need a local vision LLM via Ollama, so
+  on a daily cron). Jumbo/Plus/Aldi specifically need Playwright's Chromium
+  (`python -m playwright install chromium`) since they work by rendering the
+  store's own page with a real headless browser rather than calling an API.
+- **The other 12 stores** (`pdf` mode) need a local vision LLM via Ollama, so
   they must be run locally (or on a machine with Ollama installed) and their
   output JSON committed into `frontend/public/data/` for the static site to
-  pick up.
+  pick up. Auto-discovery of the weekly PDF URL currently fails for all 12 of
+  them (see below) — you'll need to paste a URL manually in `.env` for now.
 
 ## Connector status
 
@@ -71,18 +79,28 @@ and other stores' data is never wiped by a partial `--stores` run.
   directly with a plain GET, no auth needed. (Dirk's GraphQL API also exists
   at `web-gateway.dirk.nl` but returns empty results without a browser
   session — the embedded payload sidesteps that.)
+- **Jumbo, Plus, Aldi**: work, via a different technique than the others.
+  Their APIs/backends are bot-protected (Akamai/Imperva — see below), but
+  their consumer-facing deals pages render completely normally for a real
+  browser; the blocking is on the API traffic pattern, not on loading the
+  page. `modules/jumbo_connector.py`, `plus_connector.py`, and
+  `aldi_connector.py` each launch headless Chromium via Playwright, load the
+  store's own `/aanbiedingen` page, dismiss the cookie banner where present,
+  and read the deal cards straight out of the rendered DOM (`page.locator(...)`
+  + `.inner_text()`) — no OCR/vision model involved, since it's real HTML once
+  rendered. Note Jumbo's page is a curated "highlights" listing (~24 items),
+  not its full weekly folder.
 - **Lidl**: currently returns 0 deals — every candidate endpoint in
   `modules/lidl_connector.py` is dead (DNS failures / 404s) as of 2026-07.
-  Lidl no longer appears to expose a public leaflet API; fixing this needs a
-  fresh capture of real traffic from the Lidl Plus app. Until then, treat Lidl
-  like the vision-LLM stores.
-- **Other stores investigated (Jumbo, Plus, Coop, Kruidvat, Etos, Aldi)**: no
-  usable public API found. Jumbo/Kruidvat are behind Akamai Bot Manager
-  (requires real browser JS-challenge solving, not a plain `requests` call).
-  Plus is behind an Imperva WAF and its OutSystems frontend only reveals the
-  offers-screen API call after client-side JS execution. Coop NL's own site
-  has been decommissioned (redirects to plus.nl — Coop NL was acquired by
-  Plus Retail). Etos sits behind Akamai too, and is not registered as an
-  application on AH's shared `api.ah.nl` backend despite being an Ahold
-  Delhaize brand. Aldi's legacy REST API (`webservice.aldi.nl`) responds but
-  returns empty payloads. All of these remain on the PDF + vision-LLM path.
+  Lidl no longer appears to expose a public leaflet API, and (unlike Jumbo/
+  Plus/Aldi) it has no single obvious own-site deals page to render instead;
+  fixing this needs a fresh capture of real traffic from the Lidl Plus app.
+  Until then, treat Lidl like the vision-LLM stores.
+- **Coop, Kruidvat, Etos investigated, no automated path found**: Coop NL's
+  own site has been decommissioned (redirects to plus.nl — Coop NL was
+  acquired by Plus Retail), so there's no page left to render. Kruidvat and
+  Etos are blocked by Akamai Bot Manager even for a real headless browser
+  (unlike Jumbo/Plus/Aldi, which only blocked the raw API) — getting past
+  that would mean specifically working around bot detection rather than just
+  rendering a public page normally, which we're deliberately not pursuing.
+  All three remain on the PDF + vision-LLM path.

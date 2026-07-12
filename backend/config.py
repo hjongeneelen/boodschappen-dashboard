@@ -30,21 +30,17 @@ class Settings(BaseSettings):
     da_drogist_pdf_url: Optional[str] = Field(default=None)
 
     # ── Tier B: Publitas API discovery (set if auto-discovery fails) ─────────
-    jumbo_pdf_url: Optional[str] = Field(default=None)
     coop_pdf_url: Optional[str] = Field(default=None)
     kruidvat_pdf_url: Optional[str] = Field(default=None)
     etos_pdf_url: Optional[str] = Field(default=None)
     nettorama_pdf_url: Optional[str] = Field(default=None)
-    plus_pdf_url: Optional[str] = Field(default=None)
     dekamarkt_pdf_url: Optional[str] = Field(default=None)
     blokker_pdf_url: Optional[str] = Field(default=None)
     gamma_pdf_url: Optional[str] = Field(default=None)
     praxis_pdf_url: Optional[str] = Field(default=None)
 
-    # ── Tier C: Must be set manually (JS-rendered, no PDF) ───────────────────
-    aldi_pdf_url: Optional[str] = Field(default=None)
-    # Dirk has no PDF — uses direct JPG images; no URL field needed
-    # Albert Heijn and Lidl use JSON API connectors; no URL field needed
+    # Albert Heijn, Lidl, Dirk, Jumbo, Plus, and Aldi use structured connectors
+    # (API or headless-browser DOM read) — no PDF URL setting needed for any of them.
 
 
 settings = Settings()
