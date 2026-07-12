@@ -85,11 +85,22 @@ and other stores' data is never wiped by a partial `--stores` run.
   browser; the blocking is on the API traffic pattern, not on loading the
   page. `modules/jumbo_connector.py`, `plus_connector.py`, and
   `aldi_connector.py` each launch headless Chromium via Playwright, load the
-  store's own `/aanbiedingen` page, dismiss the cookie banner where present,
-  and read the deal cards straight out of the rendered DOM (`page.locator(...)`
-  + `.inner_text()`) — no OCR/vision model involved, since it's real HTML once
-  rendered. Note Jumbo's page is a curated "highlights" listing (~24 items),
-  not its full weekly folder.
+  store's own page, dismiss the cookie banner where present, and read the
+  deal cards straight out of the rendered DOM (`page.locator(...)` +
+  `.inner_text()`) — no OCR/vision model involved, since it's real HTML once
+  rendered.
+  - Aldi (195 items) and Plus (36 items) return everything their own
+    `/aanbiedingen` page shows — confirmed by aggressive scrolling that no
+    more cards load.
+  - Jumbo reads `/producten/alle-aanbiedingen/` (the "Alle aanbiedingen"
+    catalog filter, richer per-item data than the `/aanbiedingen/nu`
+    highlights page) but only its first page (~24 of the ~1300 items the
+    site claims). Its pagination turned out to be a dead end for a headless
+    browser: neither navigating `?page=N` directly nor clicking the page-N
+    button (even with a realistic mouse move + down/up) changes the
+    rendered results or fires a request — the app silently no-ops it. That
+    smells like it's specifically gating scripted interaction, so we didn't
+    push further into working around it.
 - **Lidl**: currently returns 0 deals — every candidate endpoint in
   `modules/lidl_connector.py` is dead (DNS failures / 404s) as of 2026-07.
   Lidl no longer appears to expose a public leaflet API, and (unlike Jumbo/

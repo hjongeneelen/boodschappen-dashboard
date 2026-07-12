@@ -48,7 +48,7 @@ Not all 18 stores can be automated the same way:
 | Aldi | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of aldi.nl — its legacy API is dead, the page isn't; ~195 live items) |
 | Plus | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of plus.nl/aanbiedingen; ~36 live items) |
 | Dirk | `api` | ✅ Automated daily via GitHub Actions (offers embedded in the page's server-rendered payload, no auth needed; ~124 live items) |
-| Jumbo | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of jumbo.com/aanbiedingen/nu — its API is Akamai-blocked, the page isn't; ~24 curated items, not the full folder) |
+| Jumbo | `api` | ✅ Automated daily via GitHub Actions (headless-browser DOM read of jumbo.com's "alle aanbiedingen" catalog — its API is Akamai-blocked, the page isn't; ~24 of ~1300 items, since its pagination doesn't respond to a headless browser — see [backend/README.md](backend/README.md#connector-status)) |
 | Lidl | `api` | ⚠️ Currently returns 0 — Lidl's public leaflet endpoints are dead; see [backend/README.md](backend/README.md#connector-status) |
 | Hoogvliet, Boni, Poiesz, DA Drogist, Coop, Kruidvat, Etos, Nettorama, Dekamarkt, Blokker, Gamma, Praxis | `pdf` | 🔧 Needs a local run with a vision LLM (Ollama) — not yet run. Auto-discovery of the weekly PDF URL currently fails for all of these (Publitas changed its site since this was written) |
 

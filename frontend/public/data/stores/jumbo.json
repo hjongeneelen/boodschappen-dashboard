@@ -2,175 +2,175 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-12T10:07:45.849141+00:00",
+  "updated_at": "2026-07-12T10:43:45.116042+00:00",
   "deals": [
     {
-      "productnaam": "Alle Jumbo groene salades",
-      "korting_tekst": "2 voor 6,00",
-      "actieprijs": 6.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
+      "productnaam": "Hertog Jan - Pils - Krat - 24 x 300ML",
+      "korting_tekst": null,
+      "actieprijs": 21.32,
+      "inhoud_waarde": 7200,
+      "inhoud_unit": "ml"
     },
     {
-      "productnaam": "Alle snackgroente",
+      "productnaam": "Jumbo Aardbeien Hollands 400 g",
+      "korting_tekst": "voor 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram"
+    },
+    {
+      "productnaam": "Heineken Premium Pilsener Bier Fles Krat 24 x 300ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": 14.99,
+      "inhoud_waarde": 7200,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Grolsch - Pils - Krat - 24 x 300ML",
+      "korting_tekst": null,
+      "actieprijs": 19.29,
+      "inhoud_waarde": 7200,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Jumbo Jonagold Appels Voordeelverpakking 1,5 kg",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram"
+    },
+    {
+      "productnaam": "Jumbo Snackgroente Tomaatjes 500 g",
       "korting_tekst": "2 voor 4,00",
-      "actieprijs": 4.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Nederlandse kersen",
-      "korting_tekst": "voor 2,99",
       "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram"
+    },
+    {
+      "productnaam": "Jumbo Druiven Rood/Blauw Pitloos 500 g",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram"
+    },
+    {
+      "productnaam": "Coca-Cola Original Taste 5+1 Gratis PET Fles 6 x 1,5 L",
+      "korting_tekst": "5+1 gratis",
+      "actieprijs": 12.45,
+      "inhoud_waarde": 9000,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Jumbo Galia Meloen",
+      "korting_tekst": "25% korting",
+      "actieprijs": 2.09,
       "inhoud_waarde": null,
       "inhoud_unit": null
     },
     {
-      "productnaam": "Nederlandse aardbeien",
+      "productnaam": "Jupiler - Belgisch Pils - Krat - 24 x 250ML",
+      "korting_tekst": null,
+      "actieprijs": 20.49,
+      "inhoud_waarde": 6000,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Coca-Cola Zero Sugar 5+1 Gratis 6 x 1,5 L",
+      "korting_tekst": "5+1 gratis",
+      "actieprijs": 12.45,
+      "inhoud_waarde": 9000,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Coca-Cola Original Taste 10+2 Gratis 12 x 250 ml",
+      "korting_tekst": "10+2 gratis",
+      "actieprijs": 6.39,
+      "inhoud_waarde": 3000,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Lipton Ice Tea Green 24 x 250 ml",
+      "korting_tekst": "Alleen online\n15% korting",
+      "actieprijs": 18.15,
+      "inhoud_waarde": 6000,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Ola IJs Raket 12 stuks 12 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": 2.88,
+      "inhoud_waarde": 660,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Coca-Cola Zero Sugar 10+2 Gratis 12 x 250 ml",
+      "korting_tekst": "10+2 gratis",
+      "actieprijs": 5.89,
+      "inhoud_waarde": 3000,
+      "inhoud_unit": "ml"
+    },
+    {
+      "productnaam": "Jumbo Avocado Eetrijp 2 Stuks",
       "korting_tekst": "voor 2,49",
       "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null
     },
     {
-      "productnaam": "Nectarines of wilde perziken",
+      "productnaam": "Jumbo Nectarines Geelvlezig 1KG",
       "korting_tekst": "voor 1,99",
       "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram"
     },
     {
-      "productnaam": "Jonagold appels",
-      "korting_tekst": "voor 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
+      "productnaam": "Heineken Premium Pilsener Bier Blik 24 x 330ml Tray",
+      "korting_tekst": "Alleen online\nvoor 19,99",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 7920,
+      "inhoud_unit": "ml"
     },
     {
-      "productnaam": "Spitskool",
-      "korting_tekst": "voor 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Frambozen",
-      "korting_tekst": "voor 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Avocado",
-      "korting_tekst": "voor 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Rode of blauwe pitloze druiven",
-      "korting_tekst": "voor 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Zoete punt paprika mix",
-      "korting_tekst": "voor 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Bloemkool",
-      "korting_tekst": "voor 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Jumbo verse friet",
-      "korting_tekst": "voor 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Alle Jumbo fruitmixen met dressing",
+      "productnaam": "Jumbo Watermeloen",
       "korting_tekst": "25% korting",
-      "actieprijs": null,
+      "actieprijs": 4.49,
       "inhoud_waarde": null,
       "inhoud_unit": null
     },
     {
-      "productnaam": "Alle meloenen",
+      "productnaam": "Jumbo Snackgroente Komkommertjes 400 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram"
+    },
+    {
+      "productnaam": "Jumbo Mini Watermeloen 1 Stuk",
       "korting_tekst": "25% korting",
-      "actieprijs": null,
+      "actieprijs": 2.84,
       "inhoud_waarde": null,
       "inhoud_unit": null
     },
     {
-      "productnaam": "Verspakket kapsalon, Griekse gehaktschotel of kip Hawaï",
-      "korting_tekst": "voor 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Jumbo ovenschotels",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Jumbo airfryer & oven maaltijden",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Rundergehakt of rundergehakt bio",
+      "productnaam": "Jumbo Rundergehakt 300 g",
       "korting_tekst": "2 voor 7,00",
-      "actieprijs": 7.0,
+      "actieprijs": 4.25,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram"
+    },
+    {
+      "productnaam": "Jumbo Bloemkool",
+      "korting_tekst": "voor 1,49",
+      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null
     },
     {
-      "productnaam": "BBQ",
-      "korting_tekst": "4 voor 10,00",
-      "actieprijs": 10.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Jumbo Zeeuwse bodemmosselen super",
-      "korting_tekst": "voor 6,99",
-      "actieprijs": 6.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Alle De Vegetarische Slager vleesvervangers of Oma's vleesvervangers",
-      "korting_tekst": "2+1 gratis",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Jumbo dorade of zeebaars",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
-    },
-    {
-      "productnaam": "Alle Jumbo lange cakes",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null
+      "productnaam": "Hertog Jan - Pilsener - Tray - 24 x 330ML",
+      "korting_tekst": "Alleen online\nvoor 23,99",
+      "actieprijs": 23.99,
+      "inhoud_waarde": 7920,
+      "inhoud_unit": "ml"
     }
   ]
 }
