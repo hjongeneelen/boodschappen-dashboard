@@ -1,0 +1,22 @@
+# Python (backend)
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/logs/
+backend/cache/
+backend/.env
+backend/credentials.json
+
+# Node (frontend) — frontend/ has its own .gitignore for node_modules/dist,
+# but keep root-level rules too in case commands are ever run from repo root
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Editors / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

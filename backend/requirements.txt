@@ -1,0 +1,23 @@
+# Core settings / validation
+requests==2.32.3
+python-dotenv==1.0.1
+pydantic==2.7.4
+pydantic-settings==2.3.4
+
+# PDF processing
+# !! pdf2image requires Poppler to be installed separately on Windows !!
+# Download from: https://github.com/oschwartz10612/poppler-windows/releases
+# Extract the zip and add the 'Library/bin' folder to your system PATH.
+pdf2image==1.17.0
+Pillow==10.4.0
+
+# Local LLM connector (OpenAI-compatible API)
+openai==1.35.7
+tenacity==8.4.1
+
+# Robust JSON repair for LLM output quirks (markdown fences, trailing commas, etc.)
+json-repair==0.28.4
+
+# HTML scraping for auto PDF URL discovery
+beautifulsoup4==4.12.3
+lxml==5.2.2

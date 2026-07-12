@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-07-12T09:13:18.715285+00:00",
+  "stores": [
+    {
+      "slug": "jumbo",
+      "name": "Jumbo",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "aldi",
+      "name": "Aldi",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "jpg",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "hoogvliet",
+      "name": "Hoogvliet",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "boni",
+      "name": "Boni",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "poiesz",
+      "name": "Poiesz",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "da-drogist",
+      "name": "DA Drogist",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "coop",
+      "name": "Coop",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "kruidvat",
+      "name": "Kruidvat",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "etos",
+      "name": "Etos",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "nettorama",
+      "name": "Nettorama",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "plus",
+      "name": "Plus",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "dekamarkt",
+      "name": "Dekamarkt",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "blokker",
+      "name": "Blokker",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "gamma",
+      "name": "Gamma",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "praxis",
+      "name": "Praxis",
+      "mode": "pdf",
+      "deal_count": 0,
+      "updated_at": null
+    },
+    {
+      "slug": "albert-heijn",
+      "name": "Albert Heijn",
+      "mode": "api",
+      "deal_count": 1551,
+      "updated_at": "2026-07-12T09:12:36.407064+00:00"
+    },
+    {
+      "slug": "lidl",
+      "name": "Lidl",
+      "mode": "api",
+      "deal_count": 0,
+      "updated_at": "2026-07-12T09:13:18.706208+00:00"
+    }
+  ]
+}
