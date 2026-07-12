@@ -5,10 +5,9 @@ into `frontend/public/data/` for the static dashboard site to consume. This is
 a fork of an earlier Google Sheets–based scraper, with the Sheets upload step
 replaced by a plain JSON exporter (`modules/exporter.py`).
 
-Three processing modes per store:
-- `api` — direct structured JSON API, no LLM (Albert Heijn, Lidl)
-- `pdf` — download PDF → pdf2image → vision LLM → parse (14 stores)
-- `jpg` — scrape direct JPEG pages → vision LLM → parse (Dirk)
+Two processing modes per store:
+- `api` — direct structured JSON API, no LLM (Albert Heijn, Lidl, Dirk)
+- `pdf` — download PDF → pdf2image → vision LLM → parse (15 stores)
 
 ## Install
 
@@ -52,21 +51,38 @@ and other stores' data is never wiped by a partial `--stores` run.
 
 ## Automation notes
 
-- **Albert Heijn and Lidl** (`api` mode) need no LLM and no local machine —
-  fully automatable in CI/a scheduled job (see `.github/workflows/update-and-deploy.yml`
-  at the repo root, which runs this on a daily cron).
-- **The other 16 stores** (`pdf`/`jpg` mode) need a local vision LLM via
-  Ollama, so they must be run locally (or on a machine with Ollama installed)
-  and their output JSON committed into `frontend/public/data/` for the static
-  site to pick up.
+- **Albert Heijn, Lidl, and Dirk** (`api` mode) need no LLM and no local
+  machine — fully automatable in CI/a scheduled job (see
+  `.github/workflows/update-and-deploy.yml` at the repo root, which runs this
+  on a daily cron).
+- **The other 15 stores** (`pdf` mode) need a local vision LLM via Ollama, so
+  they must be run locally (or on a machine with Ollama installed) and their
+  output JSON committed into `frontend/public/data/` for the static site to
+  pick up.
 
 ## Connector status
 
 - **Albert Heijn**: works. AH's product-search API requires a short-lived
   anonymous bearer token (fetched automatically); the connector pages through
   search results and keeps items carrying bonus fields. No API key needed.
+- **Dirk**: works. Dirk's `aanbiedingen` page is server-rendered (Nuxt) with
+  the full current-offers dataset embedded in the page's `__NUXT_DATA__`
+  payload — `modules/dirk_connector.py` decodes that devalue-style payload
+  directly with a plain GET, no auth needed. (Dirk's GraphQL API also exists
+  at `web-gateway.dirk.nl` but returns empty results without a browser
+  session — the embedded payload sidesteps that.)
 - **Lidl**: currently returns 0 deals — every candidate endpoint in
   `modules/lidl_connector.py` is dead (DNS failures / 404s) as of 2026-07.
   Lidl no longer appears to expose a public leaflet API; fixing this needs a
   fresh capture of real traffic from the Lidl Plus app. Until then, treat Lidl
   like the vision-LLM stores.
+- **Other stores investigated (Jumbo, Plus, Coop, Kruidvat, Etos, Aldi)**: no
+  usable public API found. Jumbo/Kruidvat are behind Akamai Bot Manager
+  (requires real browser JS-challenge solving, not a plain `requests` call).
+  Plus is behind an Imperva WAF and its OutSystems frontend only reveals the
+  offers-screen API call after client-side JS execution. Coop NL's own site
+  has been decommissioned (redirects to plus.nl — Coop NL was acquired by
+  Plus Retail). Etos sits behind Akamai too, and is not registered as an
+  application on AH's shared `api.ah.nl` backend despite being an Ahold
+  Delhaize brand. Aldi's legacy REST API (`webservice.aldi.nl`) responds but
+  returns empty payloads. All of these remain on the PDF + vision-LLM path.

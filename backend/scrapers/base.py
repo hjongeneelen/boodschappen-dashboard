@@ -1,6 +1,6 @@
 import logging
 from abc import ABC
-from typing import List, Optional
+from typing import Optional
 
 import requests
 
@@ -23,13 +23,6 @@ class BaseScraper(ABC):
         """
         Attempt to find the current week's PDF URL.
         Override in subclasses. Returns None if not applicable or on failure.
-        """
-        return None
-
-    def discover_jpg_urls(self) -> Optional[List[str]]:
-        """
-        For stores that serve pages as individual images rather than a PDF.
-        Override in subclasses. Returns None if not applicable.
         """
         return None
 

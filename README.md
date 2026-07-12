@@ -20,8 +20,8 @@ by a React dashboard instead of a spreadsheet only you could see.
 │  Python scrapers  │              │ data/*.json        │                     │ (this repo)    │
 └─────────────────┘               └──────────────────┘                     └───────────────┘
         │
-        ├─ api mode  → Albert Heijn, Lidl: direct JSON APIs, no LLM
-        └─ pdf/jpg   → 16 other retailers: PDF/JPEG folder → vision LLM (Ollama) → structured JSON
+        ├─ api mode  → Albert Heijn, Lidl, Dirk: direct JSON / embedded-payload, no LLM
+        └─ pdf mode  → 15 other retailers: PDF folder → vision LLM (Ollama) → structured JSON
 ```
 
 - **`backend/`** — Python pipeline that scrapes 18 Dutch retailers' weekly
@@ -32,8 +32,9 @@ by a React dashboard instead of a spreadsheet only you could see.
   renders a searchable, filterable, sortable deal grid. See
   [frontend/README.md](frontend/README.md).
 - **`.github/workflows/update-and-deploy.yml`** — runs daily: re-scrapes
-  Albert Heijn + Lidl (the two stores with a structured, no-LLM API), commits
-  any changes, builds the frontend, and deploys it to GitHub Pages.
+  Albert Heijn, Lidl, and Dirk (the three stores with a structured, no-LLM
+  data source), commits any changes, builds the frontend, and deploys it to
+  GitHub Pages.
 
 ## Data coverage
 
@@ -42,14 +43,19 @@ Not all 18 stores can be automated the same way:
 | Store | Mode | Status |
 |---|---|---|
 | Albert Heijn | `api` | ✅ Automated daily via GitHub Actions (anonymous-token search API, ~1500 live bonus items) |
+| Dirk | `api` | ✅ Automated daily via GitHub Actions (offers embedded in the page's server-rendered payload, no auth needed, ~120 live items) |
 | Lidl | `api` | ⚠️ Currently returns 0 — Lidl's public leaflet endpoints are dead; see [backend/README.md](backend/README.md#connector-status) |
 | Hoogvliet, Boni, Poiesz, DA Drogist, Jumbo, Coop, Kruidvat, Etos, Nettorama, Plus, Dekamarkt, Blokker, Gamma, Praxis, Aldi | `pdf` | 🔧 Needs a local run with a vision LLM (Ollama) — not yet run |
-| Dirk | `jpg` | 🔧 Needs a local run with a vision LLM (Ollama) — not yet run |
 
 The site handles unscraped stores gracefully (shown muted in the filter bar
-with a "not yet scraped" tooltip) rather than erroring. Running the other 16
+with a "not yet scraped" tooltip) rather than erroring. Running the other 15
 stores locally and committing the resulting JSON is the easiest way to grow
 coverage — see below.
+
+We looked into whether Jumbo, Plus, Coop, Kruidvat, Etos, and Aldi have a
+structured API the way Albert Heijn and Dirk do — none panned out (Akamai/
+Imperva bot protection, decommissioned backends, or JS-only rendering); full
+findings are in [backend/README.md](backend/README.md#connector-status).
 
 ## Local development
 
@@ -58,8 +64,8 @@ coverage — see below.
 cd backend
 pip install -r requirements.txt
 cp .env.template .env   # configure LLM endpoint / store URL overrides
-python main.py --stores albert-heijn lidl   # no LLM needed
-python main.py                                # all 18 stores — needs Ollama running locally for the pdf/jpg stores
+python main.py --stores albert-heijn lidl dirk   # no LLM needed
+python main.py                                     # all 18 stores — needs Ollama running locally for the pdf stores
 ```
 
 **Frontend** (view the dashboard):

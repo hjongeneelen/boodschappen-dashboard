@@ -45,7 +45,7 @@ jobs:
 
       - name: Run structured-API scrapers (no LLM needed)
         working-directory: backend
-        run: python main.py --stores albert-heijn lidl
+        run: python main.py --stores albert-heijn lidl dirk
 
       - name: Commit updated data
         run: |

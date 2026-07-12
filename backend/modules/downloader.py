@@ -1,11 +1,9 @@
 import hashlib
-import io
 import logging
 from pathlib import Path
-from typing import List, Optional
+from typing import Optional
 
 import requests
-from PIL import Image
 
 from config import settings
 
@@ -65,23 +63,3 @@ def download_pdf(url: str, store_name: str) -> Optional[Path]:
         logger.error(f"[{store_name}] Download error: {e}")
 
     return None
-
-
-def download_images_from_urls(urls: List[str], store_name: str) -> List[Image.Image]:
-    """
-    Download a list of image URLs and return them as PIL Images.
-    Used for stores that serve pages as individual JPEGs (e.g. Dirk).
-    Failed pages are skipped with a warning so the pipeline continues.
-    """
-    images: List[Image.Image] = []
-    for i, url in enumerate(urls[: settings.max_pages_per_pdf], start=1):
-        try:
-            resp = requests.get(url, headers=_HEADERS, timeout=30)
-            resp.raise_for_status()
-            img = Image.open(io.BytesIO(resp.content))
-            img.load()  # force decode so bad images raise here, not later
-            images.append(img)
-            logger.info(f"[{store_name}] Downloaded image {i}/{min(len(urls), settings.max_pages_per_pdf)}")
-        except Exception as e:
-            logger.warning(f"[{store_name}] Image {i} ({url}) failed: {e}")
-    return images

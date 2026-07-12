@@ -5,10 +5,9 @@ Pulls weekly folder deals from 18 Dutch retailers, extracts structured data,
 and exports it as JSON for the static dashboard site (frontend/public/data/)
 instead of pushing to a Google Sheet.
 
-Three processing modes per store:
+Two processing modes per store:
   pdf  → download PDF → pdf2image → Vision LLM → parse → JSON export
-  jpg  → scrape direct JPEG pages → Vision LLM → parse → JSON export  (Dirk)
-  api  → call JSON API directly → parse → JSON export                  (AH, Lidl)
+  api  → call JSON API directly → parse → JSON export   (AH, Lidl, Dirk)
 
 Usage:
   python main.py                                    # all stores, full export
@@ -31,7 +30,8 @@ from openai import OpenAI
 from config import settings
 from modules.ah_connector import fetch_ah_deals
 from modules.converter import pdf_to_images
-from modules.downloader import download_images_from_urls, download_pdf
+from modules.dirk_connector import fetch_dirk_deals
+from modules.downloader import download_pdf
 from modules.exporter import export_store
 from modules.lidl_connector import fetch_lidl_deals
 from modules.llm_connector import extract_deals_from_image, get_llm_client
@@ -39,7 +39,6 @@ from modules.models import DealItem
 from modules.parser import parse_llm_response
 from scrapers.aldi import AldiScraper
 from scrapers.base import BaseScraper
-from scrapers.dirk import DirkScraper
 from scrapers.hoogvliet import HoogvlietScraper
 from scrapers.kruidvat import KruidvatScraper
 from scrapers.publitas import PublitasScraper
@@ -64,8 +63,8 @@ logger = logging.getLogger(__name__)
 @dataclass
 class StoreConfig:
     name: str
-    mode: Literal["pdf", "jpg", "api"]
-    # For pdf/jpg modes: optional manual URL override, optional scraper
+    mode: Literal["pdf", "api"]
+    # For pdf mode: optional manual URL override, optional scraper
     env_url: Optional[str] = None
     scraper: Optional[BaseScraper] = None
     # For api mode: callable that returns deals directly
@@ -117,7 +116,9 @@ STORES: List[StoreConfig] = [
         mode="pdf",
         env_url=settings.coop_pdf_url,
         scraper=PublitasScraper("Coop", "coop-supermarkten"),
-        note="Publitas (coop-supermarkten) — full + Compact folder",
+        note="Publitas (coop-supermarkten) — full + Compact folder. "
+             "Coop NL's own site now redirects to plus.nl (acquired by Plus Retail); "
+             "this folder may stop updating at some point.",
     ),
     StoreConfig(
         name="Kruidvat",
@@ -177,12 +178,6 @@ STORES: List[StoreConfig] = [
     ),
     # ── Tier C: Special cases ─────────────────────────────────────────────────
     StoreConfig(
-        name="Dirk",
-        mode="jpg",
-        scraper=DirkScraper(),
-        note="No PDF — scrapes direct JPEGs from web-fileserver.dirk.nl",
-    ),
-    StoreConfig(
         name="Aldi",
         mode="pdf",
         env_url=settings.aldi_pdf_url,
@@ -194,13 +189,19 @@ STORES: List[StoreConfig] = [
         name="Albert Heijn",
         mode="api",
         api_fn=fetch_ah_deals,
-        note="Mobile API — structured data, no vision LLM needed",
+        note="Mobile API (anonymous token) — structured data, no vision LLM needed",
     ),
     StoreConfig(
         name="Lidl",
         mode="api",
         api_fn=fetch_lidl_deals,
-        note="Schwarz CDN API — structured data, no vision LLM needed",
+        note="Schwarz CDN API — currently dead, see backend/README.md",
+    ),
+    StoreConfig(
+        name="Dirk",
+        mode="api",
+        api_fn=fetch_dirk_deals,
+        note="Offers embedded in the aanbiedingen page's __NUXT_DATA__ payload — structured data, no vision LLM needed",
     ),
 ]
 
@@ -234,18 +235,6 @@ def _run_store(store: StoreConfig, client: Optional[OpenAI]) -> List[DealItem]:
     if store.mode == "api":
         assert store.api_fn is not None
         return store.api_fn()
-
-    # ── JPG mode: direct image URLs ───────────────────────────────────────────
-    if store.mode == "jpg":
-        assert store.scraper is not None
-        urls = store.scraper.discover_jpg_urls()
-        if not urls:
-            logger.warning(f"[{store.name}] No image URLs found — skipping.")
-            return []
-        images = download_images_from_urls(urls, store.name)
-        if not images:
-            return []
-        return _process_via_llm(images, store.name, client)
 
     # ── PDF mode ──────────────────────────────────────────────────────────────
     pdf_url = store.env_url
@@ -329,8 +318,8 @@ def main() -> None:
     else:
         active_stores = STORES
 
-    # Only initialise the LLM client if we have at least one pdf/jpg store
-    needs_llm = any(s.mode in ("pdf", "jpg") for s in active_stores)
+    # Only initialise the LLM client if we have at least one pdf store
+    needs_llm = any(s.mode == "pdf" for s in active_stores)
     client = get_llm_client() if needs_llm else None
 
     logger.info("═" * 64)

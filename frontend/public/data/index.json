@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T09:13:18.715285+00:00",
+  "generated_at": "2026-07-12T09:40:51.807384+00:00",
   "stores": [
     {
       "slug": "jumbo",
@@ -12,13 +12,6 @@
       "slug": "aldi",
       "name": "Aldi",
       "mode": "pdf",
-      "deal_count": 0,
-      "updated_at": null
-    },
-    {
-      "slug": "dirk",
-      "name": "Dirk",
-      "mode": "jpg",
       "deal_count": 0,
       "updated_at": null
     },
@@ -118,14 +111,21 @@
       "name": "Albert Heijn",
       "mode": "api",
       "deal_count": 1551,
-      "updated_at": "2026-07-12T09:12:36.407064+00:00"
+      "updated_at": "2026-07-12T09:40:08.903101+00:00"
     },
     {
       "slug": "lidl",
       "name": "Lidl",
       "mode": "api",
       "deal_count": 0,
-      "updated_at": "2026-07-12T09:13:18.706208+00:00"
+      "updated_at": "2026-07-12T09:40:51.230309+00:00"
+    },
+    {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "api",
+      "deal_count": 124,
+      "updated_at": "2026-07-12T09:40:51.799732+00:00"
     }
   ]
 }
