@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-13T08:49:58.834381+00:00",
+  "updated_at": "2026-07-14T07:48:13.265970+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -599,6 +599,15 @@
       "categorie": "Snacks & Snoep"
     },
     {
+      "productnaam": "Verpakking met vier verse runderworstjes (saucijzen) van 400g.",
+      "korting_tekst": "Actieprijzen variëren van €2.",
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
       "productnaam": "Beter Leven varkensworst in een verpakking.",
       "korting_tekst": "Actieprijzen variëren van €2.",
       "actieprijs": null,
@@ -880,7 +889,7 @@
     {
       "productnaam": "Hollandse kersen",
       "korting_tekst": null,
-      "actieprijs": 3.49,
+      "actieprijs": 2.79,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
@@ -1024,7 +1033,7 @@
     {
       "productnaam": "Saskia Bronwater",
       "korting_tekst": null,
-      "actieprijs": 1.75,
+      "actieprijs": 1.39,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
@@ -1596,78 +1605,6 @@
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
       "categorie": null
-    },
-    {
-      "productnaam": "Speklapjes",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdijfilet",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Braadworsten",
-      "korting_tekst": null,
-      "actieprijs": 4.19,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Spekburger",
-      "korting_tekst": null,
-      "actieprijs": 2.02,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Procureur gekruid",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Zigeunergehaktschnitzels",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Knakworsten XXL",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 480,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Zalmspiesen gemarineerd",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Zonnebloemen",
