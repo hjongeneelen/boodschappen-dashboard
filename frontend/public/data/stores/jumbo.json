@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-15T07:57:13.541234+00:00",
+  "updated_at": "2026-07-16T08:02:30.836101+00:00",
   "deals": [
     {
       "productnaam": "Nederlandse aardbeien",
@@ -990,15 +990,6 @@
       "korting_tekst": "2e halve prijs",
       "actieprijs": 2.49,
       "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo 15 t/m di 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo's Labneh met Sinaasappelsmaak en Basilicumolie 125 g",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo 15 t/m di 21 jul",
       "categorie": null
@@ -4616,6 +4607,15 @@
       "productnaam": "Ariel Wasmiddel +Zwart Bescherming, 25 Wasbeurten",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 20.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel All-in-1 Pods Wasmiddel Original 15 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 13.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 15 t/m di 28 jul",
