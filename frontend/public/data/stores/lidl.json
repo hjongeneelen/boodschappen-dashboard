@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-16T07:56:57.386950+00:00",
+  "updated_at": "2026-07-17T07:54:05.418599+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -25,7 +25,7 @@
     {
       "productnaam": "CAMPINA Langlekker volle of halfvolle melk",
       "korting_tekst": null,
-      "actieprijs": 0.85,
+      "actieprijs": 0.75,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
@@ -896,6 +896,42 @@
       "categorie": "Groente & Fruit"
     },
     {
+      "productnaam": "Tricolor kluitsla",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Slamelange",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Krieltjes naturel",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Schnittbroodje",
+      "korting_tekst": null,
+      "actieprijs": 0.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
       "productnaam": "Rozijnen krentenbollen",
       "korting_tekst": null,
       "actieprijs": 1.19,
@@ -925,7 +961,7 @@
     {
       "productnaam": "Appelflap",
       "korting_tekst": null,
-      "actieprijs": 0.59,
+      "actieprijs": 0.44,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
@@ -968,40 +1004,40 @@
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Speklapjes",
+      "productnaam": "Vakantiekaas jong belegen stuk",
       "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 800,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Kipdijfilet",
+      "productnaam": "HEINZ Sandwich Spread",
       "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 400,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Braadworsten",
+      "productnaam": "Fruitdrink",
       "korting_tekst": null,
-      "actieprijs": 4.19,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Dranken"
     },
     {
-      "productnaam": "Spekburger",
+      "productnaam": "Saskia Bronwater",
       "korting_tekst": null,
-      "actieprijs": 2.02,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Dranken"
     },
     {
       "productnaam": "COOLBEST FruitDrink",
@@ -1580,48 +1616,12 @@
       "categorie": null
     },
     {
-      "productnaam": "Tricolor kluitsla",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Slamelange",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Krieltjes naturel",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Schnittbroodje",
-      "korting_tekst": null,
-      "actieprijs": 0.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
       "productnaam": "Buitenschaal keramiek",
       "korting_tekst": null,
       "actieprijs": 9.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Huishouden"
     },
     {
@@ -1630,7 +1630,7 @@
       "actieprijs": 8.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1639,7 +1639,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1648,7 +1648,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
@@ -1657,7 +1657,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1666,7 +1666,7 @@
       "actieprijs": 2.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -1675,7 +1675,7 @@
       "actieprijs": 3.74,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1684,7 +1684,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     }
   ]
