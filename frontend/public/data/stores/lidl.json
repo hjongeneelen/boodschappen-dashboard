@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-17T07:54:05.418599+00:00",
+  "updated_at": "2026-07-18T07:28:36.446023+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -896,42 +896,6 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Tricolor kluitsla",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Slamelange",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Krieltjes naturel",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Schnittbroodje",
-      "korting_tekst": null,
-      "actieprijs": 0.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
       "productnaam": "Rozijnen krentenbollen",
       "korting_tekst": null,
       "actieprijs": 1.19,
@@ -1004,40 +968,40 @@
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Vakantiekaas jong belegen stuk",
+      "productnaam": "Speklapjes",
       "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 750,
+      "actieprijs": 6.99,
+      "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "HEINZ Sandwich Spread",
+      "productnaam": "Kipdijfilet",
       "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 300,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Fruitdrink",
+      "productnaam": "Braadworsten",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
+      "actieprijs": 4.19,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Saskia Bronwater",
+      "productnaam": "Spekburger",
       "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
+      "actieprijs": 2.02,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "COOLBEST FruitDrink",
@@ -1293,15 +1257,6 @@
     },
     {
       "productnaam": "Gardena Flex tuinslang, 25m, 19mm.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Lidl Plus -15% kortingsbon.",
       "korting_tekst": "Actieprijzen variëren van €1.",
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -1614,6 +1569,42 @@
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
+    },
+    {
+      "productnaam": "Tricolor kluitsla",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Slamelange",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Krieltjes naturel",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Schnittbroodje",
+      "korting_tekst": null,
+      "actieprijs": 0.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Buitenschaal keramiek",
