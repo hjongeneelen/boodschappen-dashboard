@@ -2,116 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-19T08:00:03.448557+00:00",
+  "updated_at": "2026-07-20T08:41:25.292249+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Gyros rollade",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Watermeloen part",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Culinaire beenham",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Franse frites",
-      "korting_tekst": "Van € 1,89 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Roomboter appeltaart",
-      "korting_tekst": "Van € 3,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Château David Bordeaux Superieur",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Port Salut of Mascarpone Gorgonzola",
-      "korting_tekst": "Van € 3,99 voor € 2,59",
-      "actieprijs": 2.59,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Premier Zeeuwse mosselen",
-      "korting_tekst": "Van € 8,99 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia ravigottesaus",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse mini kaasbroodjes of saucijzenstaaf",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Watermeloen part",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Franse frites",
-      "korting_tekst": "Van € 1,89 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste Aardappelen",
       "korting_tekst": "Van € 1,09 voor € 0,99",
@@ -185,6 +77,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Avocado's",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Frambozen, blauwe bessen of kersen",
       "korting_tekst": null,
       "actieprijs": 2.99,
@@ -236,33 +137,6 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "15 - 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Gyros rollade",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Culinaire beenham",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Premier Zeeuwse mosselen",
-      "korting_tekst": "Van € 8,99 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
       "categorie": null
     },
     {
@@ -365,15 +239,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Roomboter appeltaart",
-      "korting_tekst": "Van € 3,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Bakker van der Akker Roomboter- of citroencake",
       "korting_tekst": "Van € 2,99 voor € 2,49",
       "actieprijs": 2.49,
@@ -443,15 +308,6 @@
       "inhoud_waarde": 208,
       "inhoud_unit": "gram",
       "geldig_tekst": "15 - 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Port Salut of Mascarpone Gorgonzola",
-      "korting_tekst": "Van € 3,99 voor € 2,59",
-      "actieprijs": 2.59,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 19 jul",
       "categorie": null
     },
     {
@@ -551,15 +407,6 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "15 - 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Château David Bordeaux Superieur",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "15 - 19 jul",
       "categorie": null
     },
     {
@@ -785,15 +632,6 @@
       "inhoud_waarde": 46,
       "inhoud_unit": "gram",
       "geldig_tekst": "15 - 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse mini kaasbroodjes of saucijzenstaaf",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "15 - 19 jul",
       "categorie": null
     },
     {

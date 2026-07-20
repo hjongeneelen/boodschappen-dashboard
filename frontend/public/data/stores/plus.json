@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-19T08:05:04.749934+00:00",
+  "updated_at": "2026-07-20T08:46:57.585512+00:00",
   "deals": [
     {
       "productnaam": "PLUS Nectarines, perziken, wilde perziken en abrikozen",
@@ -190,15 +190,6 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "No Fairytales Zoete Aardappel tortilla",
-      "korting_tekst": "50 % KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
       "categorie": null
     },

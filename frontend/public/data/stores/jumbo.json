@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-19T08:04:54.714548+00:00",
+  "updated_at": "2026-07-20T08:46:47.663908+00:00",
   "deals": [
     {
       "productnaam": "Nederlandse aardbeien",
@@ -195,15 +195,6 @@
     },
     {
       "productnaam": "Meloen Piel de Sap",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo 20 mei t/m di 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Watermeloen Vers 1 Stuk",
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -2318,6 +2309,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Dove Advanced Care Verzorgende Douchegel Deeply Nourishing 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Axe Showergel Aqua Bergamot 225 ML",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 6.99,
@@ -2385,15 +2385,6 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 6.29,
       "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Axe Showergel Blue Lavender 225 ML",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 6.99,
-      "inhoud_waarde": 225,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -2565,15 +2556,6 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 5.49,
       "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "AXE Fine Fragrance Collection Douchegel Peach Infusion 225 ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 225,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -4577,6 +4559,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Lenor Fresh Air Wasverzachter 36 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Ariel The Big One PODS®, 15 Original",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 19.99,
@@ -4742,15 +4733,6 @@
       "productnaam": "Ariel All-in-1 Pods Wasmiddel Kleur, 15 Wasbeurten",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 13.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ariel 4in1 PODS Ultra, Wasmiddel Capsules 10",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 11.19,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 15 t/m di 28 jul",
@@ -5140,15 +5122,6 @@
       "actieprijs": 14.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dreft MaxPower Lemon Vloeibaar Afwasmiddel 730ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 7.49,
-      "inhoud_waarde": 730,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
     },
