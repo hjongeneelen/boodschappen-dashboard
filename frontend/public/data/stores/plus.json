@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-20T08:46:57.585512+00:00",
+  "updated_at": "2026-07-21T08:10:37.169237+00:00",
   "deals": [
     {
       "productnaam": "PLUS Nectarines, perziken, wilde perziken en abrikozen",
@@ -113,15 +113,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Plu Nederlandse Vastkokende en kruimige aardappelen",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Zoete juweeltjes cherry-trostomaat",
       "korting_tekst": null,
       "actieprijs": 1.99,
@@ -141,15 +132,6 @@
     },
     {
       "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
-      "korting_tekst": "3 VOOR 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
       "korting_tekst": "3 VOOR 5.00",
       "actieprijs": 5.0,
       "inhoud_waarde": null,

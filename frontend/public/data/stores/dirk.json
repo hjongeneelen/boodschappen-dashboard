@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-20T08:41:25.292249+00:00",
+  "updated_at": "2026-07-21T08:09:25.080557+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Aardappelen",
@@ -197,15 +197,6 @@
       "productnaam": "1 de Beste Elzasser cervelaat",
       "korting_tekst": "Van € 2,19 voor € 1,79",
       "actieprijs": 1.79,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "15 - 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Kipfilet naturel",
-      "korting_tekst": "Van € 2,95 voor € 1,99",
-      "actieprijs": 1.99,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "15 - 21 jul",

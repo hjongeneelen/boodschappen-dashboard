@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-20T08:41:23.121778+00:00",
+  "updated_at": "2026-07-21T08:09:23.044145+00:00",
   "deals": [
     {
       "productnaam": "Blauwe bessen",
@@ -473,150 +473,6 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "DUNKIN DONUTS Cheesecake crumble",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Lemon poppy cheesecake muffin",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Churros",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Kabeljauwfilet",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Schouderfiletlapjes gemarineerd",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gemarineerde speklapjes",
-      "korting_tekst": null,
-      "actieprijs": 4.79,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipfilet Smokey Tandoori BBQ",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdij Koreaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "EAT NATURAL bars",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Citroencake",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Kokossterrochers gechocolateerd",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 5,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "BIFI",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Maatjes haring of Hollandse nieuwe",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Bio couscous of bulgur",
-      "korting_tekst": null,
-      "actieprijs": 1.34,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Vega kaasschnitzels of plantaardige kipstukjes",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gerookte zalm",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
       "productnaam": "Healthy fit proteïnereep",
       "korting_tekst": null,
       "actieprijs": 1.12,
@@ -869,42 +725,6 @@
       "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "Rundergrillburger",
-      "korting_tekst": null,
-      "actieprijs": 3.15,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gemarineerde garnalenspies",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Varkenschipolataworstjes",
-      "korting_tekst": null,
-      "actieprijs": 4.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Verse spareribs",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
       "productnaam": "Chrysant in hangmand",
       "korting_tekst": null,
       "actieprijs": 5.99,
@@ -957,6 +777,78 @@
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 22/07 - 26/07",
       "categorie": null
+    },
+    {
+      "productnaam": "DUNKIN DONUTS Cheesecake crumble",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Lemon poppy cheesecake muffin",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Churros",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Kabeljauwfilet",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Maatjes haring of Hollandse nieuwe",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Bio couscous of bulgur",
+      "korting_tekst": null,
+      "actieprijs": 1.34,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vega kaasschnitzels of plantaardige kipstukjes",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gerookte zalm",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Mini orchidee in keramiek",
