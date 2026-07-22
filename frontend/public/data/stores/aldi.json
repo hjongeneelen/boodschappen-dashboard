@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-07-21T08:10:59.242118+00:00",
+  "updated_at": "2026-07-22T08:14:29.187053+00:00",
   "deals": [
     {
       "productnaam": "Nectarines",
@@ -24,8 +24,8 @@
     },
     {
       "productnaam": "Nederlandse kersen",
-      "korting_tekst": "-25%",
-      "actieprijs": 2.89,
+      "korting_tekst": null,
+      "actieprijs": 2.99,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
