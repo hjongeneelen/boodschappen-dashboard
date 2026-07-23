@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-22T08:14:07.174868+00:00",
+  "updated_at": "2026-07-23T08:18:03.466342+00:00",
   "deals": [
     {
       "productnaam": "Alle PLUS Meloenen",
@@ -176,16 +176,16 @@
       "categorie": null
     },
     {
-      "productnaam": "Alle Grand'Italia Pastasaus en pesto",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
+      "productnaam": "PLUS Kies & Mix Verse soep",
+      "korting_tekst": "2 voor 5.50",
+      "actieprijs": 5.5,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Kies & Mix Verse soep",
+      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
       "korting_tekst": "2 voor 5.50",
       "actieprijs": 5.5,
       "inhoud_waarde": null,

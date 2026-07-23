@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-22T08:09:23.798605+00:00",
+  "updated_at": "2026-07-23T08:12:32.835029+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Gesneden fruit",
@@ -168,7 +168,7 @@
     },
     {
       "productnaam": "Hele dorade",
-      "korting_tekst": "Van € 9,99 voor € 9,49",
+      "korting_tekst": null,
       "actieprijs": 9.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
@@ -186,7 +186,7 @@
     },
     {
       "productnaam": "De Vleeschmeesters Rundertartaar",
-      "korting_tekst": "Van € 4,49 voor € 3,99",
+      "korting_tekst": null,
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
