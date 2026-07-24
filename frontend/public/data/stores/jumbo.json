@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-23T08:17:51.148446+00:00",
+  "updated_at": "2026-07-24T08:12:38.337397+00:00",
   "deals": [
     {
       "productnaam": "Premium sla melanges of No Fairytales",
@@ -1085,15 +1085,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Ola IJs Liuk Waterijs 8 stuks 8 x 75ml",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 4.69,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 22 t/m di 28 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Ola Solero Bonbon Exotic 12 Stuks",
       "korting_tekst": "2e halve prijs",
       "actieprijs": 5.29,
@@ -1196,15 +1187,6 @@
       "productnaam": "Always Discreet Verband Voor Urineverlies",
       "korting_tekst": "2+1 gratis",
       "actieprijs": 4.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo 22 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Libresse Extra Protection Long 22 Stuks",
-      "korting_tekst": "2+1 gratis",
-      "actieprijs": 3.18,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 22 t/m di 28 jul",
@@ -2061,15 +2043,6 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 6.79,
       "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dove Advanced Care Verzorgende Douchegel Deeply Nourishing 400 ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 9.79,
-      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -4532,11 +4505,110 @@
       "categorie": null
     },
     {
-      "productnaam": "Alle Sun",
+      "productnaam": "Sun Vaatwasmachine Verfrisser Citroen 1 stuk",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 4.79,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Brilliant Shine Plus Vaatwascapsules All-in 1 34 capsules",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 23.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in 1 Vaatwastabletten Citroen 60 tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 29.95,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Brilliant Shine All in 1 Vaatwascapsules 16 Stuks 240 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in 1 Vaatwastabletten Citroen 19 tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Brilliant Shine Vaatwascapsules All-in 1 26 capsules",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Brilliant Shine Plus Vaatwascapsules All-in 1 16 capsules",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Spoelglans 1L",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.35,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Machinereiniger Out-Wash 3 doses",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwasmachinereiniger In-Wash 4 doses",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwascapsules Intense Power 16 Stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Spoelglansmiddel Dry & Shine 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
     },

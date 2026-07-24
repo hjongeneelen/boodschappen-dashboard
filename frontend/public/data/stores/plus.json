@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-23T08:18:03.466342+00:00",
+  "updated_at": "2026-07-24T08:12:49.012271+00:00",
   "deals": [
     {
       "productnaam": "Alle PLUS Meloenen",
@@ -200,6 +200,150 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Dove en Rexona",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 10.58,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Elmex en Colgate",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 8.38,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Toiletpapier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handappels Jonagold",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Mandarijnen extra groot GVP",
+      "korting_tekst": null,
+      "actieprijs": 3.69,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Druiven wit pitloos",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse pruimen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 756,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nectarines, perziken en wilde perziken",
+      "korting_tekst": "500 gram 1.29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Galia meloen",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Trostomaten",
+      "korting_tekst": "500 gram 0.49",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Smaakmakertje minitrospruimtomaatjes",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Luxe sla botersla, veldsla, romaine en babyspinazie",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Aubergine",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Witlof verpakt",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
       "categorie": null
     }
   ]

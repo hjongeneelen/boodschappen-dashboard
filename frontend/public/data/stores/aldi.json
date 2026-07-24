@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-07-23T08:18:26.253739+00:00",
+  "updated_at": "2026-07-24T08:13:12.335207+00:00",
   "deals": [
     {
       "productnaam": "Nectarines",
@@ -16,7 +16,7 @@
     {
       "productnaam": "Bramen, frambozen of rode bessen",
       "korting_tekst": null,
-      "actieprijs": 1.99,
+      "actieprijs": 3.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
