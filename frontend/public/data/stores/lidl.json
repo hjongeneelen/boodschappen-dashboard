@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-24T08:08:15.941772+00:00",
+  "updated_at": "2026-07-25T07:51:28.740533+00:00",
   "deals": [
     {
       "productnaam": "Blauwe bessen",
@@ -473,40 +473,40 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "L'Or koffiecups",
+      "productnaam": "DUNKIN DONUTS Cheesecake crumble",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Lemon poppy cheesecake muffin",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Churros",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Kabeljauwfilet",
       "korting_tekst": null,
       "actieprijs": 4.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "TEISSEIRE",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "OLD AMSTERDAM Plakken of stuk",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Worstjes Catalaanse wijze",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "EAT NATURAL bars",
@@ -887,40 +887,40 @@
       "categorie": null
     },
     {
-      "productnaam": "DUNKIN DONUTS Cheesecake crumble",
+      "productnaam": "Schouderfiletlapjes gemarineerd",
       "korting_tekst": null,
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Lemon poppy cheesecake muffin",
+      "productnaam": "Gemarineerde speklapjes",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Churros",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Kabeljauwfilet",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 250,
+      "actieprijs": 4.79,
+      "inhoud_waarde": 600,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Kipfilet Smokey Tandoori BBQ",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Kipdij Koreaanse stijl",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Mini orchidee in keramiek",

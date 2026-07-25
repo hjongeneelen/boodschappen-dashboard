@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-24T08:12:38.337397+00:00",
+  "updated_at": "2026-07-25T07:55:49.473898+00:00",
   "deals": [
     {
       "productnaam": "Premium sla melanges of No Fairytales",
@@ -1067,6 +1067,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Ola IJs Festini Peer 12 stuks 12 x 50ml",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 4.39,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 22 t/m di 28 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Ola Solero Strawberry Twist 3x90 ml",
       "korting_tekst": "2e halve prijs",
       "actieprijs": 4.45,
@@ -1080,6 +1089,15 @@
       "korting_tekst": "2e halve prijs",
       "actieprijs": 5.49,
       "inhoud_waarde": 67,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 22 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Liuk Waterijs 8 stuks 8 x 75ml",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 4.69,
+      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 22 t/m di 28 jul",
       "categorie": null
