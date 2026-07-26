@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-25T07:51:30.790048+00:00",
+  "updated_at": "2026-07-26T08:08:43.699852+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Gesneden fruit",
@@ -947,6 +947,15 @@
       "inhoud_waarde": 440,
       "inhoud_unit": "ml",
       "geldig_tekst": "22 - 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B opzetborstels",
+      "korting_tekst": null,
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 jul - 1 aug",
       "categorie": null
     },
     {

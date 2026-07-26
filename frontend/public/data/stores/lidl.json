@@ -2,997 +2,835 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-25T07:51:28.740533+00:00",
+  "updated_at": "2026-07-26T08:08:42.186298+00:00",
   "deals": [
     {
-      "productnaam": "Blauwe bessen",
+      "productnaam": "NESCAFÉ Gold",
       "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 500,
+      "actieprijs": 6.49,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "SENSEO pads",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
       "categorie": null
     },
     {
-      "productnaam": "Zalmfilets op huid",
+      "productnaam": "Rode pitloze druiven",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "NESCAFÉ Gold oploskoffie",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koffie goud XXL",
       "korting_tekst": null,
       "actieprijs": 7.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "DUBBELFRISSS",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "XXL NUTRITION Fitmeals",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 425,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Goudse jong of jong belegen kaasplakken",
-      "korting_tekst": null,
-      "actieprijs": 2.59,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Toiletpapier 4-laags",
-      "korting_tekst": null,
-      "actieprijs": 6.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
-    },
-    {
-      "productnaam": "COCA-COLA of FANTA",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Doos met 6 amandel-ijsjes met chocoladecoating en een Rainforest Alliance-logo.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Gelatelli Mega Sandwich: 8 ijsjesandwiches met aardbei, vanille en chocolade.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Doos met 8 vanille-ijssandwiches met chocoladeglazuur, gepresenteerd op een strandstoel onder een parasol.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Gelatelli vanille-ijshoorntjes, 8 stuks, met wafel en hagelslag.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": 8,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Bon Gelati: mini mix ijs met chocolade, witte chocolade en hazelnootsmaken.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Vanille-ijs dessert met cacaolagen in een blauwe verpakking.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Een doos met LEGO Icons Bouquet of Roses, een bouwset van 822 stukjes met rode rozen.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Doos met een LEGO madeliefjes- en lavendelset, met de tekst 'DAISIES' en 'BOTANICALS', 133 stuks.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": 133,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Keukenachterwanden met marmer, hout, dieren en food designs.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Bouwdoos met twee wiebelende planten, een groene en een roze.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Ravensburger 3D puzzels met verlichting, waaronder Taipei 101, Big Ben en de Eiffeltoren.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Retailer of the Year 2025",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Populairste Website van het jaar 2024",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Thuiswinkel Waarborg",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Toegankelijkheidsverklaring",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Top Employer Netherlands",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Top Employer Europe",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Logo van AfterPay",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Visa",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Mastercard",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Google Pay",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Apple Pay",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DHL!",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Android-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Bedrijfslogo",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Powered by Onetrust",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Frambozen of bramen",
-      "korting_tekst": null,
-      "actieprijs": 1.89,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Courgette",
-      "korting_tekst": null,
-      "actieprijs": 0.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Puntpaprika's rood of mix",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Mandarijnen",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Nederlandse pruimen",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Oesterzwammen",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Gesneden fruit",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Roerbakmix Chinees of Thais",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Aardappelschijfjes",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "IJsbergsla of veldsla",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Tijgerbroodje",
-      "korting_tekst": null,
-      "actieprijs": 0.25,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Bio batard meergranen",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Broodje curryworst",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Philly cheese calzone",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Tijger-volkoren heel",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "DUNKIN DONUTS Cheesecake crumble",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Lemon poppy cheesecake muffin",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Churros",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Kabeljauwfilet",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "EAT NATURAL bars",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Citroencake",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Kokossterrochers gechocolateerd",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 5,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "BIFI",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Maatjes haring of Hollandse nieuwe",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Bio couscous of bulgur",
-      "korting_tekst": null,
-      "actieprijs": 1.34,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
       "categorie": null
     },
     {
-      "productnaam": "Vega kaasschnitzels of plantaardige kipstukjes",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gerookte zalm",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Healthy fit proteïnereep",
-      "korting_tekst": null,
-      "actieprijs": 1.12,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
-    },
-    {
-      "productnaam": "AMICELLI",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "I Like Pinot Grigio",
-      "korting_tekst": null,
-      "actieprijs": 3.37,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "MARS, TWIX of SNICKERS",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 333,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "DUYVIS Borrel- of Tijgernootjes",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Vitamine-water",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "MARS, TWIX of SNICKERS",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "BEN & JERRY'S",
-      "korting_tekst": null,
-      "actieprijs": 3.79,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "SCHWEPPES",
-      "korting_tekst": null,
-      "actieprijs": 2.19,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "TWISTER Mini",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "SOLERO",
-      "korting_tekst": null,
-      "actieprijs": 4.49,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "AA DRINK",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
-    },
-    {
-      "productnaam": "Duracell",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "SMIRNOFF Ice",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "HEINEKEN",
-      "korting_tekst": null,
-      "actieprijs": 16.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "GROLSCH 0.0 en Radler 0.0",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "GROLSCH pils",
-      "korting_tekst": null,
-      "actieprijs": 4.23,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "GROLSCH Kanon",
-      "korting_tekst": null,
-      "actieprijs": 1.72,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "STËLZ",
-      "korting_tekst": null,
-      "actieprijs": 8.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "ROBIJN Wasverzachter",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
-    },
-    {
-      "productnaam": "FORMIL Wasmiddel",
-      "korting_tekst": null,
-      "actieprijs": 8.99,
-      "inhoud_waarde": 5000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
-    },
-    {
-      "productnaam": "DREFT Max Power",
-      "korting_tekst": null,
-      "actieprijs": 3.79,
-      "inhoud_waarde": 730,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
-    },
-    {
-      "productnaam": "Plantaardig rundergehakt",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Bonenschotel Mexicaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bruine bonen",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pijnboompitten",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Plantaardige vruchtenyoghurt aardbei",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "ALESTO Pecannoten",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Chrysant in hangmand",
+      "productnaam": "JOHN WEST tonijn",
       "korting_tekst": null,
       "actieprijs": 5.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "ALMHOF hoekje",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Olijfolie classico",
+      "korting_tekst": null,
+      "actieprijs": 5.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
       "categorie": null
     },
     {
-      "productnaam": "Celosia in pot",
+      "productnaam": "Kordaat Radler 0.0% citroen biermixdrank 6-pack",
       "korting_tekst": null,
-      "actieprijs": 7.49,
+      "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Zes blikjes alcoholvrije Koradaat Wit 0,0% bier.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Kordaat Premium Pilsener 6-pack van 33cl blikjes, met een brouwersillustratie.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "NIX18 logo met tekst onder 18 verkopen wij geen alcohol. Onder de 25 jaar? Laat je legitimatie zien.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Retailer of the Year 2025",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Populairste Website van het jaar 2024",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Thuiswinkel Waarborg",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Toegankelijkheidsverklaring",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Top Employer Netherlands",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Top Employer Europe",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Logo van AfterPay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Visa",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Mastercard",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Google Pay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Apple Pay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DHL!",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Android-apparaten",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Bedrijfslogo",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Powered by Onetrust",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "MAGNUM Mini",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "LIPTON Ice Tea",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Hele bio-assortiment",
+      "korting_tekst": null,
+      "actieprijs": 0.41,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Paprikamix",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Rode bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "IJsbergsla",
+      "korting_tekst": null,
+      "actieprijs": 0.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Bio blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Minneola's",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Tomahawk steak red roast",
+      "korting_tekst": null,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gemarineerde BBQ-worst",
+      "korting_tekst": null,
+      "actieprijs": 2.59,
+      "inhoud_waarde": 420,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "BBQ-bavette spies salt & pepper",
+      "korting_tekst": null,
+      "actieprijs": 6.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Chicken wings buffalo stijl",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Roomdessert 10%",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Achterham",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
       "categorie": null
     },
     {
-      "productnaam": "Keramiek Veneto",
+      "productnaam": "Goudse plakken 30+",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Gouda extra belegen plakken",
+      "korting_tekst": null,
+      "actieprijs": 5.59,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Magere, halfvolle of volle houdbare melk",
+      "korting_tekst": null,
+      "actieprijs": 3.19,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Emmentaler kaas",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Leverworst",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "KERRYGOLD Ierse boter",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "IT Primitivo Puglia IGT",
+      "korting_tekst": null,
+      "actieprijs": 3.74,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Vin de France chardonnay",
+      "korting_tekst": null,
+      "actieprijs": 4.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Badkamer en keukenreiniger",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "EDET Toiletpapier 4-laags",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Galzeep met borstel",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Wasmachinereiniger vloeibaar",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "DREFT Platinum Plus",
       "korting_tekst": null,
       "actieprijs": 9.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Wegwerphandschoenen",
+      "korting_tekst": null,
+      "actieprijs": 4.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
       "categorie": "Huishouden"
     },
     {
-      "productnaam": "Clematis",
+      "productnaam": "Vochtige reinigingsdoekjes",
       "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
+      "actieprijs": 2.59,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
     },
     {
-      "productnaam": "Gladiolen",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pampusgras",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Schouderfiletlapjes gemarineerd",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gemarineerde speklapjes",
-      "korting_tekst": null,
-      "actieprijs": 4.79,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipfilet Smokey Tandoori BBQ",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdij Koreaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Mini orchidee in keramiek",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zomerboeket zonnebloemen",
-      "korting_tekst": null,
-      "actieprijs": 4.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lavendel",
+      "productnaam": "Vaatwasmachinereiniger",
       "korting_tekst": null,
       "actieprijs": 1.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Schuurspons",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Poetspapier op rol",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
     },
     {
-      "productnaam": "Kogelbiefstuk",
+      "productnaam": "Kalkstoptabs",
       "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
     },
     {
-      "productnaam": "Slavinken",
+      "productnaam": "ALESTO Amandelen ongebrand",
       "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "Kabeljauwburger",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Witte bollen",
+      "productnaam": "Pesto alla Genovese",
       "korting_tekst": null,
       "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nase/bami groentemix",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Tomatensaus met basilicum",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tomatenpuree",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 140,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Andijvie",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Chili schotel Mexicaanse stijl",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Risotto rijst Arborio",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cronut red cookies",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Kokos-yoghurt 8%",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Pecan-notenbroodje",
+      "productnaam": "Studentenhaver",
       "korting_tekst": null,
-      "actieprijs": 0.44,
+      "actieprijs": 2.09,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Vegan shoarma",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Classic hamburgers",
+      "korting_tekst": null,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 840,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Plantaardige champignonburger of hamburger",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 226,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Pedaalemmerzakjes",
+      "korting_tekst": null,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Toiletreiniger",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Pedaalemmerzakjes met geur",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 27/07 - 02/08",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Zonnebloemen",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 29/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hibiscus",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 29/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chrysant in tray",
+      "korting_tekst": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Alleen in de winkel vanaf 29/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campanula of Genitiaan",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 29/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vetplanten/cactusmix",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 29/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Potroos XL",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Orchidee 2-taks",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rozen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": null
+    },
+    {
+      "productnaam": "Desem steenoven baguette meerzaden",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
       "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Runderhamburgers",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Verse sappen of smoothies",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "CAMPINA Halfvolle melk",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 2400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "HARIBO Starmix of Kikkers",
+      "korting_tekst": null,
+      "actieprijs": 1.59,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 31/07 - 02/08",
+      "categorie": "Snacks & Snoep"
     }
   ]
 }
