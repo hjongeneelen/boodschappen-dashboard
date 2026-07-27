@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:13:35.196757+00:00",
+  "generated_at": "2026-07-27T09:36:38.633150+00:00",
   "stores": [
     {
       "slug": "hoogvliet",
@@ -89,43 +89,43 @@
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "api",
-      "deal_count": 1558,
-      "updated_at": "2026-07-26T08:08:13.312148+00:00"
+      "deal_count": 1396,
+      "updated_at": "2026-07-27T09:31:13.054786+00:00"
     },
     {
       "slug": "lidl",
       "name": "Lidl",
       "mode": "api",
-      "deal_count": 92,
-      "updated_at": "2026-07-26T08:08:42.186298+00:00"
+      "deal_count": 96,
+      "updated_at": "2026-07-27T09:31:41.144827+00:00"
     },
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "api",
-      "deal_count": 118,
-      "updated_at": "2026-07-26T08:08:43.699852+00:00"
+      "deal_count": 98,
+      "updated_at": "2026-07-27T09:31:42.470062+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "api",
       "deal_count": 521,
-      "updated_at": "2026-07-26T08:13:01.917631+00:00"
+      "updated_at": "2026-07-27T09:36:07.225455+00:00"
     },
     {
       "slug": "plus",
       "name": "Plus",
       "mode": "api",
       "deal_count": 38,
-      "updated_at": "2026-07-26T08:13:12.019204+00:00"
+      "updated_at": "2026-07-27T09:36:17.632793+00:00"
     },
     {
       "slug": "aldi",
       "name": "Aldi",
       "mode": "api",
-      "deal_count": 223,
-      "updated_at": "2026-07-26T08:13:35.193830+00:00"
+      "deal_count": 193,
+      "updated_at": "2026-07-27T09:36:38.630605+00:00"
     }
   ]
 }

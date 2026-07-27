@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-26T08:13:01.917631+00:00",
+  "updated_at": "2026-07-27T09:36:07.225455+00:00",
   "deals": [
     {
       "productnaam": "Premium sla melanges of No Fairytales",
@@ -891,15 +891,6 @@
       "korting_tekst": "2 voor 5,00",
       "actieprijs": 3.69,
       "inhoud_waarde": 270,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo 22 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Original Wagner Big Sensation Beef Jalapeños 450 g",
-      "korting_tekst": "2 voor 5,00",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo 22 t/m di 28 jul",
       "categorie": null
@@ -1895,6 +1886,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Dove Advanced Care Verzorgende Douchegel Deeply Nourishing 400 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Dove Advanced Care Anti-Transpirant Deodorant Spray Invisible Care 150 ML",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 6.69,
@@ -2061,6 +2061,15 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 6.79,
       "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Advanced Care Verzorgende Douchegel Deeply Nourishing 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.79,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -2259,6 +2268,15 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 8.99,
       "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Advanced Care Verzorgende Douchegel Nourishing Care 400 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.79,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -2728,15 +2746,6 @@
       "actieprijs": 13.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Durex Naturel Glijmiddel, 100ml",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 12.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
     },
@@ -3911,18 +3920,18 @@
       "categorie": null
     },
     {
-      "productnaam": "Ariel All-in-1 Pods Wasmiddel Big One Kleur 12 Wasbeurten",
+      "productnaam": "Ariel All-in-1 Pods Wasmiddel +Ultra, 10 Wasbeurten",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 15.99,
+      "actieprijs": 11.19,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
     },
     {
-      "productnaam": "Lenor Fresh Air Wasverzachter 36 Wasbeurten",
+      "productnaam": "Ariel All-in-1 Pods Wasmiddel Big One Kleur 12 Wasbeurten",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 8.19,
+      "actieprijs": 15.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 15 t/m di 28 jul",
@@ -4571,15 +4580,6 @@
       "productnaam": "Sun Brilliant Shine Vaatwascapsules All-in 1 26 capsules",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 15.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun Brilliant Shine Plus Vaatwascapsules All-in 1 16 capsules",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 10.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 15 t/m di 28 jul",

@@ -2,125 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-26T08:08:43.699852+00:00",
+  "updated_at": "2026-07-27T09:31:42.470062+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Gesneden fruit",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aardbeienslof",
-      "korting_tekst": "Van € 6,99 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen of Hollandse aardbeien",
-      "korting_tekst": "Van € 3,59 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Entrecote of ribeye",
-      "korting_tekst": "Van € 10,90 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele dorade",
-      "korting_tekst": null,
-      "actieprijs": 9.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "XL watermeloen",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Runderrookvlees",
-      "korting_tekst": "Van € 2,95 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dolce Freddo brownie ijs",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Krabsalade",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse worstenbroodjes",
-      "korting_tekst": "Van € 2,99 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Gesneden fruit",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen of Hollandse aardbeien",
-      "korting_tekst": "Van € 3,59 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "XL watermeloen",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste Bistro mini krieltjes",
       "korting_tekst": "Van € 1,35 voor € 0,99",
@@ -275,33 +158,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Entrecote of ribeye",
-      "korting_tekst": "Van € 10,90 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele dorade",
-      "korting_tekst": null,
-      "actieprijs": 9.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Runderrookvlees",
-      "korting_tekst": "Van € 2,95 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "De Vleeschmeesters Rundertartaar",
       "korting_tekst": null,
       "actieprijs": 3.99,
@@ -398,15 +254,6 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": "22 - 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aardbeienslof",
-      "korting_tekst": "Van € 6,99 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
       "categorie": null
     },
     {
@@ -788,24 +635,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Krabsalade",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse worstenbroodjes",
-      "korting_tekst": "Van € 2,99 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "22 - 26 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Westland salade",
       "korting_tekst": null,
       "actieprijs": 2.49,
@@ -857,15 +686,6 @@
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
       "geldig_tekst": "22 - 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dolce Freddo brownie ijs",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "22 - 26 jul",
       "categorie": null
     },
     {
