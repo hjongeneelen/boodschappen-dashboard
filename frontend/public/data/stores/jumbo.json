@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-27T09:36:07.225455+00:00",
+  "updated_at": "2026-07-28T08:19:47.715744+00:00",
   "deals": [
     {
       "productnaam": "Premium sla melanges of No Fairytales",
@@ -1049,33 +1049,6 @@
       "categorie": null
     },
     {
-      "productnaam": "OLA Waterijs Haribo Push-Up 4 Stuks 340 ml",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 3.79,
-      "inhoud_waarde": 340,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 22 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola IJs Festini Peer 12 stuks 12 x 50ml",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 4.39,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 22 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Solero Strawberry Twist 3x90 ml",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 4.45,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 22 t/m di 28 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Ola IJs Split 9 x 67 ml",
       "korting_tekst": "2e halve prijs",
       "actieprijs": 5.49,
@@ -1746,15 +1719,6 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 5.79,
       "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "AXE Deodorant Bodyspray Jungle Fresh 150 ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 7.99,
-      "inhoud_waarde": 150,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -2842,7 +2806,7 @@
     {
       "productnaam": "Marcel’s Green Soap handzeep Lavendel & Rozemarijn navulling - 500ml",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 4.79,
+      "actieprijs": 5.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
@@ -2860,7 +2824,7 @@
     {
       "productnaam": "Marcel's Green Soap Handzeep Sandelhout & Kardemom 250ML",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.79,
+      "actieprijs": 3.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
@@ -2950,7 +2914,7 @@
     {
       "productnaam": "Marcel's Green Soap Orange Jasmine Handzeep Refill Pack 500 ml",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 4.79,
+      "actieprijs": 5.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
@@ -3040,7 +3004,7 @@
     {
       "productnaam": "Marcel's Green Soap Orange Jasmine Handsoap 250 ml",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.79,
+      "actieprijs": 3.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
@@ -3076,7 +3040,7 @@
     {
       "productnaam": "Marcel's Green Soap Lavender Rosemary Handsoap 250 ml",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.79,
+      "actieprijs": 3.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",

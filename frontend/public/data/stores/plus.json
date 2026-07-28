@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-27T09:36:17.632793+00:00",
+  "updated_at": "2026-07-28T08:19:58.569885+00:00",
   "deals": [
     {
       "productnaam": "Alle PLUS Meloenen",
@@ -86,20 +86,20 @@
       "categorie": null
     },
     {
-      "productnaam": "Eat Me Avocado",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
-      "categorie": null
-    },
-    {
       "productnaam": "Zespri Kiwi gold",
       "korting_tekst": "500 gram 2.99",
       "actieprijs": 2.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eat Me Avocado",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
       "categorie": null
     },
@@ -118,15 +118,6 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Komkommer",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
       "categorie": null
     },
@@ -170,6 +161,15 @@
       "productnaam": "PLUS Oosterse maaltijd",
       "korting_tekst": null,
       "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Uit de keuken van PLUS Verse pizza's",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
