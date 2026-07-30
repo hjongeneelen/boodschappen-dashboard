@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-29T08:26:56.926925+00:00",
+  "updated_at": "2026-07-30T08:13:53.347309+00:00",
   "deals": [
     {
       "productnaam": "Rucola of rucola melanges",
@@ -906,7 +906,7 @@
     },
     {
       "productnaam": "Unox Knaks, Bockworsten, Frankfurters of Hotdogs",
-      "korting_tekst": "2e halve prijs",
+      "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
@@ -1958,7 +1958,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Enjoy It Rosé Alcoholfree 0,75 L",
+      "productnaam": "Enjoy It - Rosé - Alcoholvrij - 750 ml",
       "korting_tekst": "2e halve prijs",
       "actieprijs": 4.29,
       "inhoud_waarde": 750,
@@ -2315,6 +2315,15 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 15 jul t/m di 11 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Chicken Shop Nacho Cheese Chicken Fingers 220 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.49,
+      "inhoud_waarde": 220,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 29 jul t/m di 4 aug",
       "categorie": null
     },
     {
@@ -5432,6 +5441,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Lenor Fresh Air Wasverzachter 50 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 29 jul t/m di 11 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "LENOR PODS® Was Capsules 15",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 13.49,
@@ -5815,15 +5833,6 @@
       "actieprijs": 7.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo 29 jul t/m di 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vanish Oxi Action Whitening Booster Poeder - Vlekverwijderaar Voor Witte Was - 250 g",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
       "geldig_tekst": "wo 29 jul t/m di 11 aug",
       "categorie": null
     },

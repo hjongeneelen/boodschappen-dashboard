@@ -2,8 +2,17 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-29T08:21:21.131822+00:00",
+  "updated_at": "2026-07-30T08:08:21.906413+00:00",
   "deals": [
+    {
+      "productnaam": "Blauwe bessen, Hollandse rode bessen of aardbeien",
+      "korting_tekst": "Van € 2,99 voor € 2,79",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "29 jul - 2 aug",
+      "categorie": null
+    },
     {
       "productnaam": "BIO+ Hollandse komkommer",
       "korting_tekst": "Van € 1,39 voor € 1,29",
@@ -189,15 +198,6 @@
       "korting_tekst": "Van € 3,49 voor € 2,99",
       "actieprijs": 2.99,
       "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ladessa filet Americain naturel",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 130,
       "inhoud_unit": "gram",
       "geldig_tekst": "29 jul - 2 aug",
       "categorie": null

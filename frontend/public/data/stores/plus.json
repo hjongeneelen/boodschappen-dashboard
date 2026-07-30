@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-29T08:27:08.683503+00:00",
+  "updated_at": "2026-07-30T08:14:06.290198+00:00",
   "deals": [
     {
       "productnaam": "Alle Dove en Rexona",
@@ -161,6 +161,15 @@
       "productnaam": "PLUS Aubergine",
       "korting_tekst": null,
       "actieprijs": 0.69,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Spitskool",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",

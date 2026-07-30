@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-29T08:21:19.092038+00:00",
+  "updated_at": "2026-07-30T08:08:19.748579+00:00",
   "deals": [
     {
       "productnaam": "NESCAFÉ Gold",
@@ -518,40 +518,40 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Olijven",
+      "productnaam": "IT Primitivo Puglia IGT",
       "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
+      "actieprijs": 3.74,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Dranken"
     },
     {
-      "productnaam": "Citroenijs op dropstokje",
+      "productnaam": "Vin de France chardonnay",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
+      "actieprijs": 4.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Dranken"
     },
     {
-      "productnaam": "OREO Milk choc",
+      "productnaam": "Badkamer en keukenreiniger",
       "korting_tekst": null,
-      "actieprijs": 1.89,
-      "inhoud_waarde": 264,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Huishouden"
     },
     {
-      "productnaam": "MILKA",
+      "productnaam": "EDET Toiletpapier 4-laags",
       "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "Galzeep met borstel",
