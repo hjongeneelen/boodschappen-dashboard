@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-30T08:14:06.290198+00:00",
+  "updated_at": "2026-07-31T08:35:31.648739+00:00",
   "deals": [
     {
       "productnaam": "Alle Dove en Rexona",
@@ -59,9 +59,9 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Maaltijdsalade en lichte salade",
+      "productnaam": "Alle Zuivelhoeve",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 5.49,
+      "actieprijs": 1.89,
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
@@ -167,15 +167,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Spitskool",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Witlof verpakt",
       "korting_tekst": null,
       "actieprijs": 0.99,
@@ -227,6 +218,105 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 29 juli t/m dinsdag 4 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Druivenmix en kleine zoete appeltjes",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Mineola's",
+      "korting_tekst": "500 gram 1.19",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle PLUS Meloenen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 gram 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Mango",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Verse frites en zoete aardappelfrites",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Snoeptomaten biologisch",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Puntpaprika rood",
+      "korting_tekst": null,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Courgette groen",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Verse Loempia",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
       "categorie": null
     }
   ]
