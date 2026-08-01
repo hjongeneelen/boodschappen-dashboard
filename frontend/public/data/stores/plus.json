@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-31T08:35:31.648739+00:00",
+  "updated_at": "2026-08-01T08:10:00.726898+00:00",
   "deals": [
     {
       "productnaam": "Alle Dove en Rexona",
@@ -280,15 +280,6 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Snoeptomaten biologisch",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
       "categorie": null
     },

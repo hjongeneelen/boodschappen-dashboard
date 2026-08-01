@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-31T08:34:32.887067+00:00",
+  "updated_at": "2026-08-01T08:04:14.200607+00:00",
   "deals": [
     {
       "productnaam": "NESCAFÉ Gold",
@@ -322,7 +322,7 @@
     {
       "productnaam": "Bio blauwe bessen",
       "korting_tekst": null,
-      "actieprijs": 1.99,
+      "actieprijs": 1.49,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
@@ -374,112 +374,184 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Schouderkarbonade",
+      "productnaam": "Krieltjes in schil rozemarijn en zeezout",
       "korting_tekst": null,
-      "actieprijs": 5.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Duitse biefstuk",
-      "korting_tekst": null,
-      "actieprijs": 7.0,
+      "actieprijs": 0.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Wokgarnalen",
-      "korting_tekst": null,
-      "actieprijs": 7.69,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Rundertartaartjes",
+      "productnaam": "Rucola melange",
       "korting_tekst": null,
-      "actieprijs": 10.99,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Pompoenpitbroodje",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Sesam volkorenbrood",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
       "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Tomahawk steak red roast",
+      "productnaam": "Pizza donut margherita",
       "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gemarineerde BBQ-worst",
-      "korting_tekst": null,
-      "actieprijs": 2.59,
-      "inhoud_waarde": 420,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "BBQ-bavette spies salt & pepper",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Chicken wings buffalo stijl",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Roomdessert 10%",
+      "productnaam": "Flammkuchen ham en ui",
       "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Diepvries"
     },
     {
-      "productnaam": "Achterham",
+      "productnaam": "Gevulde koek",
+      "korting_tekst": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Cookie red velvet",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "HEINZ Tomato Frito",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 780,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SOBA Cup noodles",
       "korting_tekst": null,
       "actieprijs": 1.29,
-      "inhoud_waarde": 150,
+      "inhoud_waarde": 92,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Goudse plakken 30+",
+      "productnaam": "VALESS Vleesvervangers",
       "korting_tekst": null,
       "actieprijs": 2.49,
-      "inhoud_waarde": 300,
+      "inhoud_waarde": 180,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Gouda extra belegen plakken",
+      "productnaam": "IJs met chocolade en amandel",
       "korting_tekst": null,
-      "actieprijs": 5.59,
-      "inhoud_waarde": 500,
+      "actieprijs": 3.19,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Olijven",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
+    },
+    {
+      "productnaam": "Citroenijs op dropstokje",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "OREO Milk choc",
+      "korting_tekst": null,
+      "actieprijs": 1.89,
+      "inhoud_waarde": 264,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "MILKA",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Schwarzwader rondo",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "KINDER Surprise",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "KARVAN CÉVITAM",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "FERNANDES",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
     },
     {
       "productnaam": "TRIPEL KARMELIET, CORONA, HERTOG JAN of LEFFE BLOND",
@@ -516,42 +588,6 @@
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": "Dranken"
-    },
-    {
-      "productnaam": "IT Primitivo Puglia IGT",
-      "korting_tekst": null,
-      "actieprijs": 3.74,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Vin de France chardonnay",
-      "korting_tekst": null,
-      "actieprijs": 4.49,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Badkamer en keukenreiniger",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
-    },
-    {
-      "productnaam": "EDET Toiletpapier 4-laags",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
     },
     {
       "productnaam": "Galzeep met borstel",
