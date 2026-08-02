@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-01T08:04:16.415285+00:00",
+  "updated_at": "2026-08-02T08:06:09.230529+00:00",
   "deals": [
     {
       "productnaam": "Appelkruimelvlaai",
@@ -896,15 +896,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Oral-B opzetborstels",
-      "korting_tekst": null,
-      "actieprijs": 9.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "26 jul - 1 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Always",
       "korting_tekst": "Van € 2,89 voor € 1,99",
       "actieprijs": 1.99,
@@ -1001,6 +992,15 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "29 jul - 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tafellamp met bluetooth speaker",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "2 - 8 aug",
       "categorie": null
     },
     {
