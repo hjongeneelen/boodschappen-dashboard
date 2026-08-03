@@ -2,98 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-02T08:06:09.230529+00:00",
+  "updated_at": "2026-08-03T09:22:22.625612+00:00",
   "deals": [
-    {
-      "productnaam": "Appelkruimelvlaai",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen, Hollandse rode bessen of aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstuk",
-      "korting_tekst": "Van € 7,39 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele gamba's",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperitivo tapasschotel",
-      "korting_tekst": "Van € 4,75 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Castillo de Landa Cava Brut",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperol",
-      "korting_tekst": "Van € 14,49 voor € 10,99",
-      "actieprijs": 10.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Goodoo ijs",
-      "korting_tekst": "Van € 3,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse snackwraps",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen, Hollandse rode bessen of aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
     {
       "productnaam": "BIO+ Hollandse komkommer",
       "korting_tekst": "Van € 1,39 voor € 1,29",
@@ -284,24 +194,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Biefstuk",
-      "korting_tekst": "Van € 7,39 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele gamba's",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "De Vleeschmeesters Gemarineerde lappen",
       "korting_tekst": "Van € 3,85 voor € 2,99",
       "actieprijs": 2.99,
@@ -407,15 +299,6 @@
       "inhoud_waarde": 9,
       "inhoud_unit": "stuks",
       "geldig_tekst": "29 jul - 4 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelkruimelvlaai",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
       "categorie": null
     },
     {
@@ -578,24 +461,6 @@
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": "29 jul - 4 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Castillo de Landa Cava Brut",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperol",
-      "korting_tekst": "Van € 14,49 voor € 10,99",
-      "actieprijs": 10.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
       "categorie": null
     },
     {
@@ -779,24 +644,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Aperitivo tapasschotel",
-      "korting_tekst": "Van € 4,75 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse snackwraps",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "29 jul - 2 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Pokébowl",
       "korting_tekst": "Van € 4,49 voor € 3,99",
       "actieprijs": 3.99,
@@ -857,15 +704,6 @@
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
       "geldig_tekst": "29 jul - 4 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Goodoo ijs",
-      "korting_tekst": "Van € 3,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "29 jul - 2 aug",
       "categorie": null
     },
     {
@@ -992,15 +830,6 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "29 jul - 4 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tafellamp met bluetooth speaker",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "2 - 8 aug",
       "categorie": null
     },
     {
