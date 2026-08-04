@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-08-03T09:27:46.005113+00:00",
+  "updated_at": "2026-08-04T08:26:07.968521+00:00",
   "deals": [
     {
       "productnaam": "Rucola of rucola melanges",
@@ -754,7 +754,7 @@
     {
       "productnaam": "Unox Smaakfavoriet Soep In Zak Klassieke Tomaten 570 ml",
       "korting_tekst": "2 voor 6,00",
-      "actieprijs": 4.99,
+      "actieprijs": 4.69,
       "inhoud_waarde": 570,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 29 jul t/m di 4 aug",
@@ -3373,7 +3373,7 @@
     {
       "productnaam": "Palmolive Douchegel Amandel 500 ml",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 5.99,
+      "actieprijs": 4.0,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 29 jul t/m di 11 aug",
@@ -3625,7 +3625,7 @@
     {
       "productnaam": "Andrélon Pro Nature Shampoo Rosemary Refresh 400 ml",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 8.99,
+      "actieprijs": 5.0,
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 29 jul t/m di 11 aug",
