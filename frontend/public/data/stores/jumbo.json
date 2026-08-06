@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-08-05T08:22:36.521748+00:00",
+  "updated_at": "2026-08-06T08:20:24.569257+00:00",
   "deals": [
     {
       "productnaam": "Jumbo roerbakmix Italiaans, Provençaals of Hollands",
@@ -104,6 +104,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Bospeen",
+      "korting_tekst": "voor 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 5 t/m di 11 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Blauwe bessen",
       "korting_tekst": "1+1 gratis",
       "actieprijs": null,
@@ -167,7 +176,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Meloen Piel de Sap",
+      "productnaam": "Meloen Piel de Sapo",
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -2579,15 +2588,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Palmolive Handzeep Hygiene Rood 300 ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 29 jul t/m di 11 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Sanex Expert Skin Health Protector douchecrème 400ml",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 6.49,
@@ -3401,15 +3401,6 @@
       "productnaam": "Prodent Tandpasta Continuous Freshness 75 ML",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 4.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 29 jul t/m di 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Prodent Tandpasta Wit + Fris 75 ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.59,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 29 jul t/m di 11 aug",
@@ -4445,15 +4436,6 @@
       "productnaam": "LENOR PODS® Was Capsules 15",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 13.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo 29 jul t/m di 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ariel All-in-1 Pods Wasmiddel Big One Kleur 12 Wasbeurten",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 15.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 29 jul t/m di 11 aug",

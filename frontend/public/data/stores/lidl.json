@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-05T08:17:49.699447+00:00",
+  "updated_at": "2026-08-06T08:15:31.519914+00:00",
   "deals": [
     {
       "productnaam": "OMO Wasmiddel",
@@ -401,148 +401,112 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Italiaanse, Thaise of Chinese roerbakmix",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Rucola",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Krieltjes of aardappelschijfjes",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Roombotercroissant",
-      "korting_tekst": null,
-      "actieprijs": 0.35,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Kipfilet naturel of gerookt",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gerookte zalm",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gegrilde beenham",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Maatjesharing met ui",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "WAGNER Pizzeria style",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 365,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Pizzakit",
-      "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
-    },
-    {
-      "productnaam": "Knakworsten",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Chicken wings bucket hot & mild",
+      "productnaam": "Zigeunergehaktsnitzels",
       "korting_tekst": null,
       "actieprijs": 5.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Speklapjes",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Hele dorade",
+      "korting_tekst": null,
+      "actieprijs": 1.59,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Extra mager rundergehakt",
+      "korting_tekst": null,
+      "actieprijs": 9.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Tonijn Naturel of in zonnebloemolie",
+      "productnaam": "Groene hart kaas jong of jong belegen",
+      "korting_tekst": null,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "BECEL",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Halfvolle yoghurt met vanillesmaak",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Verse magere melk",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Vakantie-kaas jong belegen stuk",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Premium muesli",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Filet americain",
       "korting_tekst": null,
       "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Mini crackers",
+      "productnaam": "HEKS'NKAAS",
       "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Wafelhoornijsjes",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 110,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Quiche",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "ALMONDY DAIM taart",
