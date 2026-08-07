@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-06T08:15:31.519914+00:00",
+  "updated_at": "2026-08-07T07:00:41.650446+00:00",
   "deals": [
     {
       "productnaam": "OMO Wasmiddel",
@@ -401,6 +401,78 @@
       "categorie": "Groente & Fruit"
     },
     {
+      "productnaam": "Italiaanse, Thaise of Chinese roerbakmix",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Rucola",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Krieltjes of aardappelschijfjes",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Roombotercroissant",
+      "korting_tekst": null,
+      "actieprijs": 0.35,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Mini calzone margherita",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Chocolade cakedonuts",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Zalmfilets",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Shoarma",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
       "productnaam": "Zigeunergehaktsnitzels",
       "korting_tekst": null,
       "actieprijs": 5.99,
@@ -469,42 +541,6 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Vakantie-kaas jong belegen stuk",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Premium muesli",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Filet americain",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "HEKS'NKAAS",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
@@ -775,7 +811,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -784,7 +820,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -793,7 +829,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -802,7 +838,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -811,7 +847,7 @@
       "actieprijs": 0.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -820,7 +856,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
@@ -829,7 +865,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -838,7 +874,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 25,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/08 - 09/08",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     }
   ]

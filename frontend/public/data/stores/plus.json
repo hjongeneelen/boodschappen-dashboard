@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-06T08:20:36.325020+00:00",
+  "updated_at": "2026-08-07T07:01:28.500500+00:00",
   "deals": [
     {
       "productnaam": "Dr. Oetker Ristorante pizza en piadina",
@@ -137,6 +137,114 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handappels Kanzi",
+      "korting_tekst": "1.99 per kilo",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse pruimen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 756,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Druiven rood pitloos",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nectarines, perziken en wilde perziken",
+      "korting_tekst": "500 gram 1.29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Vastkokende en kruimige aardappelen",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Maiskolven",
+      "korting_tekst": null,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Spinazie biologisch",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bloemkool- en broccoliroosjes",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Poké bowl",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Verse soep",
+      "korting_tekst": "2 voor 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
+      "korting_tekst": "2 voor 7.50",
+      "actieprijs": 7.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
       "categorie": null
     }
   ]
