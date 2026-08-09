@@ -2,125 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-08T06:34:53.761605+00:00",
+  "updated_at": "2026-08-09T06:38:50.188317+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Buikspek of Côte de porc",
-      "korting_tekst": "Van € 5,59 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Roerbakgarnalen",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Roombroodjes",
-      "korting_tekst": "Van € 3,49 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Amogusti gevulde olijven",
-      "korting_tekst": "Van € 1,15 voor € 0,79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites tapas",
-      "korting_tekst": "Van € 2,95 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 210,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Firat Turkse pizza",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "JP Chenet Ice Edition",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ready to eat avocado's",
-      "korting_tekst": "Van € 2,49 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Amogusti gevulde olijven",
-      "korting_tekst": "Van € 1,15 voor € 0,79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ready to eat avocado's",
-      "korting_tekst": "Van € 2,49 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
     {
       "productnaam": "Bieze rauwkost",
       "korting_tekst": "Van € 1,88 voor € 0,99",
@@ -284,33 +167,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Buikspek of Côte de porc",
-      "korting_tekst": "Van € 5,59 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Roerbakgarnalen",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Firat Turkse pizza",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "De Vegetarische Slager burgers",
       "korting_tekst": "Van € 4,49 voor € 1,99",
       "actieprijs": 1.99,
@@ -407,15 +263,6 @@
       "inhoud_waarde": 185,
       "inhoud_unit": "gram",
       "geldig_tekst": "5 - 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Roombroodjes",
-      "korting_tekst": "Van € 3,49 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "5 - 8 aug",
       "categorie": null
     },
     {
@@ -587,15 +434,6 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "5 - 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "JP Chenet Ice Edition",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "5 - 8 aug",
       "categorie": null
     },
     {
@@ -839,24 +677,6 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "5 - 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites tapas",
-      "korting_tekst": "Van € 2,95 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 210,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "5 - 8 aug",
       "categorie": null
     },
     {
