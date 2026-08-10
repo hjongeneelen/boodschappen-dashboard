@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-09T06:38:50.188317+00:00",
+  "updated_at": "2026-08-10T07:10:32.638252+00:00",
   "deals": [
     {
       "productnaam": "Bieze rauwkost",
@@ -72,6 +72,15 @@
       "korting_tekst": "Van € 2,49 voor € 1,89",
       "actieprijs": 1.89,
       "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "5 - 11 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cantaloupe of gele honing meloen",
+      "korting_tekst": "Van € 2,49 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "5 - 11 aug",
       "categorie": null
