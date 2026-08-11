@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-10T07:10:31.312012+00:00",
+  "updated_at": "2026-08-11T06:48:53.160480+00:00",
   "deals": [
     {
       "productnaam": "CORONA",
@@ -185,112 +185,184 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Brookie",
+      "productnaam": "Gesneden fruit",
       "korting_tekst": null,
-      "actieprijs": 2.49,
+      "actieprijs": 0.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Boerenbruin",
+      "productnaam": "Appeltaart",
       "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 800,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 600,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Party donuts",
+      "productnaam": "Koffiebroodje",
       "korting_tekst": null,
-      "actieprijs": 1.99,
+      "actieprijs": 0.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Rib snack of gehaktbal currybroodje",
+      "productnaam": "Kampioentje",
       "korting_tekst": null,
-      "actieprijs": 1.19,
+      "actieprijs": 0.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Gemengd gehakt",
+      "productnaam": "Yoghurt Griekse stijl 10%",
       "korting_tekst": null,
-      "actieprijs": 5.99,
+      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Filterkoffie goud",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kipfilet flinterdun",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Smashburgers",
+      "productnaam": "Yorkham of slagersachterham",
       "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Gehakt cordon bleu",
+      "productnaam": "Rooibosthee",
       "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 42,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Oaties haverkoeken",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Roomboter ongezouten",
+      "korting_tekst": null,
+      "actieprijs": 1.09,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "DR. OETKER Casa di Mama",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 435,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Kipdijsaté spies",
+      "productnaam": "FANTA of SPRITE",
       "korting_tekst": null,
-      "actieprijs": 7.49,
-      "inhoud_waarde": 640,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Dranken"
     },
     {
-      "productnaam": "Chicken wings bucket",
+      "productnaam": "PRÉSIDENT le Brie",
       "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 600,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Gerookte spekreepjes",
+      "productnaam": "Geraspte kazenmix",
       "korting_tekst": null,
-      "actieprijs": 2.69,
-      "inhoud_waarde": 300,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "ALMHOF Volle kwark",
+      "productnaam": "Chili- of bonenschotel",
       "korting_tekst": null,
       "actieprijs": 1.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
-      "productnaam": "Roomdessert",
+      "productnaam": "SWIFFER",
       "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": 150,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Kokosmelk",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 425,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chocozoenen",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 650,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "IJsbekers Amerikaanse stijl",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "MAGNUM",
@@ -716,76 +788,76 @@
       "categorie": null
     },
     {
-      "productnaam": "Gesneden fruit",
+      "productnaam": "Brookie",
       "korting_tekst": null,
-      "actieprijs": 0.99,
+      "actieprijs": 2.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
-      "productnaam": "Appeltaart",
+      "productnaam": "Boerenbruin",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 600,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Koffiebroodje",
+      "productnaam": "Party donuts",
       "korting_tekst": null,
-      "actieprijs": 0.39,
+      "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Kampioentje",
+      "productnaam": "Rib snack of gehaktbal currybroodje",
       "korting_tekst": null,
-      "actieprijs": 0.39,
+      "actieprijs": 1.19,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "SWIFFER",
+      "productnaam": "Gemengd gehakt",
       "korting_tekst": null,
-      "actieprijs": 2.49,
+      "actieprijs": 5.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Smashburgers",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Huishouden"
     },
     {
-      "productnaam": "Kokosmelk",
+      "productnaam": "Gehakt cordon bleu",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 425,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocozoenen",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "IJsbekers Amerikaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Kipdijsaté spies",
+      "korting_tekst": null,
+      "actieprijs": 7.49,
+      "inhoud_waarde": 640,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Vetplant in summer look",

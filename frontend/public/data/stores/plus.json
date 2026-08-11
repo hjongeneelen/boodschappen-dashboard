@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-10T07:11:29.150379+00:00",
+  "updated_at": "2026-08-11T06:49:41.411080+00:00",
   "deals": [
     {
       "productnaam": "Dr. Oetker Ristorante pizza en piadina",
@@ -109,15 +109,6 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Courgette groen",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 5 augustus t/m dinsdag 11 augustus",
       "categorie": null
     },

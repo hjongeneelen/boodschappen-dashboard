@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-10T07:10:32.638252+00:00",
+  "updated_at": "2026-08-11T06:48:55.320638+00:00",
   "deals": [
     {
       "productnaam": "Bieze rauwkost",
@@ -122,29 +122,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Kersen",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "5 - 11 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Pink Lady appels",
       "korting_tekst": "Van € 2,99 voor € 2,69",
       "actieprijs": 2.69,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "5 - 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XL watermeloen",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "5 - 11 aug",
       "categorie": null
     },
@@ -460,15 +442,6 @@
       "actieprijs": 0.59,
       "inhoud_waarde": 230,
       "inhoud_unit": "ml",
-      "geldig_tekst": "5 - 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Desperados of Corona",
-      "korting_tekst": null,
-      "actieprijs": 9.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "5 - 11 aug",
       "categorie": null
     },
