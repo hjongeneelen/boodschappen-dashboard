@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-11T06:48:53.160480+00:00",
+  "updated_at": "2026-08-12T07:08:48.207581+00:00",
   "deals": [
     {
       "productnaam": "CORONA",
@@ -219,42 +219,6 @@
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
-    },
-    {
-      "productnaam": "Yoghurt Griekse stijl 10%",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Filterkoffie goud",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kipfilet flinterdun",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Yorkham of slagersachterham",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Rooibosthee",
@@ -757,7 +721,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 12/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -766,7 +730,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 12/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -775,7 +739,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 12/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -784,7 +748,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 12/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -858,6 +822,42 @@
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Chicken wings bucket",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gerookte spekreepjes",
+      "korting_tekst": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "ALMHOF Volle kwark",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Roomdessert",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Vetplant in summer look",
