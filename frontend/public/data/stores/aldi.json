@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-08-13T07:14:28.843670+00:00",
+  "updated_at": "2026-08-14T07:10:45.269336+00:00",
   "deals": [
     {
       "productnaam": "Blauwe bessen",
@@ -1347,8 +1347,8 @@
     },
     {
       "productnaam": "Wilde perziken",
-      "korting_tekst": "-49%",
-      "actieprijs": 1.75,
+      "korting_tekst": "-57%",
+      "actieprijs": 1.49,
       "inhoud_waarde": 1,
       "inhoud_unit": "kg",
       "geldig_tekst": null,

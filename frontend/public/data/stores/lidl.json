@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-13T07:13:17.715071+00:00",
+  "updated_at": "2026-08-14T07:09:27.314078+00:00",
   "deals": [
     {
       "productnaam": "CORONA",
@@ -329,40 +329,40 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "FANTA of SPRITE",
+      "productnaam": "SWIFFER",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Huishouden"
     },
     {
-      "productnaam": "PRÉSIDENT le Brie",
-      "korting_tekst": null,
-      "actieprijs": 2.19,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Geraspte kazenmix",
+      "productnaam": "Kokosmelk",
       "korting_tekst": null,
       "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Chili- of bonenschotel",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
+      "inhoud_waarde": 425,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
+    },
+    {
+      "productnaam": "Chocozoenen",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "IJsbekers Amerikaanse stijl",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "MAGNUM",
@@ -752,6 +752,42 @@
       "categorie": "Dranken"
     },
     {
+      "productnaam": "FANTA of SPRITE",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "PRÉSIDENT le Brie",
+      "korting_tekst": null,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Geraspte kazenmix",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Chili- of bonenschotel",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Aster-mix in schaal",
       "korting_tekst": null,
       "actieprijs": 4.99,
@@ -788,48 +824,12 @@
       "categorie": null
     },
     {
-      "productnaam": "SWIFFER",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
-    },
-    {
-      "productnaam": "Kokosmelk",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 425,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocozoenen",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "IJsbekers Amerikaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
       "productnaam": "Vetplant in summer look",
       "korting_tekst": null,
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -838,7 +838,7 @@
       "actieprijs": 7.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -847,7 +847,7 @@
       "actieprijs": 11.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -856,7 +856,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -865,7 +865,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -874,7 +874,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
@@ -883,7 +883,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 375,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -892,7 +892,7 @@
       "actieprijs": 4.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 14/08 - 16/08",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     }
   ]
