@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-14T07:09:27.314078+00:00",
+  "updated_at": "2026-08-15T06:21:09.072767+00:00",
   "deals": [
     {
       "productnaam": "CORONA",
@@ -221,42 +221,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Drinkyoghurt",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Bapao",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Baguette kruidenboter",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Karnemelk",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
       "productnaam": "Yoghurt Griekse stijl 10%",
       "korting_tekst": null,
       "actieprijs": 1.49,
@@ -327,6 +291,42 @@
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "FANTA of SPRITE",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "PRÉSIDENT le Brie",
+      "korting_tekst": null,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Geraspte kazenmix",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Chili- of bonenschotel",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
     },
     {
       "productnaam": "SWIFFER",
@@ -750,42 +750,6 @@
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": "Dranken"
-    },
-    {
-      "productnaam": "FANTA of SPRITE",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "PRÉSIDENT le Brie",
-      "korting_tekst": null,
-      "actieprijs": 2.19,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Geraspte kazenmix",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Chili- of bonenschotel",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
     },
     {
       "productnaam": "Aster-mix in schaal",
