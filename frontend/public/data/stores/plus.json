@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-16T06:23:49.826293+00:00",
+  "updated_at": "2026-08-17T06:35:11.794727+00:00",
   "deals": [
     {
       "productnaam": "Alle A-merk IJsrepen",
@@ -131,15 +131,6 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Poké bowl",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Kies & Mix Verse soep",
       "korting_tekst": "2 voor 5.50",
       "actieprijs": 5.5,
@@ -251,6 +242,15 @@
       "productnaam": "PLUS Hollandse maaltijd",
       "korting_tekst": null,
       "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 19 augustus t/m dinsdag 25 augustus",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Poké bowl",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 19 augustus t/m dinsdag 25 augustus",

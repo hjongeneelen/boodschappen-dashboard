@@ -2,125 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-16T06:22:52.084635+00:00",
+  "updated_at": "2026-08-17T06:34:11.557256+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Fruitsalade",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Gebraden rosbief",
-      "korting_tekst": "Van € 3,19 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelkruimeltaart",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstukreepjes",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fresh & Easy lunchsalade",
-      "korting_tekst": "Van € 2,69 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 280,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele zalmzijde",
-      "korting_tekst": null,
-      "actieprijs": 14.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambachtelijke salade",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Amoretti tapas",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen of Hollandse aardbeien",
-      "korting_tekst": "Van € 3,59 voor € 2,89",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Casa Defra Frizzante  Prosecco",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse quiche",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Fruitsalade",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen of Hollandse aardbeien",
-      "korting_tekst": "Van € 3,59 voor € 2,89",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste Andijvie",
       "korting_tekst": "Van € 1,29 voor € 0,99",
@@ -248,6 +131,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Bleekselderij",
+      "korting_tekst": "Van € 1,29 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "12 - 18 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Cosmic crisp appels",
       "korting_tekst": "Van € 1,99 voor € 1,89",
       "actieprijs": 1.89,
@@ -275,39 +167,21 @@
       "categorie": null
     },
     {
-      "productnaam": "Hollandse waspeen",
-      "korting_tekst": "Van € 0,99 voor € 0,89",
-      "actieprijs": 0.89,
+      "productnaam": "XL watermeloen",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
+      "actieprijs": 3.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "12 - 18 aug",
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Gebraden rosbief",
-      "korting_tekst": "Van € 3,19 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstukreepjes",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele zalmzijde",
-      "korting_tekst": null,
-      "actieprijs": 14.49,
+      "productnaam": "Hollandse waspeen",
+      "korting_tekst": "Van € 0,99 voor € 0,89",
+      "actieprijs": 0.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "12 - 16 aug",
+      "geldig_tekst": "12 - 18 aug",
       "categorie": null
     },
     {
@@ -407,15 +281,6 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "12 - 18 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelkruimeltaart",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "12 - 16 aug",
       "categorie": null
     },
     {
@@ -617,15 +482,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Casa Defra Frizzante  Prosecco",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Pepsi, Royal Club, Fanta, Sprite of Fuze Tea",
       "korting_tekst": "Van € 2,65 voor € 0,99",
       "actieprijs": 0.99,
@@ -821,42 +677,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "12 - 18 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fresh & Easy lunchsalade",
-      "korting_tekst": "Van € 2,69 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 280,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambachtelijke salade",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Amoretti tapas",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse quiche",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "12 - 16 aug",
       "categorie": null
     },
     {
