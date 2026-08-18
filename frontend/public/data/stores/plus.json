@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-17T06:35:11.794727+00:00",
+  "updated_at": "2026-08-18T06:27:01.738651+00:00",
   "deals": [
     {
       "productnaam": "Alle A-merk IJsrepen",
@@ -41,15 +41,6 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Handappels Kanzi",
-      "korting_tekst": "1.99 per kilo",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Nederlandse pruimen",
       "korting_tekst": null,
       "actieprijs": 2.99,
@@ -59,10 +50,10 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Mineola's",
-      "korting_tekst": "500 gram 0.89",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 500,
+      "productnaam": "PLUS Handappels Kanzi",
+      "korting_tekst": "1.99 per kilo",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 12 augustus t/m dinsdag 18 augustus",
       "categorie": null

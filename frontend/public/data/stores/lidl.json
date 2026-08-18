@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-17T06:34:09.819602+00:00",
+  "updated_at": "2026-08-18T06:26:01.017946+00:00",
   "deals": [
     {
       "productnaam": "Bloemkool",
@@ -185,42 +185,6 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "MARS, SNICKERS of TWIX ice cream",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "DOUWE EGBERTS Aroma rood filterkoffie",
-      "korting_tekst": null,
-      "actieprijs": 6.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "HEINEKEN",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Broodsalades",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
       "productnaam": "Volkorenbol",
       "korting_tekst": null,
       "actieprijs": 0.39,
@@ -329,6 +293,78 @@
       "categorie": "Dranken"
     },
     {
+      "productnaam": "GALBANI Mozzarella",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "CALVÉ Saus",
+      "korting_tekst": null,
+      "actieprijs": 0.88,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Friet of aardappelpartjes",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "CALVÉ Mayonaise of Yofresh",
+      "korting_tekst": null,
+      "actieprijs": 1.89,
+      "inhoud_waarde": 430,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HELLMANN'S Mayonaise",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 430,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologische groente pizza",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 421,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Mosterd",
+      "korting_tekst": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mini-mix ijs classic",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
       "productnaam": "IJsjes",
       "korting_tekst": null,
       "actieprijs": 1.49,
@@ -432,15 +468,6 @@
       "korting_tekst": null,
       "actieprijs": 0.79,
       "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "POM-BÄR Original",
-      "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 90,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
