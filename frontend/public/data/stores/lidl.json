@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-18T06:26:01.017946+00:00",
+  "updated_at": "2026-08-19T06:27:33.198651+00:00",
   "deals": [
     {
       "productnaam": "Bloemkool",
@@ -185,112 +185,148 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Volkorenbol",
+      "productnaam": "MARS, SNICKERS of TWIX ice cream",
       "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Rol Mexicaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
+      "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Roze fondant pencee",
+      "productnaam": "DOUWE EGBERTS Aroma rood filterkoffie",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
+      "actieprijs": 6.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Kokos berlinerbol",
+      "productnaam": "HEINEKEN",
       "korting_tekst": null,
-      "actieprijs": 0.79,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Broodsalades",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "XXL NUTRITION Fitmeals",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 425,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Koffiepads XXL",
+      "korting_tekst": null,
+      "actieprijs": 3.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
-      "productnaam": "BBQ-worstjes piri piri",
+      "productnaam": "Zalmfilet op huid",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 420,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipfilet",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Schouderfiletlapjes XXL",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdijspies yakitori",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Knakworsten",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 12,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Pangasiusfilet tuinkruiden",
+      "productnaam": "Extra mager rundergehakt",
       "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Vegan champignonburger of shoarma",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
+      "actieprijs": 8.99,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Verse sappen of smoothies",
+      "productnaam": "YAKULT original",
       "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 500,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "DANIO",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Chocolade vla",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Olijfolie mild",
+      "korting_tekst": null,
+      "actieprijs": 6.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROMA Bakken en Braden",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Crème fraîche",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Ricotta",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "PARRANO Snippers of rasp",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "GALBANI Mozzarella",
@@ -595,7 +631,7 @@
       "actieprijs": 1.59,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -604,7 +640,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -613,7 +649,7 @@
       "actieprijs": 7.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -622,7 +658,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -631,7 +667,7 @@
       "actieprijs": 6.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -640,7 +676,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -649,7 +685,7 @@
       "actieprijs": 7.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 19/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
