@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-20T06:27:55.952154+00:00",
+  "updated_at": "2026-08-21T06:29:03.582372+00:00",
   "deals": [
     {
       "productnaam": "Bloemkool",
@@ -113,76 +113,76 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Aardappels kruimig of vastkokend",
+      "productnaam": "Aardappelschijfjes naturel",
       "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Croissant ham/kaas",
-      "korting_tekst": null,
-      "actieprijs": 0.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Volkoren bollen",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Brownietaart",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Volkorenbol",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Rol Mexicaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
+      "actieprijs": 1.59,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Roze fondant pencee",
+      "productnaam": "Bio kokos rijstdrink",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Plantaardige vanille- of chocoladevla",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Linzen",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 425,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Kokos berlinerbol",
+      "productnaam": "Kidneybonen",
       "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": 425,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
+    },
+    {
+      "productnaam": "Witte bonen in tomatensaus",
+      "korting_tekst": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Bio amandeldrink ongezoet",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Sperziebonen gebroken en gedopt",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "BBQ-worstjes piri piri",
@@ -221,40 +221,76 @@
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "GALBANI Mozzarella",
+      "productnaam": "Knakworsten",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "CALVÉ Saus",
+      "productnaam": "Pangasiusfilet tuinkruiden",
       "korting_tekst": null,
-      "actieprijs": 0.88,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Friet of aardappelpartjes",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 750,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "CALVÉ Mayonaise of Yofresh",
+      "productnaam": "Vegan champignonburger of shoarma",
       "korting_tekst": null,
-      "actieprijs": 1.89,
-      "inhoud_waarde": 430,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Verse sappen of smoothies",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "100% pindakaas",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Runderrookvlees",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Kipfilet pittig of tuinkruiden",
+      "korting_tekst": null,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Goudse belegen kaasplakken",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "HELLMANN'S Mayonaise",
@@ -586,7 +622,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -595,7 +631,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 600,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -604,7 +640,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
@@ -613,7 +649,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -622,7 +658,7 @@
       "actieprijs": 1.89,
       "inhoud_waarde": 170,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -631,7 +667,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -640,7 +676,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 570,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -649,7 +685,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 320,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 21/08 - 23/08",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     }
   ]
