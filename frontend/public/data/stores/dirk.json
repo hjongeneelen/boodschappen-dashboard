@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-24T06:37:06.581863+00:00",
+  "updated_at": "2026-08-25T06:28:55.301053+00:00",
   "deals": [
     {
       "productnaam": "Hak groente of appelmoes",
@@ -528,7 +528,7 @@
     },
     {
       "productnaam": "Corona",
-      "korting_tekst": "Van € 9,99 voor € 8,99",
+      "korting_tekst": null,
       "actieprijs": 8.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
