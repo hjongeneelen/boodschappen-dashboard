@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-08-25T06:30:03.761537+00:00",
+  "updated_at": "2026-08-26T06:32:18.198461+00:00",
   "deals": [
     {
       "productnaam": "24-pack Heineken",
@@ -195,7 +195,7 @@
     },
     {
       "productnaam": "Nederlandse aardbeien",
-      "korting_tekst": "-14%",
+      "korting_tekst": "-20%",
       "actieprijs": 2.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",

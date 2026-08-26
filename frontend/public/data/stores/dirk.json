@@ -2,123 +2,141 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-08-25T06:28:55.301053+00:00",
+  "updated_at": "2026-08-26T06:30:57.278836+00:00",
   "deals": [
     {
-      "productnaam": "Hak groente of appelmoes",
-      "korting_tekst": "Van € 2,85 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 370,
+      "productnaam": "1 de Beste IJsbergsla",
+      "korting_tekst": "Van € 1,19 voor € 0,89",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste luxe sla",
-      "korting_tekst": "Van € 1,49 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "productnaam": "1 de Beste Watermeloen part",
+      "korting_tekst": "Van € 1,99 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Eat me passiefruit",
-      "korting_tekst": "Van € 2,49 voor € 0,99",
-      "actieprijs": 0.99,
+      "productnaam": "BIO+ Hollandse portobello's",
+      "korting_tekst": "Van € 1,69 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hollandse komkommer",
+      "korting_tekst": "Van € 0,75 voor € 0,59",
+      "actieprijs": 0.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hollandse Elstar appels",
+      "korting_tekst": "Van € 2,49 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hollandse uien",
+      "korting_tekst": "Van € 1,69 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rode snoeptomaten",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle groente",
+      "korting_tekst": "Van € 2,35 voor € 0,69",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Citroenen",
+      "korting_tekst": "Van € 1,49 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Verse friet",
+      "korting_tekst": "Van € 2,39 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Avocado's",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bio Zespri kiwi's gold",
+      "korting_tekst": "Van € 3,49 voor € 2,99",
+      "actieprijs": 2.99,
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Hollandse maiskolf",
-      "korting_tekst": null,
-      "actieprijs": 0.49,
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "Van € 3,59 voor € 2,99",
+      "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Pruimen",
-      "korting_tekst": "Van € 1,89 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Bami nasi groente",
-      "korting_tekst": "Van € 1,79 voor € 1,29",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Hollandse zoete puntpaprika's",
-      "korting_tekst": "Van € 2,89 voor € 1,79",
-      "actieprijs": 1.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Pitloze witte druiven",
-      "korting_tekst": "Van € 2,39 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Groene asperges",
+      "productnaam": "Cocktailtrostomaten",
       "korting_tekst": "Van € 2,99 voor € 2,49",
       "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Nectarines",
-      "korting_tekst": "Van € 2,49 voor € 1,89",
-      "actieprijs": 1.89,
+      "productnaam": "Courgette",
+      "korting_tekst": "Van € 0,79 voor € 0,69",
+      "actieprijs": 0.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Gran Pavesi crackers",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Mini troscherrytomaten",
-      "korting_tekst": "Van € 2,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Del Monte ananas",
-      "korting_tekst": "Van € 1,99 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
@@ -127,781 +145,907 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Grote knoflook",
-      "korting_tekst": "Van € 1,69 voor € 1,49",
+      "productnaam": "Gele meloen",
+      "korting_tekst": "Van € 2,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gesneden kastanje champignons",
+      "korting_tekst": "Van € 1,79 voor € 1,49",
       "actieprijs": 1.49,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse Jonagold appels",
-      "korting_tekst": "Van € 1,95 voor € 1,79",
-      "actieprijs": 1.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse sperziebonen",
-      "korting_tekst": "Van € 1,69 voor € 1,29",
-      "actieprijs": 1.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mini romaine sla",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Minneola's",
-      "korting_tekst": "Van € 1,79 voor € 1,19",
-      "actieprijs": 1.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zoete aardappelen",
-      "korting_tekst": "Van € 1,39 voor € 1,29",
-      "actieprijs": 1.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Limoenen",
-      "korting_tekst": "Van € 0,99 voor € 0,79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Granny Smith appels",
-      "korting_tekst": "Van € 3,29 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Boterhamworst",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 90,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Flinterdunne salami",
-      "korting_tekst": "Van € 1,25 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Extra mager rundergehakt",
-      "korting_tekst": "Van € 4,42 voor € 3,99",
-      "actieprijs": 3.99,
+      "productnaam": "Hollandse bloemkool",
+      "korting_tekst": "Van € 1,75 voor € 1,49",
+      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Kip toink balls",
-      "korting_tekst": "Van € 3,89 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Shoarma",
-      "korting_tekst": "Van € 6,99 voor € 4,99",
-      "actieprijs": 4.99,
+      "productnaam": "Pitloze rode druiven",
+      "korting_tekst": "Van € 2,39 voor € 1,89",
+      "actieprijs": 1.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Verse spareribs",
-      "korting_tekst": "Van € 8,99 voor € 6,99",
+      "productnaam": "Wilde perziken",
+      "korting_tekst": "Van € 2,49 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "AL Jawhara Medjoul dadels",
+      "korting_tekst": "Van € 7,99 voor € 6,99",
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Pangasiusfilet",
+      "productnaam": "Cosmic crisp appels",
+      "korting_tekst": "Van € 1,99 voor € 1,89",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Runder- of kipchipolata's",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 5,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Speklappen à la minute",
+      "korting_tekst": "Van € 4,35 voor € 3,89",
+      "actieprijs": 3.89,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Valess",
+      "korting_tekst": "Van € 3,65 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Grillburgers",
+      "korting_tekst": "Van € 4,99 voor € 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Kipgehakt",
       "korting_tekst": "Van € 5,99 voor € 4,99",
       "actieprijs": 4.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vegetarische shoarma",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 175,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Meesterlijke ham of Schwarzwalder schinken gerookt",
-      "korting_tekst": "Van € 3,29 voor € 2,49",
-      "actieprijs": 2.49,
+      "productnaam": "Zalmfilet met huid",
+      "korting_tekst": "Van € 11,25 voor € 7,99",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Gebraden kipfilet",
+      "korting_tekst": "Van € 2,09 voor € 1,99",
+      "actieprijs": 1.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Deepblue tonijn",
-      "korting_tekst": "Van € 3,29 voor € 2,59",
-      "actieprijs": 2.59,
-      "inhoud_waarde": 385,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verkade Originals",
-      "korting_tekst": "Van € 1,87 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "American cookies",
-      "korting_tekst": "Van € 1,78 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ciabatta",
-      "korting_tekst": "Van € 0,79 voor € 0,59",
-      "actieprijs": 0.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mexicano- of kipnuggetbroodje",
-      "korting_tekst": "Van € 1,29 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Polders wit",
-      "korting_tekst": "Van € 1,99 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melvita honing",
-      "korting_tekst": "Van € 4,09 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 365,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nescafé ijskoffie",
-      "korting_tekst": "Van € 1,89 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Boursin knoflook & fijne kruiden",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Wolkentoetje",
-      "korting_tekst": "Van € 0,79 voor € 0,49",
-      "actieprijs": 0.49,
+      "productnaam": "1 de Beste Grillworst",
+      "korting_tekst": "Van € 1,99 voor € 1,69",
+      "actieprijs": 1.69,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Melkunie Breaker",
-      "korting_tekst": "Van € 1,66 voor € 0,99",
-      "actieprijs": 0.99,
+      "productnaam": "1 de Beste Kipfilet met tuinkruiden",
+      "korting_tekst": "Van € 2,23 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Knaks",
+      "korting_tekst": "Van € 3,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Runderrookvlees",
+      "korting_tekst": "Van € 2,89 voor € 2,79",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Culinaire beenham",
+      "korting_tekst": "Van € 5,99 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Premier Zeeuwse mosselen",
+      "korting_tekst": "Van € 5,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Calvé pindakaas",
+      "korting_tekst": "Van € 6,29 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bakker van der Akker Multikorn volkoren of boeren extra vezels volkoren",
+      "korting_tekst": "Van € 1,99 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bakker van der Akker Witte puntjes",
+      "korting_tekst": "Van € 0,99 voor € 0,79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Beemsterkaasbroodje",
+      "korting_tekst": "Van € 0,95 voor € 0,79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mini boterkoeken",
+      "korting_tekst": "Van € 1,98 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verse broodjes",
+      "korting_tekst": "Van € 0,55 voor € 0,39",
+      "actieprijs": 0.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Liga Evergreen",
+      "korting_tekst": "Van € 2,75 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Snack a Jacks rijstwafels",
+      "korting_tekst": "Van € 2,69 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 166,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Schäre brood, wraps of flatbread",
+      "korting_tekst": "Van € 3,19 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "LU Scholiertje of Pim's",
+      "korting_tekst": "Van € 3,45 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Luxe bakkers tompoucen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Philadelphia zuivelspread",
+      "korting_tekst": "Van € 2,85 voor € 1,69",
+      "actieprijs": 1.69,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Optimel vezels",
-      "korting_tekst": "Van € 2,39 voor € 0,99",
+      "productnaam": "Douwe Egberts ice coffee",
+      "korting_tekst": "Van € 1,55 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Galbani maxi mozzarella",
+      "korting_tekst": "Van € 2,59 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parrano rasp, mozzarella rasp of snippers",
+      "korting_tekst": "Van € 2,95 voor € 1,59",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 135,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Activia yoghurt",
+      "korting_tekst": "Van € 3,09 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Almhof roomyoghurt",
+      "korting_tekst": "Van € 2,55 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "M&M's, Twix of Danio duo",
+      "korting_tekst": "Van € 1,21 voor € 0,79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Croma bakken en braden",
+      "korting_tekst": "Van € 4,29 voor € 2,89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zuivelhoeve Boer'n vla",
+      "korting_tekst": "Van € 1,98 voor € 0,99",
       "actieprijs": 0.99,
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Den Eelder",
-      "korting_tekst": "Van € 1,75 voor € 0,89",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm",
-      "korting_tekst": "Van € 2,19 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uniekaas hotelplakken 48+",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vergeer geraspte kaas",
-      "korting_tekst": "Van € 2,49 voor € 1,69",
+      "productnaam": "Beemster kaasplakken 30+ of 48+",
+      "korting_tekst": "Van € 3,65 voor € 1,69",
       "actieprijs": 1.69,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Oatly haverdrink",
-      "korting_tekst": "Van € 3,65 voor € 1,29",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
+      "productnaam": "Bits & Bites Buitenlandse kaas",
+      "korting_tekst": "Van € 2,29 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 - 30 aug",
       "categorie": null
     },
     {
-      "productnaam": "AA Drink of Addmoore",
-      "korting_tekst": "Van € 1,69 voor € 0,79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Arizona of Pure Plus aloë vera drink",
-      "korting_tekst": "Van € 1,69 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ashford biologische thee",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
+      "productnaam": "Fruity Juice",
+      "korting_tekst": "Van € 3,65 voor € 2,69",
+      "actieprijs": 2.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Evian of Volvic",
-      "korting_tekst": "Van € 1,35 voor € 0,99",
+      "productnaam": "Douwe Egberts ice coffee",
+      "korting_tekst": "Van € 1,55 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Starbucks koffiebonen",
+      "korting_tekst": "Van € 13,35 voor € 8,99",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Texels Skuumkoppe 0.0",
+      "korting_tekst": "Van € 8,49 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nescafé koffiespecialiteiten",
+      "korting_tekst": "Van € 4,29 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick thee",
+      "korting_tekst": "Van € 3,95 voor € 2,19",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Fruitdrink",
+      "korting_tekst": "Van € 2,19 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola",
+      "korting_tekst": "Van € 2,89 voor € 1,79",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Slimpie limonadesiroop",
+      "korting_tekst": "Van € 3,39 voor € 1,79",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Van de Boom groene ijsthee",
+      "korting_tekst": "Van € 1,99 voor € 0,99",
       "actieprijs": 0.99,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Innocent shot of smoothie",
-      "korting_tekst": "Van € 1,92 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje, Dubbelfrisss of Taksi",
-      "korting_tekst": "Van € 3,39 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Douwe Egberts Gold oploskoffie",
-      "korting_tekst": "Van € 9,29 voor € 6,99",
-      "actieprijs": 6.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR of Douwe Egberts Excellent koffiebonen",
-      "korting_tekst": "Van € 12,65 voor € 8,99",
-      "actieprijs": 8.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Oatly haverdrink",
-      "korting_tekst": "Van € 3,65 voor € 1,29",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola of Fanta orange",
-      "korting_tekst": "Van € 4,85 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Corona",
-      "korting_tekst": null,
-      "actieprijs": 8.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grolsch Radler",
-      "korting_tekst": "Van € 5,29 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Heineken",
-      "korting_tekst": "Van € 18,95 voor € 14,21",
-      "actieprijs": 14.21,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grolsch pils",
-      "korting_tekst": "Van € 18,65 voor € 13,99",
-      "actieprijs": 13.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog Jan pils of 0.0",
+      "productnaam": "Apple Bandit Juicy Apple, Desperados Original of Hoegaarden",
       "korting_tekst": "Van € 8,99 voor € 6,74",
       "actieprijs": 6.74,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Lipton",
-      "korting_tekst": "Van € 3,25 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Chilano",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
+      "productnaam": "Heineken pils of 0.0",
+      "korting_tekst": "Van € 5,99 voor € 4,49",
+      "actieprijs": 4.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Park Villa Classic Selection",
-      "korting_tekst": "Van € 4,29 voor € 3,29",
-      "actieprijs": 3.29,
+      "productnaam": "Hertog Jan pils",
+      "korting_tekst": "Van € 19,95 voor € 14,96",
+      "actieprijs": 14.96,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Honig maaltijdmix",
-      "korting_tekst": "Van € 1,93 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "productnaam": "Amstel pils",
+      "korting_tekst": "Van € 16,89 voor € 12,67",
+      "actieprijs": 12.67,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "XXL Nutrition reep",
-      "korting_tekst": "Van € 2,55 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "productnaam": "Texels Zeebries of Skuumkoppe",
+      "korting_tekst": "Van € 8,99 voor € 6,74",
+      "actieprijs": 6.74,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Carbonell zon & olijf",
-      "korting_tekst": "Van € 6,99 voor € 4,99",
+      "productnaam": "Barefoot",
+      "korting_tekst": "Van € 6,65 voor € 4,99",
       "actieprijs": 4.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Remia tafelsaus",
-      "korting_tekst": "Van € 2,15 voor € 1,19",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
+      "productnaam": "Corte Fresca",
+      "korting_tekst": "Van € 4,99 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Holie's granola of Loops",
-      "korting_tekst": "Van € 4,29 voor € 1,99",
+      "productnaam": "Gibson of De Kuyper cocktail 0.0%",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Conimex kroepoek",
+      "korting_tekst": "Van € 1,85 voor € 0,79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Olijfolie",
+      "korting_tekst": "Van € 9,19 voor € 4,89",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hela kruidenketchup curry",
+      "korting_tekst": "Van € 3,15 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hellmann's Real mayonaise",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker kwark of Monchou taart",
+      "korting_tekst": "Van € 3,79 voor € 2,89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig pasta",
+      "korting_tekst": "Van € 1,89 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Schäre brood, wraps of flatbread",
+      "korting_tekst": "Van € 3,19 voor € 1,99",
       "actieprijs": 1.99,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kikkoman sojasaus of Laoganma crispy chili oil",
-      "korting_tekst": "Van € 4,29 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox of Conimex soep in zak",
-      "korting_tekst": "Van € 4,75 voor € 1,39",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse pita",
-      "korting_tekst": "Van € 1,59 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
       "productnaam": "Maaltijd verspakket",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
+      "korting_tekst": "Van € 4,49 voor € 3,99",
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Daily Chef Hollandse maaltijd",
-      "korting_tekst": "Van € 5,45 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Johma brood- of toastsalade",
-      "korting_tekst": "Van € 3,75 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Indomie noodles",
-      "korting_tekst": "Van € 3,15 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 5,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Santa Maria wraps",
-      "korting_tekst": "Van € 3,05 voor € 1,49",
-      "actieprijs": 1.49,
+      "productnaam": "Jan volkoren pannenkoeken of poffertjes",
+      "korting_tekst": "Van € 3,29 voor € 1,79",
+      "actieprijs": 1.79,
       "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Casa di Mama pizza",
-      "korting_tekst": "Van € 4,15 voor € 2,29",
-      "actieprijs": 2.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "productnaam": "Johma salade",
+      "korting_tekst": "Van € 2,75 voor € 1,89",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Iglo Roerbak Sensatie",
-      "korting_tekst": "Van € 5,95 voor € 3,99",
+      "productnaam": "Mealmasters verse maaltijd",
+      "korting_tekst": "Van € 5,89 voor € 3,99",
       "actieprijs": 3.99,
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Oreo, Lotus, Mars of Snickers handijs",
-      "korting_tekst": "Van € 4,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 5,
+      "productnaam": "Knorr Cup a Soup",
+      "korting_tekst": "Van € 2,05 voor € 0,79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Odorex deodorant roller",
-      "korting_tekst": "Van € 3,45 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Colgate tandpasta",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Olvarit maaltijd",
-      "korting_tekst": "Van € 1,75 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive shampoo of conditioner",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
+      "productnaam": "Pokébowl",
+      "korting_tekst": "Van € 4,49 voor € 3,99",
       "actieprijs": 3.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 - 30 aug",
       "categorie": null
     },
     {
-      "productnaam": "Nivea douchegel",
+      "productnaam": "Bits & Bites Tapas",
+      "korting_tekst": "Van € 1,99 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mediterraneo pizza of mini focaccia's",
+      "korting_tekst": "Van € 2,49 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 - 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lamb Weston fries",
+      "korting_tekst": "Van € 2,95 voor € 1,89",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pirulo waterijs",
+      "korting_tekst": "Van € 3,89 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 9,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza",
+      "korting_tekst": "Van € 3,79 voor € 1,89",
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Axe deodorant",
       "korting_tekst": "Van € 2,99 voor € 1,99",
       "actieprijs": 1.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne tandpasta",
+      "korting_tekst": "Van € 2,89 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Garnier Botanic Therapy shampoo",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Always maandverband of inlegkruisjes",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 66,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette scheerschuim of -gel",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Glorix toiletblok",
-      "korting_tekst": "Van € 3,49 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page vochtig toiletpapier",
-      "korting_tekst": "Van € 2,19 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pedigree Dentastix light",
-      "korting_tekst": "Van € 1,55 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 7,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Edet keukenpapier",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "IAMS kattenbrokjes",
-      "korting_tekst": "Van € 5,29 voor € 2,69",
-      "actieprijs": 2.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lenor geurparels",
-      "korting_tekst": "Van € 7,95 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 155,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn wasmiddel",
-      "korting_tekst": "Van € 13,75 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn wasverzachter",
-      "korting_tekst": "Van € 7,55 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Haribo Fizz of Maoam",
-      "korting_tekst": "Van € 2,15 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 230,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "LU Tuc",
-      "korting_tekst": "Van € 1,25 voor € 0,69",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Gran Pavesi crackers",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Cheetos, Pomtips of Mama Mia's",
-      "korting_tekst": "Van € 2,35 voor € 1,49",
+      "productnaam": "Palmolive douchegel",
+      "korting_tekst": "Van € 4,19 voor € 1,49",
       "actieprijs": 1.49,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "19 - 25 aug",
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Mars, Snickers, Twix of Bounty",
-      "korting_tekst": "Van € 4,15 voor € 2,29",
-      "actieprijs": 2.29,
+      "productnaam": "Pampers Premium protection, baby dry of baby dry pants",
+      "korting_tekst": null,
+      "actieprijs": 9.99,
+      "inhoud_waarde": 56,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fairy afwasmiddel",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "19 - 25 aug",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Fresh Air wasverzachter",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whiskas kattenbrokjes",
+      "korting_tekst": "Van € 3,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page toiletpapier Zacht & Sterk",
+      "korting_tekst": "Van € 7,69 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ajax allesreiniger of shower power",
+      "korting_tekst": "Van € 3,35 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Frolic hondenbrokjes",
+      "korting_tekst": "Van € 4,89 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix bleek original of zonder bleek",
+      "korting_tekst": "Van € 1,93 voor € 1,59",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Omo wasmiddel",
+      "korting_tekst": null,
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vanish",
+      "korting_tekst": "Van € 7,59 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chio Heartbreakers",
+      "korting_tekst": "Van € 1,87 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sportlife kauwgom",
+      "korting_tekst": "Van € 3,35 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Haribo of Autodrop uitdeelzak",
+      "korting_tekst": "Van € 3,35 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Look-O-Look",
+      "korting_tekst": "Van € 2,36 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Mmmax",
+      "korting_tekst": "Van € 5,69 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lay's Oven Baked",
+      "korting_tekst": "Van € 2,39 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "26 aug - 1 sep",
       "categorie": null
     }
   ]
