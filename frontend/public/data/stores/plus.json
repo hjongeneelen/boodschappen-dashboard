@@ -2,6 +2,232 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-26T06:31:56.633542+00:00",
-  "deals": []
+  "updated_at": "2026-08-27T17:06:45.405054+00:00",
+  "deals": [
+    {
+      "productnaam": "Alle PLUS Klaverland Kaas stukken en plakken",
+      "korting_tekst": "100 gram 1.00",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Melkunie Breaker",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Groenteconserven",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Haribo",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bananen Fairtrade",
+      "korting_tekst": "1 per kilo",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handperen Conference",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handappels Kanzi",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Mandarijnen extra groot GVP",
+      "korting_tekst": "VOORDEELVERPAKKING",
+      "actieprijs": 3.89,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse pruimen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 756,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse Aardbeien",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Avocado",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Kruimige en vastkokende aardappelen",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Trostomaten",
+      "korting_tekst": "500 gram 0.79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Courgette groen",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Broccoli",
+      "korting_tekst": "500 gram 1.00",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bleekselderij",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Gesneden verspakket",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Verse maaltijd",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Poké bowl",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Kadir's Bapao",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Verse soep",
+      "korting_tekst": "2 voor 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
+      "korting_tekst": "2 voor 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
+      "korting_tekst": "2 voor 7.50",
+      "actieprijs": 7.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-26T06:30:55.200468+00:00",
+  "updated_at": "2026-08-27T17:05:43.751073+00:00",
   "deals": [
     {
       "productnaam": "Walnoten ongezouten",
@@ -383,112 +383,112 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Frikandelbroodje",
+      "productnaam": "Hele zalmzijde op huid",
       "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 235,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Bruine bollen",
+      "productnaam": "Kip ovenschotel sweet chili",
       "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Walnoten-honingbroodje",
-      "korting_tekst": null,
-      "actieprijs": 0.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Sesam volkoren lang lekker",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 800,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 580,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Energy drink XXL",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "WAGNER Pizza Fina",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 360,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Spaghetti of penne",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Poffertjes",
-      "korting_tekst": null,
-      "actieprijs": 2.09,
-      "inhoud_waarde": 625,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Pitabroodjes",
+      "productnaam": "Plantaardige nuggets of kipburger",
       "korting_tekst": null,
       "actieprijs": 1.49,
-      "inhoud_waarde": 800,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Olijven zonder pit",
+      "productnaam": "Valess",
       "korting_tekst": null,
-      "actieprijs": 2.59,
-      "inhoud_waarde": 720,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Satésaus kant & klaar",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 520,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 180,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Nasi goreng of Bami goreng gewokt",
+      "productnaam": "Griekse stijl yoghurt 2%",
       "korting_tekst": null,
-      "actieprijs": 3.49,
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Goudse kaasplakken",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Fruit-yoghurt Griekse style",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Gerookte scharrel kipfilet",
+      "korting_tekst": null,
+      "actieprijs": 2.39,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gouda extra oud plakken",
+      "korting_tekst": null,
+      "actieprijs": 6.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "OPTIMEL Kwark",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Smeerkaas",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Roomboter-croissants",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "FAIRTRADE ORIGINAL Curry kruidenpasta",
@@ -527,76 +527,76 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Ontbijtspek",
+      "productnaam": "Kipsaté bakje",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
-      "productnaam": "Patat frites",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Picco pizzi",
+      "productnaam": "Maria Biscuits",
       "korting_tekst": null,
       "actieprijs": 1.99,
-      "inhoud_waarde": 360,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "Chickenwings",
+      "productnaam": "Scharrel- eierkoeken",
       "korting_tekst": null,
-      "actieprijs": 5.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Geraspte mozzarella",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.66,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Verse focaccia",
+      "productnaam": "Fruitgom partymix",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 165,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1200,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "HARIBO",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "M&M's of MALTESERS",
+      "korting_tekst": null,
+      "actieprijs": 2.25,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Koffiedrink",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wraps XXL",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Oven rundvlees kroketten",
-      "korting_tekst": null,
-      "actieprijs": 3.39,
-      "inhoud_waarde": 480,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Oven mini snacks",
-      "korting_tekst": null,
-      "actieprijs": 5.49,
-      "inhoud_waarde": 640,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
     },
     {
       "productnaam": "Mayonaise in knijpfles",
