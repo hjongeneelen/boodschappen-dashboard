@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-27T17:06:45.405054+00:00",
+  "updated_at": "2026-08-28T17:54:39.162535+00:00",
   "deals": [
     {
       "productnaam": "Alle PLUS Klaverland Kaas stukken en plakken",
@@ -227,6 +227,204 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Galia meloen",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Citroenen (voordeelverpakking)",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Mineola's",
+      "korting_tekst": "500 gram 0.99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Witte, rode en Sable druiven",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nectarines",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 gram 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neutraal Aardappels",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "kg",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Zoete aardappelfriet",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Snoeptomaten rood",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Puntpaprika rood",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Cocktailtrostomaten",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS IJsbergsla fijn",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Salades",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Snijbonen (ongesneden)",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologische van PLUS Groene en rode linzen",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Oosterse maaltijd",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Verse Loempia",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Verse soep",
+      "korting_tekst": "2 voor 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
+      "korting_tekst": "2 voor 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
+      "korting_tekst": "2 voor 7.50",
+      "actieprijs": 7.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
       "categorie": null
     }
   ]
