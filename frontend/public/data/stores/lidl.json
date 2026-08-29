@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-28T17:53:49.116093+00:00",
+  "updated_at": "2026-08-29T11:58:10.346587+00:00",
   "deals": [
     {
       "productnaam": "Walnoten ongezouten",
@@ -347,6 +347,78 @@
       "categorie": "Groente & Fruit"
     },
     {
+      "productnaam": "Lente ui",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Verse vijgen",
+      "korting_tekst": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Italiaanse roerbakgroenten",
+      "korting_tekst": null,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Maaltijdsalades",
+      "korting_tekst": null,
+      "actieprijs": 2.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "JACK LINK'S Beef Jerky",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "BIFI",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 110,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "KNORR Cup-a-soup of Good Noodles of pasta",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 71,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kip samurai of tonijnsalade",
+      "korting_tekst": null,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
       "productnaam": "Energy drink XXL",
       "korting_tekst": null,
       "actieprijs": 0.89,
@@ -455,76 +527,76 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Ontbijtspek",
+      "productnaam": "Kipsaté bakje",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
-      "productnaam": "Patat frites",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Picco pizzi",
+      "productnaam": "Maria Biscuits",
       "korting_tekst": null,
       "actieprijs": 1.99,
-      "inhoud_waarde": 360,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "Chickenwings",
+      "productnaam": "Scharrel- eierkoeken",
       "korting_tekst": null,
-      "actieprijs": 5.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Geraspte mozzarella",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.66,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Verse focaccia",
+      "productnaam": "Fruitgom partymix",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 165,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1200,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "HARIBO",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "M&M's of MALTESERS",
+      "korting_tekst": null,
+      "actieprijs": 2.25,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Koffiedrink",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wraps XXL",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Oven rundvlees kroketten",
-      "korting_tekst": null,
-      "actieprijs": 3.39,
-      "inhoud_waarde": 480,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Oven mini snacks",
-      "korting_tekst": null,
-      "actieprijs": 5.49,
-      "inhoud_waarde": 640,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
     },
     {
       "productnaam": "Mayonaise in knijpfles",
