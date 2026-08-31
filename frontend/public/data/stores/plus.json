@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-30T10:56:01.955206+00:00",
+  "updated_at": "2026-08-31T12:10:19.281444+00:00",
   "deals": [
     {
       "productnaam": "Alle PLUS Klaverland Kaas stukken en plakken",
@@ -177,15 +177,6 @@
     },
     {
       "productnaam": "Uit de keuken van PLUS Verse maaltijd",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Poké bowl",
       "korting_tekst": null,
       "actieprijs": 4.99,
       "inhoud_waarde": null,

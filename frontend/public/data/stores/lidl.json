@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-08-30T10:55:03.939455+00:00",
+  "updated_at": "2026-08-31T12:09:20.536311+00:00",
   "deals": [
     {
       "productnaam": "Notenmelange",
@@ -10,7 +10,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -37,7 +37,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 370,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 8.49,
       "inhoud_waarde": 5000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 465,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -73,7 +73,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -82,7 +82,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -91,7 +91,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -100,7 +100,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -109,7 +109,7 @@
       "actieprijs": 0.49,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -118,16 +118,16 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
       "productnaam": "Hollandse aardbeien",
       "korting_tekst": null,
-      "actieprijs": 2.69,
+      "actieprijs": 2.39,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -136,7 +136,7 @@
       "actieprijs": 5.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -145,7 +145,7 @@
       "actieprijs": 1.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -154,7 +154,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -163,7 +163,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -172,7 +172,7 @@
       "actieprijs": 2.69,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -181,7 +181,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -190,7 +190,7 @@
       "actieprijs": 1.79,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -199,7 +199,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 440,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -208,7 +208,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -217,7 +217,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 535,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -226,7 +226,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -235,7 +235,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -244,7 +244,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -253,7 +253,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -262,7 +262,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -271,7 +271,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -280,7 +280,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -289,7 +289,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -298,7 +298,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -307,7 +307,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -316,7 +316,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -325,7 +325,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -334,7 +334,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -343,7 +343,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -352,7 +352,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -361,7 +361,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -370,7 +370,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -379,7 +379,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -388,7 +388,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -397,7 +397,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -406,7 +406,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -415,7 +415,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -424,7 +424,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -433,7 +433,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -442,7 +442,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -451,7 +451,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -460,7 +460,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -469,7 +469,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -478,7 +478,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -487,7 +487,7 @@
       "actieprijs": 1.64,
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -496,7 +496,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -505,7 +505,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 780,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -514,7 +514,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 520,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -523,7 +523,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -532,7 +532,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -541,7 +541,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 80,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -550,7 +550,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -559,7 +559,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 2000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -568,7 +568,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -577,7 +577,7 @@
       "actieprijs": 5.99,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -586,7 +586,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -595,7 +595,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -604,7 +604,7 @@
       "actieprijs": 3.29,
       "inhoud_waarde": 6000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -613,7 +613,7 @@
       "actieprijs": 3.79,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -622,7 +622,7 @@
       "actieprijs": 1.69,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -631,7 +631,7 @@
       "actieprijs": 2.69,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -640,7 +640,7 @@
       "actieprijs": 5.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -649,7 +649,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -658,7 +658,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -667,7 +667,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -676,7 +676,7 @@
       "actieprijs": 1.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -685,7 +685,7 @@
       "actieprijs": 6.49,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -694,7 +694,7 @@
       "actieprijs": 13.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -703,7 +703,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -712,7 +712,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 1700,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -721,7 +721,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -730,7 +730,7 @@
       "actieprijs": 5.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -739,7 +739,7 @@
       "actieprijs": 4.19,
       "inhoud_waarde": 16,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -748,7 +748,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -797,12 +797,381 @@
       "categorie": null
     },
     {
+      "productnaam": "Elstar appels",
+      "korting_tekst": null,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sugar snaps of peulen",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gesneden fruit",
+      "korting_tekst": null,
+      "actieprijs": 0.94,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Soepgroente",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Rucola melange",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verse friet",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "ORANGINA",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Schnittbroodje",
+      "korting_tekst": null,
+      "actieprijs": 0.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gesneden Tigger Lang Lekker volkorenbrood in een zak.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Tigger Brun volkorenbrood: gesneden brood in verpakking.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Tiger Wit brood: gesneden brood in verpakking.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PARKSIDE afdekfolie met tape en snijder",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Witte hangende kastorganizer, opbergdoos onder bed en kledinghoes.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dekbedovertrek en kussensloop set met blauwgrijs bladpatroon, met stalen van andere kleuren.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Beige regenton met kraan en steenmotief",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TRONIC AA en AAA oplaadbare batterijen.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Retailer of the Year 2025",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Populairste Website van het jaar 2024",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Thuiswinkel Waarborg",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Toegankelijkheidsverklaring",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Top Employer Netherlands",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Top Employer Europe",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Logo van AfterPay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Visa",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mastercard",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Google Pay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Apple Pay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DHL!",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Android-apparaten",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bedrijfslogo",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Powered by Onetrust",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gesuikerde donuts",
+      "korting_tekst": null,
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Saucijzenbroodje",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Worteltaart met glazuur",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelrondo's",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gevlochten brioche",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Speklapjes naturel",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gemengd gehakt",
+      "korting_tekst": null,
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "RITTER SPORT",
       "korting_tekst": null,
       "actieprijs": 2.99,
       "inhoud_waarde": 218,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -811,7 +1180,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -820,7 +1189,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -829,7 +1198,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 2000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 31/08 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
