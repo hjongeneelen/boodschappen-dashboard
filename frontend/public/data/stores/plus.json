@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-08-31T12:10:19.281444+00:00",
+  "updated_at": "2026-09-01T10:47:00.546989+00:00",
   "deals": [
     {
       "productnaam": "Alle PLUS Klaverland Kaas stukken en plakken",
@@ -122,15 +122,6 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Courgette groen",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 26 augustus t/m dinsdag 1 september",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Broccoli",
       "korting_tekst": "500 gram 1.00",
       "actieprijs": 1.0,
@@ -239,6 +230,15 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Handappels elstar",
+      "korting_tekst": null,
+      "actieprijs": 3.29,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Mineola's",
       "korting_tekst": "500 gram 0.99",
       "actieprijs": 0.99,
@@ -325,6 +325,15 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Salades",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
       "categorie": null
     },
