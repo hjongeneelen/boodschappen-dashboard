@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-09-01T10:47:22.932862+00:00",
+  "updated_at": "2026-09-02T10:12:16.719658+00:00",
   "deals": [
     {
       "productnaam": "Coca-Cola regular of zero",
@@ -114,7 +114,7 @@
     },
     {
       "productnaam": "STORCK Toffifee witte chocolade",
-      "korting_tekst": "-25%",
+      "korting_tekst": null,
       "actieprijs": 1.49,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
@@ -231,8 +231,8 @@
     },
     {
       "productnaam": "Nederlandse aardbeien",
-      "korting_tekst": "-14%",
-      "actieprijs": 2.99,
+      "korting_tekst": "-20%",
+      "actieprijs": 2.79,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,

@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-01T10:46:12.495020+00:00",
+  "updated_at": "2026-09-02T10:11:08.330869+00:00",
   "deals": [
     {
       "productnaam": "Notenmelange",
@@ -532,7 +532,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 02/09 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -541,7 +541,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 02/09 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -550,7 +550,7 @@
       "actieprijs": 1.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 02/09 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -559,7 +559,7 @@
       "actieprijs": 2.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 02/09 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -568,7 +568,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 02/09 - 06/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
