@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-02T10:11:08.330869+00:00",
+  "updated_at": "2026-09-03T10:22:59.364948+00:00",
   "deals": [
     {
       "productnaam": "Notenmelange",
@@ -185,73 +185,109 @@
       "categorie": null
     },
     {
-      "productnaam": "Elstar appels",
+      "productnaam": "Appelrondo's",
       "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sugar snaps of peulen",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Gesneden fruit",
-      "korting_tekst": null,
-      "actieprijs": 0.94,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Soepgroente",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Borrelkaas",
-      "korting_tekst": null,
-      "actieprijs": 1.64,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "MAGGI",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
+      "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "HEINZ Tomato Frito",
+      "productnaam": "Gevlochten brioche",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 780,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "WIJKO Satésaus",
+      "productnaam": "Speklapjes naturel",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gemengd gehakt",
+      "korting_tekst": null,
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pangasiusfilets",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 365,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kip champignonsnitzels",
+      "korting_tekst": null,
+      "actieprijs": 5.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Spekburgers",
+      "korting_tekst": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hele dorade",
+      "korting_tekst": null,
+      "actieprijs": 1.59,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ovenschotel kipdijfilet carbonara",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 455,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Plantaardige falafel of vegetarische spinazie-kaas rondo",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "ACTIMEL",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LEERDAMMER Plakken",
       "korting_tekst": null,
       "actieprijs": 1.99,
-      "inhoud_waarde": 520,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

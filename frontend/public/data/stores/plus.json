@@ -2,12 +2,12 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-02T10:11:55.676420+00:00",
+  "updated_at": "2026-09-03T10:23:48.688879+00:00",
   "deals": [
     {
-      "productnaam": "Alle Witte Reus en Ambipur Toiletblokken enkelpakken en toiletgel",
-      "korting_tekst": "5 voor 5.99",
-      "actieprijs": 5.99,
+      "productnaam": "Alle Robijn",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.98,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
