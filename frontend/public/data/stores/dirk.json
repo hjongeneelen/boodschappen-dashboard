@@ -2,8 +2,98 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-03T10:23:00.998120+00:00",
+  "updated_at": "2026-09-04T10:10:19.391364+00:00",
   "deals": [
+    {
+      "productnaam": "Ananas",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Entrecote of ribeye",
+      "korting_tekst": "Van € 10,90 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Groene asperges",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Grote garnalen met staart of gepelde garnalen",
+      "korting_tekst": "Van € 3,45 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hollandse aardbeien",
+      "korting_tekst": "Van € 2,99 voor € 2,89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mango schnitt",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bits & Bites Olijven",
+      "korting_tekst": "Van € 2,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Port salut of mascarpone gorgonzola",
+      "korting_tekst": "Van € 3,99 voor € 2,69",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Premix",
+      "korting_tekst": "Van € 2,19 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wahid Turkse pizza lahmacun",
+      "korting_tekst": "Van € 3,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
     {
       "productnaam": "Heinz tomatenconserven",
       "korting_tekst": "Van € 1,75 voor € 0,99",
@@ -199,6 +289,15 @@
       "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "2 - 6 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hollandse aardbeien",
+      "korting_tekst": "Van € 2,99 voor € 2,89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
       "geldig_tekst": "2 - 6 sep",
       "categorie": null
     },
