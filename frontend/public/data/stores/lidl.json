@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-04T10:10:17.586590+00:00",
+  "updated_at": "2026-09-05T09:39:12.270655+00:00",
   "deals": [
     {
       "productnaam": "Notenmelange",
@@ -113,36 +113,36 @@
       "categorie": null
     },
     {
-      "productnaam": "Appelrondo's",
+      "productnaam": "Zuivelspread",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Gevlochten brioche",
+      "productnaam": "Hollandse aardbeien",
       "korting_tekst": null,
-      "actieprijs": 2.99,
+      "actieprijs": 2.39,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Speklapjes naturel",
+      "productnaam": "Aardappelen kruimig",
       "korting_tekst": null,
       "actieprijs": 5.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Gemengd gehakt",
+      "productnaam": "Verse kruiden",
       "korting_tekst": null,
-      "actieprijs": 6.99,
+      "actieprijs": 1.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
@@ -217,6 +217,78 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CAMPINA Vla",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "COOLBEST Fruitdrink",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "KARVAN CÉVITAM",
+      "korting_tekst": null,
+      "actieprijs": 3.69,
+      "inhoud_waarde": 900,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DOUWE EGBERTS IJskoffie",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "IJs",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HEINZ Ketchup zero of mayonaise",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Tiramisu",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Citroenijs op dropstokje",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
