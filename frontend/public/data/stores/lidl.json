@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-06T09:54:45.307481+00:00",
+  "updated_at": "2026-09-07T11:02:22.276684+00:00",
   "deals": [
     {
       "productnaam": "Kipfilet",
@@ -10,7 +10,7 @@
       "actieprijs": 9.99,
       "inhoud_waarde": 900,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 220,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 6.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -37,7 +37,7 @@
       "actieprijs": 7.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 1.75,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -73,7 +73,7 @@
       "actieprijs": 8.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -82,7 +82,7 @@
       "actieprijs": 1.79,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -91,7 +91,7 @@
       "actieprijs": 0.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -100,7 +100,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -109,7 +109,7 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -118,7 +118,7 @@
       "actieprijs": 1.69,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -127,7 +127,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -136,7 +136,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 700,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -145,7 +145,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -154,7 +154,7 @@
       "actieprijs": 0.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -163,7 +163,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -172,7 +172,7 @@
       "actieprijs": 1.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -181,7 +181,7 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -190,7 +190,7 @@
       "actieprijs": 1.59,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -199,7 +199,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 295,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -208,7 +208,7 @@
       "actieprijs": 1.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -217,115 +217,7 @@
       "actieprijs": 0.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kaastwister",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pop dot cake",
-      "korting_tekst": null,
-      "actieprijs": 0.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grof volkoren zonnepit heel",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Donuts pinky",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appel notenpencee",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Abrikoos-walnoot-plaatcake",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Shoarma",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zalm op huid",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Wokgarnalen",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Gekruide varkensoesters",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zigeunergehakt-schnitzels",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "Extra mager rundergehakt",
-      "korting_tekst": null,
-      "actieprijs": 9.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -334,7 +226,7 @@
       "actieprijs": 3.29,
       "inhoud_waarde": 380,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -343,7 +235,7 @@
       "actieprijs": 1.59,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -352,7 +244,7 @@
       "actieprijs": 1.19,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -361,43 +253,313 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "GERARDUS Quadruppel",
+      "productnaam": "Diverse margarines",
       "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Chardonnay Pays d'Oc IGP",
+      "productnaam": "Koffiedrink",
       "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 750,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "SUN Pro-expert vaatwastabs",
+      "productnaam": "Premium muesli",
       "korting_tekst": null,
       "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "DURACELL Simply batterijen",
+      "productnaam": "LA VACHE QUI RIT Cheez Dippers",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Solevita Fruity Dream smoothie: appel, banaan, mango, sinaasappel & passievrucht.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Solevita Tropical Wonder smoothie: ananas, banaan, kokos, mango & citroen.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Solevita Strawberry Heaven smoothie: aardbei, banaan, druif en sinaasappel.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Solevita Red Genius smoothie: een flesje met smoothie van granaatappel, banaan en andere vruchten.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Grote, donkergrijze regenton met gouden kraan.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Een witte Vitalcontrol gezichtsreiniger met een borstel.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Drie glazen drankdispensers met kranen en diverse deksels.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Transparante waterfles met zwarte dop en basis, met MAX- en MIN-niveauaanduidingen.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Een grijze regenton met een kraan",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Retailer of the Year 2025",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Populairste Website van het jaar 2024",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Thuiswinkel Waarborg",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Toegankelijkheidsverklaring",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Top Employer Netherlands",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Top Employer Europe",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Logo van AfterPay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Visa",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mastercard",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Google Pay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Apple Pay",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DHL!",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Android-apparaten",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bedrijfslogo",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Powered by Onetrust",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HERO B'tween protein",
+      "korting_tekst": null,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 24,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TEISSEIRE Siroop",
       "korting_tekst": null,
       "actieprijs": 4.99,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "inhoud_waarde": 1300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "WAGNER Piccolinis",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -406,7 +568,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 450,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -415,7 +577,7 @@
       "actieprijs": 4.19,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -424,7 +586,7 @@
       "actieprijs": 4.19,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -433,7 +595,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -442,7 +604,7 @@
       "actieprijs": 4.79,
       "inhoud_waarde": 18,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -451,7 +613,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -460,7 +622,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -469,7 +631,7 @@
       "actieprijs": 2.39,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -478,7 +640,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -487,7 +649,7 @@
       "actieprijs": 6.49,
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -496,7 +658,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -505,7 +667,7 @@
       "actieprijs": 6.49,
       "inhoud_waarde": 1100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -514,7 +676,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -523,7 +685,7 @@
       "actieprijs": 9.99,
       "inhoud_waarde": 36,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -532,7 +694,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 65,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -541,7 +703,7 @@
       "actieprijs": 10.99,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -550,7 +712,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -559,7 +721,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 540,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -568,7 +730,7 @@
       "actieprijs": 3.29,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -577,7 +739,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -586,7 +748,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -595,7 +757,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 320,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -604,7 +766,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -613,7 +775,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -622,7 +784,7 @@
       "actieprijs": 4.12,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -631,7 +793,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -640,7 +802,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -649,7 +811,7 @@
       "actieprijs": 1.79,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -658,7 +820,7 @@
       "actieprijs": 1.59,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -667,7 +829,7 @@
       "actieprijs": 0.69,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -676,7 +838,7 @@
       "actieprijs": 1.69,
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -685,7 +847,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -694,7 +856,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 260,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -703,7 +865,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -712,7 +874,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -721,7 +883,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -730,7 +892,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -739,7 +901,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -748,7 +910,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 07/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -812,6 +974,78 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 09/09 - 13/09",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sinterklaassnoepgoed",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Alleen in de winkel vanaf 09/09 - 13/09",
+      "categorie": null
+    },
+    {
+      "productnaam": "MILKA MMMax",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LU PRINCE",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SPA Reine of Intense",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "GERARDUS Quadruppel",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chardonnay Pays d'Oc IGP",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SUN Pro-expert vaatwastabs",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DURACELL Simply batterijen",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
