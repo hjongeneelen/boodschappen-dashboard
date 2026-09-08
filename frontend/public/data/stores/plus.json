@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-07T11:03:13.149818+00:00",
+  "updated_at": "2026-09-08T10:18:15.848231+00:00",
   "deals": [
     {
       "productnaam": "Alle Robijn",
@@ -131,15 +131,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Neutraal Aardappels",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "kg",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Zoete aardappelfriet",
       "korting_tekst": null,
       "actieprijs": 1.69,
@@ -149,7 +140,7 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Snoeptomaten rood",
+      "productnaam": "PLUS Puntpaprika rood",
       "korting_tekst": null,
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
@@ -158,7 +149,7 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Puntpaprika rood",
+      "productnaam": "PLUS Snoeptomaten rood",
       "korting_tekst": null,
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
@@ -185,20 +176,20 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Snijbonen (ongesneden)",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
       "productnaam": "Biologische van PLUS Groene en rode linzen",
       "korting_tekst": null,
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Snijbonen (ongesneden)",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
       "categorie": null
     },
@@ -332,6 +323,15 @@
       "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
       "korting_tekst": "3 voor 5.00",
       "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Italiaanse en wereldse maaltijden en lasagnes",
+      "korting_tekst": "2 voor 4.99",
+      "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",

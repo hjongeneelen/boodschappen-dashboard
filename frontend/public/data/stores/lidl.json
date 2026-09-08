@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-07T11:02:22.276684+00:00",
+  "updated_at": "2026-09-08T10:17:29.157289+00:00",
   "deals": [
     {
       "productnaam": "Kipfilet",
@@ -11,7 +11,7 @@
       "inhoud_waarde": 900,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Gerookte zalm",
@@ -20,7 +20,7 @@
       "inhoud_waarde": 220,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Toiletpapier 4-laags",
@@ -29,7 +29,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "OMO Vloeibaar en poeder",
@@ -38,7 +38,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Californische pistachenoten",
@@ -47,16 +47,16 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Griekse stijl yoghurt 10% vet",
       "korting_tekst": null,
-      "actieprijs": 1.75,
+      "actieprijs": 1.65,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "CROKY Flatchips",
@@ -65,7 +65,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "BELLAROM Koffiecups",
@@ -83,7 +83,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Prei",
@@ -92,7 +92,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Grapefruit",
@@ -101,7 +101,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Bio flespompoen of hokkaido",
@@ -110,7 +110,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Bio kastanjechampignons",
@@ -119,7 +119,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Bio Zespri kiwi gold",
@@ -128,7 +128,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Avocado in net",
@@ -137,7 +137,7 @@
       "inhoud_waarde": 700,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Bio pitloze druiven",
@@ -146,7 +146,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Courgette",
@@ -155,7 +155,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Nederlandse Conference peren",
@@ -164,7 +164,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Wilde nectarines",
@@ -173,7 +173,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Waspeen",
@@ -182,7 +182,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Aardappelschijfjes naturel",
@@ -191,7 +191,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Salades",
@@ -200,7 +200,7 @@
       "inhoud_waarde": 295,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Rozijnenkrentenbollen",
@@ -209,7 +209,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Pompoenpitbroodje",
@@ -218,7 +218,43 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Wokgarnalen",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Gekruide varkensoesters",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Zigeunergehakt-schnitzels",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Extra mager rundergehakt",
+      "korting_tekst": null,
+      "actieprijs": 9.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Spekreepjes",
@@ -227,7 +263,7 @@
       "inhoud_waarde": 380,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Vega kaasschnitzel of plantaardige kip krokantschnitzel",
@@ -236,7 +272,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "OPTIMEL Drinkyoghurt",
@@ -245,7 +281,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Bio melk, karnemelk & yoghurt",
@@ -254,7 +290,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Diverse margarines",
@@ -281,7 +317,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "LA VACHE QUI RIT Cheez Dippers",
@@ -290,277 +326,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Solevita Fruity Dream smoothie: appel, banaan, mango, sinaasappel & passievrucht.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Solevita Tropical Wonder smoothie: ananas, banaan, kokos, mango & citroen.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Solevita Strawberry Heaven smoothie: aardbei, banaan, druif en sinaasappel.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Solevita Red Genius smoothie: een flesje met smoothie van granaatappel, banaan en andere vruchten.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Grote, donkergrijze regenton met gouden kraan.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Een witte Vitalcontrol gezichtsreiniger met een borstel.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Drie glazen drankdispensers met kranen en diverse deksels.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Transparante waterfles met zwarte dop en basis, met MAX- en MIN-niveauaanduidingen.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Een grijze regenton met een kraan",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Retailer of the Year 2025",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Populairste Website van het jaar 2024",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Thuiswinkel Waarborg",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Toegankelijkheidsverklaring",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Top Employer Netherlands",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Top Employer Europe",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Logo van AfterPay",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Visa",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mastercard",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Google Pay",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Apple Pay",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DHL!",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Android-apparaten",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bedrijfslogo",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Powered by Onetrust",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "HERO B'tween protein",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 24,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "TEISSEIRE Siroop",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 1300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "WAGNER Piccolinis",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "DREFT Max Power",
@@ -569,7 +335,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "Diepvriesfruit",
@@ -578,7 +344,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Goudse extra belegen kaasplakken of stuk",
@@ -587,7 +353,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Leverworst",
@@ -596,7 +362,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Nederlandse scharreleieren",
@@ -605,7 +371,7 @@
       "inhoud_waarde": 18,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Yorkham",
@@ -614,7 +380,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Schwarzwalder ham",
@@ -623,7 +389,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Kip grillworst",
@@ -632,7 +398,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Geraspte gratinkaas",
@@ -641,7 +407,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Braadworsten",
@@ -650,7 +416,7 @@
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Pannenkoeken",
@@ -659,7 +425,7 @@
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Diepvriesvis",
@@ -668,7 +434,7 @@
       "inhoud_waarde": 1100,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Verse roomkaas bieslook",
@@ -677,7 +443,7 @@
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Macarons",
@@ -686,7 +452,7 @@
       "inhoud_waarde": 36,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Croissant met cacao-hazelnootvulling",
@@ -695,7 +461,7 @@
       "inhoud_waarde": 65,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Olijfolie",
@@ -713,7 +479,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Muffins met chocolade",
@@ -722,7 +488,7 @@
       "inhoud_waarde": 540,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Zacht zoete drop",
@@ -731,7 +497,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "(Vegan) paté",
@@ -740,7 +506,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Warmgerookte haringfilet",
@@ -749,7 +515,7 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Ovensnacks",
@@ -758,7 +524,7 @@
       "inhoud_waarde": 320,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Vitamin drink",
@@ -767,7 +533,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "ES Rueda verdejo",
@@ -776,7 +542,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Dranken"
     },
     {
       "productnaam": "IT Prosecco DOC Frizzante of Cava DO Brut",
@@ -785,7 +551,7 @@
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Dranken"
     },
     {
       "productnaam": "Camaro",
@@ -803,7 +569,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Roerbakmix champignons",
@@ -812,7 +578,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Jonge bladsla en rucola",
@@ -821,7 +587,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "Diverse ijsbergsla",
@@ -830,7 +596,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Groente & Fruit"
     },
     {
       "productnaam": "NAPOLEON",
@@ -839,7 +605,7 @@
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Huishouden"
     },
     {
       "productnaam": "M&M's Peanut strippack",
@@ -848,7 +614,7 @@
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "MILKA",
@@ -857,7 +623,7 @@
       "inhoud_waarde": 260,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Mini mix ijs",
@@ -866,7 +632,7 @@
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Amandelijsjes",
@@ -875,7 +641,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "IJsrepen",
@@ -884,7 +650,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Healthy fit proteïnerepen",
@@ -893,7 +659,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Verzorging & Drogisterij"
     },
     {
       "productnaam": "SOLERO of TWISTER",
@@ -902,7 +668,7 @@
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Proteïne ijsbeker",
@@ -911,7 +677,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Bolechrysant",
@@ -977,78 +743,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Sinterklaassnoepgoed",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 09/09 - 13/09",
-      "categorie": null
-    },
-    {
-      "productnaam": "MILKA MMMax",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "LU PRINCE",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "SPA Reine of Intense",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "GERARDUS Quadruppel",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chardonnay Pays d'Oc IGP",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "SUN Pro-expert vaatwastabs",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "DURACELL Simply batterijen",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Vetplant in magneetpot",
       "korting_tekst": null,
       "actieprijs": 3.99,
@@ -1082,7 +776,7 @@
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
       "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
-      "categorie": null
+      "categorie": "Dranken"
     },
     {
       "productnaam": "LEFFE BLOND of TRIPEL KARMELIET",
@@ -1091,7 +785,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
-      "categorie": null
+      "categorie": "Dranken"
     },
     {
       "productnaam": "FANTA of FERNANDES",
@@ -1100,7 +794,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
-      "categorie": null
+      "categorie": "Dranken"
     },
     {
       "productnaam": "MARS Mini Mix",
@@ -1109,7 +803,7 @@
       "inhoud_waarde": 25,
       "inhoud_unit": "stuks",
       "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "KATJA Zure matten",
@@ -1118,7 +812,7 @@
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
-      "categorie": null
+      "categorie": "Snacks & Snoep"
     }
   ]
 }
