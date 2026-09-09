@@ -2,213 +2,42 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-08T10:18:15.848231+00:00",
+  "updated_at": "2026-09-09T10:24:24.682919+00:00",
   "deals": [
     {
-      "productnaam": "Alle Robijn",
-      "korting_tekst": "2+3 gratis",
-      "actieprijs": 13.98,
+      "productnaam": "Lipton Ice tea",
+      "korting_tekst": "1+2 gratis",
+      "actieprijs": 3.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Hamburgers Kipburgers, Blonde d'Aquitaine Hamburgers en plantaardige hamburgers",
-      "korting_tekst": "50 % korting",
-      "actieprijs": 2.29,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Calvé Pindakaas",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Grand'Italia",
-      "korting_tekst": "2+1 gratis",
-      "actieprijs": 2.98,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle PLUS Korenlanders Vloerbroden",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.89,
+      "productnaam": "PLUS Zalmfilet met huid",
+      "korting_tekst": "250 gram 3.99",
+      "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Galia meloen",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1,
+      "productnaam": "Alle Danio Romige kwark",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Iglo Viskraam fish cuisine, fish & fun en groente-idee",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Citroenen (voordeelverpakking)",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nederlandse pruimen",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handappels elstar",
-      "korting_tekst": null,
-      "actieprijs": 3.29,
-      "inhoud_waarde": 2000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mineola's",
-      "korting_tekst": "500 gram 0.99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Witte, rode en Sable druiven",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nectarines",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nederlandse Aardbeien",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zespri Kiwi gold",
-      "korting_tekst": "500 gram 2.99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Zoete aardappelfriet",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Puntpaprika rood",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Snoeptomaten rood",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Cocktailtrostomaten",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS IJsbergsla fijn",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologische van PLUS Groene en rode linzen",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Snijbonen (ongesneden)",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 2 september t/m dinsdag 8 september",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
     {
@@ -239,6 +68,15 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Mineola's",
+      "korting_tekst": "500 gram 0.79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Druiven mix rood en wit pitloos",
       "korting_tekst": null,
       "actieprijs": 1.99,
@@ -253,6 +91,15 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse Aardbeien",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
@@ -302,6 +149,15 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Babyspinazie, romaine, veldsla en botersla",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Spinazie gewassen",
       "korting_tekst": null,
       "actieprijs": 0.99,
@@ -325,6 +181,42 @@
       "actieprijs": 5.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan Pannenkoeken naturel",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.95,
+      "inhoud_waarde": 540,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan Poffertjes met boter en suiker",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 335,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan American pancakes naturel",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan Pizzadeeg zuurdesem met tomatensaus",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
