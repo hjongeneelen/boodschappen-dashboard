@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-09T10:23:32.884029+00:00",
+  "updated_at": "2026-09-10T10:15:32.443968+00:00",
   "deals": [
     {
       "productnaam": "Kipfilet",
@@ -257,112 +257,112 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "XXL NUTRITION Fitmeals",
+      "productnaam": "Appel notenpencee",
       "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 425,
-      "inhoud_unit": "gram",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "2-vaks maaltijd Oosterse stijl",
+      "productnaam": "Abrikoos-walnoot-plaatcake",
       "korting_tekst": null,
       "actieprijs": 2.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Shoarma",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Diepvries"
     },
     {
-      "productnaam": "Lasagne",
+      "productnaam": "Zalm op huid",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Wokgarnalen",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "REMIA Mayonaise XL",
+      "productnaam": "Gekruide varkensoesters",
       "korting_tekst": null,
-      "actieprijs": 2.69,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": null
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Vlaamse friet, kreukelfriet of rösti rondjes",
+      "productnaam": "Zigeunergehakt-schnitzels",
       "korting_tekst": null,
-      "actieprijs": 1.49,
+      "actieprijs": 5.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Focaccia",
+      "productnaam": "Extra mager rundergehakt",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Chilisaus",
-      "korting_tekst": null,
-      "actieprijs": 1.19,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "LAY'S Gourmet",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 145,
+      "actieprijs": 9.99,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
+      "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Sinterklaassnoepgoed",
+      "productnaam": "Spekreepjes",
+      "korting_tekst": null,
+      "actieprijs": 3.29,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Vega kaasschnitzel of plantaardige kip krokantschnitzel",
+      "korting_tekst": null,
+      "actieprijs": 1.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "OPTIMEL Drinkyoghurt",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Bio melk, karnemelk & yoghurt",
       "korting_tekst": null,
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "MILKA MMMax",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "LU PRINCE",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "SPA Reine of Intense",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "GERARDUS Quadruppel",
@@ -435,6 +435,78 @@
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Nederlandse scharreleieren",
+      "korting_tekst": null,
+      "actieprijs": 4.79,
+      "inhoud_waarde": 18,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Yorkham",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Schwarzwalder ham",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Kip grillworst",
+      "korting_tekst": null,
+      "actieprijs": 2.39,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Geraspte gratinkaas",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Braadworsten",
+      "korting_tekst": null,
+      "actieprijs": 6.49,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Pannenkoeken",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Diepvriesvis",
+      "korting_tekst": null,
+      "actieprijs": 6.49,
+      "inhoud_waarde": 1100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
     },
     {
       "productnaam": "Verse roomkaas bieslook",

@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-09T10:24:24.682919+00:00",
+  "updated_at": "2026-09-10T10:16:22.509579+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea",
@@ -122,11 +122,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Nederlandse Aardappelen kruimig en vastkokend",
+      "productnaam": "PLUS Smaakmakertje minitrospruimtomaatjes",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
@@ -162,6 +162,15 @@
       "korting_tekst": null,
       "actieprijs": 0.99,
       "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Rauwkost radijs, wortel, sojaboon",
+      "korting_tekst": "50 % korting",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
@@ -224,15 +233,6 @@
       "productnaam": "PLUS Italiaanse en wereldse maaltijden en lasagnes",
       "korting_tekst": "2 voor 4.99",
       "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle PLUS Bapao",
-      "korting_tekst": "3 voor 2.49",
-      "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
