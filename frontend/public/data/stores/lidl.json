@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-10T10:15:32.443968+00:00",
+  "updated_at": "2026-09-11T10:13:22.221238+00:00",
   "deals": [
     {
       "productnaam": "Kipfilet",
@@ -97,7 +97,7 @@
     {
       "productnaam": "Grapefruit",
       "korting_tekst": null,
-      "actieprijs": 1.49,
+      "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
@@ -147,78 +147,6 @@
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Courgette",
-      "korting_tekst": null,
-      "actieprijs": 0.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Nederlandse Conference peren",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Wilde nectarines",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Waspeen",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Aardappelschijfjes naturel",
-      "korting_tekst": null,
-      "actieprijs": 1.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Salades",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 295,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Rozijnenkrentenbollen",
-      "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Pompoenpitbroodje",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "Kaastwister",
@@ -820,7 +748,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -829,7 +757,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -838,7 +766,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -847,7 +775,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -856,7 +784,7 @@
       "actieprijs": 6.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -865,7 +793,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -874,7 +802,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 25,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -883,7 +811,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 11/09 - 13/09",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     }
   ]

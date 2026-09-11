@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-10T10:16:22.509579+00:00",
+  "updated_at": "2026-09-11T10:14:10.814220+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea",
@@ -263,6 +263,132 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handperen Conference",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handsinaasappelen",
+      "korting_tekst": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Sable- en pitloze witte druiven",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 gram 2.89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eat Me Avocado",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS zoete aardappel",
+      "korting_tekst": "500 gram 1.49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse Rode paprika en courgette",
+      "korting_tekst": "2 voor 1.49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Snoeptomaten rood",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Pijnboompitten biologisch",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Witlof",
+      "korting_tekst": "500 gram 0.79",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Pastinaak biologisch",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neutraal Kastanjechampignons",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     }
   ]
