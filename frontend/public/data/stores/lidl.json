@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-11T10:13:22.221238+00:00",
+  "updated_at": "2026-09-12T09:47:42.198725+00:00",
   "deals": [
     {
       "productnaam": "Kipfilet",
@@ -143,6 +143,42 @@
       "productnaam": "Bio pitloze druiven",
       "korting_tekst": null,
       "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Courgette",
+      "korting_tekst": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Nederlandse Conference peren",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Wilde nectarines",
+      "korting_tekst": null,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Waspeen",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
@@ -291,42 +327,6 @@
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "GERARDUS Quadruppel",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Chardonnay Pays d'Oc IGP",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "SUN Pro-expert vaatwastabs",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
-    },
-    {
-      "productnaam": "DURACELL Simply batterijen",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
     },
     {
       "productnaam": "DREFT Max Power",

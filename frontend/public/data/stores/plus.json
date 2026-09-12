@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-11T10:14:10.814220+00:00",
+  "updated_at": "2026-09-12T09:48:28.536240+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea",
@@ -263,6 +263,15 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handappels elstar",
+      "korting_tekst": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     },
     {
