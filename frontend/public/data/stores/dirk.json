@@ -2,98 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-13T10:48:24.826854+00:00",
+  "updated_at": "2026-09-14T11:14:52.053812+00:00",
   "deals": [
-    {
-      "productnaam": "Daily Chef verse pizza",
-      "korting_tekst": "Van € 5,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstuk",
-      "korting_tekst": "Van € 7,39 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luxe maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Macarons",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 12,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse sushi Satoru",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Jamon Serrano of prosciutto crudo gedroogde ham",
-      "korting_tekst": "Van € 4,39 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 110,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Buitenlandse kaasjes",
-      "korting_tekst": "Van € 2,99 voor € 2,59",
-      "actieprijs": 2.59,
-      "inhoud_waarde": 266,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dirk topwijnen",
-      "korting_tekst": "Van € 7,99 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tapas",
-      "korting_tekst": "Van € 2,95 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste Aardappelen",
       "korting_tekst": "Van € 1,19 voor € 0,99",
@@ -275,15 +185,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Argeta kipspread",
       "korting_tekst": "Van € 1,65 voor € 0,79",
       "actieprijs": 0.79,
@@ -362,33 +263,6 @@
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "9 - 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstuk",
-      "korting_tekst": "Van € 7,39 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse sushi Satoru",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Jamon Serrano of prosciutto crudo gedroogde ham",
-      "korting_tekst": "Van € 4,39 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 110,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
       "categorie": null
     },
     {
@@ -482,15 +356,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Macarons",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 12,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Beautiful Immunity kefir",
       "korting_tekst": "Van € 2,29 voor € 0,99",
       "actieprijs": 0.99,
@@ -578,15 +443,6 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "9 - 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Buitenlandse kaasjes",
-      "korting_tekst": "Van € 2,99 voor € 2,59",
-      "actieprijs": 2.59,
-      "inhoud_waarde": 266,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
       "categorie": null
     },
     {
@@ -761,15 +617,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Dirk topwijnen",
-      "korting_tekst": "Van € 7,99 voor € 5,99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Fairtrade kruidenpasta",
       "korting_tekst": "Van € 2,29 voor € 0,99",
       "actieprijs": 0.99,
@@ -893,33 +740,6 @@
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
       "geldig_tekst": "9 - 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Daily Chef verse pizza",
-      "korting_tekst": "Van € 5,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luxe maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "9 - 13 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tapas",
-      "korting_tekst": "Van € 2,95 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "9 - 13 sep",
       "categorie": null
     },
     {
