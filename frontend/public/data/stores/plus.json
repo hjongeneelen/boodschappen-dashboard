@@ -2,21 +2,12 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-14T11:15:29.535281+00:00",
+  "updated_at": "2026-09-15T10:42:24.506447+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea",
       "korting_tekst": "1+2 gratis",
       "actieprijs": 3.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Zalmfilet met huid",
-      "korting_tekst": "250 gram 3.99",
-      "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
@@ -46,15 +37,6 @@
       "actieprijs": 1.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handappels Pink Lady",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
@@ -212,19 +194,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Jan American pancakes naturel",
+      "productnaam": "Jan Pizzadeeg zuurdesem met tomatensaus",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.59,
-      "inhoud_waarde": 300,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 600,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
     },
     {
-      "productnaam": "Jan Pizzadeeg zuurdesem met tomatensaus",
+      "productnaam": "Jan Rond & dun pizzadeeg duoverpakking",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 2.99,
-      "inhoud_waarde": 600,
+      "inhoud_waarde": 520,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
       "categorie": null
