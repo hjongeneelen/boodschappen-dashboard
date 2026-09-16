@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-15T10:41:36.499086+00:00",
+  "updated_at": "2026-09-16T10:29:30.943499+00:00",
   "deals": [
     {
       "productnaam": "Premium druiven",
@@ -820,7 +820,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 16/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -829,7 +829,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 16/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -838,7 +838,7 @@
       "actieprijs": 9.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 16/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -847,7 +847,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 16/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -856,7 +856,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 16/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -865,7 +865,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 16/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {

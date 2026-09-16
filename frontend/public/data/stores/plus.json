@@ -2,249 +2,42 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-15T10:42:24.506447+00:00",
+  "updated_at": "2026-09-16T10:30:21.236805+00:00",
   "deals": [
     {
-      "productnaam": "Lipton Ice tea",
-      "korting_tekst": "1+2 gratis",
-      "actieprijs": 3.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Danio Romige kwark",
+      "productnaam": "Alle La Molisana",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Iglo Viskraam fish cuisine, fish & fun en groente-idee",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nederlandse Jonagold appels en conference peren",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mandarijnen extra groot GVP",
-      "korting_tekst": "VOORDEELVERPAKKING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mineola's",
-      "korting_tekst": "500 gram 0.79",
-      "actieprijs": 0.79,
+      "actieprijs": 2.39,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Druiven mix rood en wit pitloos",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nectarines en perziken",
-      "korting_tekst": "500 gram 1.49",
-      "actieprijs": 1.49,
+      "productnaam": "Douwe Egberts Aroma Rood en Decafé",
+      "korting_tekst": "2 voor 13.49",
+      "actieprijs": 13.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Nederlandse Aardbeien",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Avocado",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mango",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Smaakmakertje minitrospruimtomaatjes",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Paprikamix",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Komkommer",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Babyspinazie, romaine, veldsla en botersla",
-      "korting_tekst": null,
-      "actieprijs": 1.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Spinazie gewassen",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Rauwkost radijs, wortel, sojaboon",
-      "korting_tekst": "50 % korting",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Pannenkoeken naturel",
+      "productnaam": "Hak Groetenconserven",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.95,
-      "inhoud_waarde": 540,
+      "actieprijs": 2.15,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     },
     {
-      "productnaam": "Jan Poffertjes met boter en suiker",
+      "productnaam": "Alle Go-Tan",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.29,
-      "inhoud_waarde": 335,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Pizzadeeg zuurdesem met tomatensaus",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Rond & dun pizzadeeg duoverpakking",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 520,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Italiaanse en wereldse maaltijden en lasagnes",
-      "korting_tekst": "2 voor 4.99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Verse soep",
-      "korting_tekst": "2 voor 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
-      "korting_tekst": "2 voor 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
-      "korting_tekst": "2 voor 7.50",
-      "actieprijs": 7.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 9 september t/m dinsdag 15 september",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     },
     {
@@ -324,6 +117,15 @@
       "korting_tekst": null,
       "actieprijs": 2.49,
       "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Smaakmakertje minitrospruimtomaatjes",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
