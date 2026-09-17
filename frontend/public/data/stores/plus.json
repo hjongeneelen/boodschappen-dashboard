@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-16T10:30:21.236805+00:00",
+  "updated_at": "2026-09-17T10:40:21.922193+00:00",
   "deals": [
     {
       "productnaam": "Alle La Molisana",
@@ -37,6 +37,15 @@
       "actieprijs": 1.39,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bloemkool",
+      "korting_tekst": null,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
     },
@@ -135,6 +144,15 @@
       "korting_tekst": null,
       "actieprijs": 3.49,
       "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Spruiten",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null
