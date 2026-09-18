@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-17T10:39:30.621610+00:00",
+  "updated_at": "2026-09-18T10:15:36.927649+00:00",
   "deals": [
     {
       "productnaam": "Premium druiven",
@@ -32,7 +32,7 @@
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Catusvijgen",
+      "productnaam": "Cactusvijgen",
       "korting_tekst": null,
       "actieprijs": 1.29,
       "inhoud_waarde": 500,
@@ -347,292 +347,112 @@
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Schouderkarbonades",
+      "productnaam": "Kipkrokantschnitzel",
       "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "MORA Frikandel",
+      "productnaam": "Duitse biefstuk",
       "korting_tekst": null,
-      "actieprijs": 1.95,
-      "inhoud_waarde": 120,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Roodbaarsfilet",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Basmatirijst",
-      "korting_tekst": null,
-      "actieprijs": 7.49,
-      "inhoud_waarde": 4500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Vaatwastabs All-in-1 Power",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Huishouden"
-    },
-    {
-      "productnaam": "Keukenrol Maxi 2-laags",
+      "productnaam": "Zalmburger",
       "korting_tekst": null,
       "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Huishouden"
+      "categorie": "Diepvries"
     },
     {
-      "productnaam": "Witte bollen",
+      "productnaam": "Plantaardig rulgehakt of balletjes",
       "korting_tekst": null,
-      "actieprijs": 1.44,
-      "inhoud_waarde": 12,
-      "inhoud_unit": "stuks",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "ALMHOF Roomyoghurt",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Roombotercroissant",
+      "productnaam": "Boerencake",
       "korting_tekst": null,
-      "actieprijs": 0.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Tijgerbruin vloerbrood",
+      "productnaam": "Gerookte wilde Sockeye zalm",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "LAVAZZA",
+      "korting_tekst": null,
+      "actieprijs": 8.49,
+      "inhoud_waarde": 168,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Volle yoghurt",
       "korting_tekst": null,
       "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Appeltaart",
-      "korting_tekst": null,
-      "actieprijs": 2.69,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Tijgerbroodje",
-      "korting_tekst": null,
-      "actieprijs": 0.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Calzone Philly beef & cheese style",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Schwarzwalder pencee",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Churro",
-      "korting_tekst": null,
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Kipshoarma",
-      "korting_tekst": null,
-      "actieprijs": 9.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Braadworsten",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Speklapjes gemarineerd",
-      "korting_tekst": null,
-      "actieprijs": 5.49,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "HEALTHY FIT Vegan proteïne poeder",
-      "korting_tekst": null,
-      "actieprijs": 7.49,
-      "inhoud_waarde": 480,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Verzorging & Drogisterij"
-    },
-    {
-      "productnaam": "AVIKO Airfryer pommes frites",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Steenovenpizza",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "PRINGLES",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "COCA-COLA",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "HAK",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonenschotel",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "IGLO Visticks",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Instant noodles minder zout",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "MAGGI",
-      "korting_tekst": null,
-      "actieprijs": 0.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Wienerschnitzels",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Nasi of bami goreng",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
       "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Mineraalwater met sportscap",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 330,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "MAGNUM mini",
+      "productnaam": "Diverse afbakbroodjes",
       "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Mini star koekjes",
+      "productnaam": "Light jam",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "SMIRNOFF ICE",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "HEINEKEN pils",
@@ -941,112 +761,220 @@
       "categorie": null
     },
     {
-      "productnaam": "Kipkrokantschnitzel",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Duitse biefstuk",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Roodbaarsfilet",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Zalmburger",
+      "productnaam": "Schouderkarbonades",
       "korting_tekst": null,
       "actieprijs": 5.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Plantaardig rulgehakt of balletjes",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "ALMHOF Roomyoghurt",
+      "productnaam": "MORA Frikandel",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Boerencake",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Gerookte wilde Sockeye zalm",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
+      "actieprijs": 1.95,
       "inhoud_waarde": 120,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Diepvries"
     },
     {
-      "productnaam": "LAVAZZA",
+      "productnaam": "Basmatirijst",
       "korting_tekst": null,
-      "actieprijs": 8.49,
-      "inhoud_waarde": 168,
+      "actieprijs": 7.49,
+      "inhoud_waarde": 4500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Volle yoghurt",
+      "productnaam": "Vaatwastabs All-in-1 Power",
       "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Keukenrol Maxi 2-laags",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Witte bollen",
+      "korting_tekst": null,
+      "actieprijs": 1.44,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Diverse afbakbroodjes",
+      "productnaam": "Roombotercroissant",
       "korting_tekst": null,
-      "actieprijs": 0.79,
+      "actieprijs": 0.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Light jam",
+      "productnaam": "Tijgerbruin vloerbrood",
       "korting_tekst": null,
-      "actieprijs": 1.89,
+      "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "HEALTHY FIT Vegan proteïne poeder",
+      "korting_tekst": null,
+      "actieprijs": 7.49,
+      "inhoud_waarde": 480,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "AVIKO Airfryer pommes frites",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Steenovenpizza",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "PRINGLES",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "COCA-COLA",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "HAK",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonenschotel",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "IGLO Visticks",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 15,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Instant noodles minder zout",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGGI",
+      "korting_tekst": null,
+      "actieprijs": 0.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wienerschnitzels",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Nasi of bami goreng",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Mineraalwater met sportscap",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "MAGNUM mini",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Mini star koekjes",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "SMIRNOFF ICE",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
     },
     {
       "productnaam": "CALVÉ Pindakaas",
@@ -1054,7 +982,7 @@
       "actieprijs": 3.29,
       "inhoud_waarde": 650,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -1063,7 +991,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -1072,7 +1000,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1081,7 +1009,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
@@ -1090,7 +1018,7 @@
       "actieprijs": 4.49,
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1099,7 +1027,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
@@ -1108,7 +1036,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -1117,7 +1045,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 18/09 - 20/09",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     }
   ]
