@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-19T09:57:25.159913+00:00",
+  "updated_at": "2026-09-20T10:17:52.859888+00:00",
   "deals": [
     {
       "productnaam": "De Vleeschmeesters Varkensentrecote",
@@ -1139,6 +1139,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Sana First Aid pleisters",
+      "korting_tekst": null,
+      "actieprijs": 0.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "20 - 26 sep",
+      "categorie": null
+    },
+    {
       "productnaam": "Ajax allesreiniger",
       "korting_tekst": "Van € 1,69 voor € 0,99",
       "actieprijs": 0.99,
@@ -1208,6 +1217,24 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "16 - 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mannsberger oplaadbare kastlamp",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "20 - 26 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sfeerlichten of sfeerlichthouder",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "20 - 26 sep",
       "categorie": null
     },
     {
