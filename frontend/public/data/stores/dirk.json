@@ -2,98 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-20T10:17:52.859888+00:00",
+  "updated_at": "2026-09-21T11:26:39.096968+00:00",
   "deals": [
-    {
-      "productnaam": "De Vleeschmeesters Varkensentrecote",
-      "korting_tekst": "Van € 5,99 voor € 4,49",
-      "actieprijs": 4.49,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,89",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pangasius mozzarella of kip in honing-mosterd",
-      "korting_tekst": "Van € 5,49 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pokébowl",
-      "korting_tekst": "Van € 4,49 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Spekkoek pandan",
-      "korting_tekst": "Van € 2,79 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Polderkiprollade",
-      "korting_tekst": "Van € 2,29 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Borrelkaas",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 360,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Kuyper ready to serve cocktail",
-      "korting_tekst": "Van € 9,99 voor € 7,99",
-      "actieprijs": 7.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ladessa filet Americain naturel",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luxe tapasschotel",
-      "korting_tekst": "Van € 8,39 voor € 6,49",
-      "actieprijs": 6.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
     {
       "productnaam": "Hak groente in pak",
       "korting_tekst": "Van € 1,85 voor € 0,89",
@@ -284,15 +194,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,89",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Ouwehand tonijnstukken",
       "korting_tekst": null,
       "actieprijs": 0.89,
@@ -401,42 +302,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Varkensentrecote",
-      "korting_tekst": "Van € 5,99 voor € 4,49",
-      "actieprijs": 4.49,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pangasius mozzarella of kip in honing-mosterd",
-      "korting_tekst": "Van € 5,49 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Polderkiprollade",
-      "korting_tekst": "Van € 2,29 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ladessa filet Americain naturel",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Snelle Jelle kruidkoekrepen",
       "korting_tekst": "Van € 1,55 voor € 0,99",
       "actieprijs": 0.99,
@@ -515,15 +380,6 @@
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
       "geldig_tekst": "16 - 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Spekkoek pandan",
-      "korting_tekst": "Van € 2,79 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
       "categorie": null
     },
     {
@@ -623,15 +479,6 @@
       "inhoud_waarde": 65,
       "inhoud_unit": "ml",
       "geldig_tekst": "16 - 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Borrelkaas",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 360,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
       "categorie": null
     },
     {
@@ -842,15 +689,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Kuyper ready to serve cocktail",
-      "korting_tekst": "Van € 9,99 voor € 7,99",
-      "actieprijs": 7.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Knorr maaltijdmix",
       "korting_tekst": "Van € 1,99 voor € 0,89",
       "actieprijs": 0.89,
@@ -1010,33 +848,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "16 - 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pangasius mozzarella of kip in honing-mosterd",
-      "korting_tekst": "Van € 5,49 voor € 4,99",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pokébowl",
-      "korting_tekst": "Van € 4,49 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "16 - 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luxe tapasschotel",
-      "korting_tekst": "Van € 8,39 voor € 6,49",
-      "actieprijs": 6.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "16 - 20 sep",
       "categorie": null
     },
     {
