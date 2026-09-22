@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-21T11:26:39.096968+00:00",
+  "updated_at": "2026-09-22T10:35:08.434527+00:00",
   "deals": [
     {
       "productnaam": "Hak groente in pak",
@@ -406,15 +406,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "16 - 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Danette",
-      "korting_tekst": "Van € 2,35 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
       "geldig_tekst": "16 - 22 sep",
       "categorie": null
     },

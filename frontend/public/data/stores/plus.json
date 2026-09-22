@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-21T11:27:24.556653+00:00",
+  "updated_at": "2026-09-22T10:35:53.864882+00:00",
   "deals": [
     {
       "productnaam": "Alle La Molisana",
@@ -153,15 +153,6 @@
       "korting_tekst": null,
       "actieprijs": 1.29,
       "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Witlof",
-      "korting_tekst": "500 gram 0.79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 16 september t/m dinsdag 22 september",
       "categorie": null

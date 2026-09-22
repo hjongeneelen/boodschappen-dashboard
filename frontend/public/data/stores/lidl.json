@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-21T11:26:37.281307+00:00",
+  "updated_at": "2026-09-22T10:35:06.622999+00:00",
   "deals": [
     {
       "productnaam": "Goudse belegen stuk kaas",
@@ -761,6 +761,42 @@
       "categorie": null
     },
     {
+      "productnaam": "Grüner Veltliner",
+      "korting_tekst": null,
+      "actieprijs": 3.29,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Diverse maaltijdsalades",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Maatjesharing met ui",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "DR. OETKER suprema pizza",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 425,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
       "productnaam": "Lasagne bolognese",
       "korting_tekst": null,
       "actieprijs": 4.79,
@@ -860,15 +896,6 @@
       "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "Vileda Premium 2in1 strijkplankovertrek met QuickFIX systeem en warmtereflecterende functie.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
       "productnaam": "Een doos met LEGO Icons Bouquet of Roses, een bouwset van 822 stukjes met rode rozen.",
       "korting_tekst": null,
       "actieprijs": null,
@@ -897,6 +924,15 @@
     },
     {
       "productnaam": "Twee grijze gootstenen met afdruiprek en kleurstalen.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Aquabeads set met Paw Patrol figuren, 700 kralen en accessoires, geschikt voor 4+ jaar.",
       "korting_tekst": null,
       "actieprijs": null,
       "inhoud_waarde": null,
