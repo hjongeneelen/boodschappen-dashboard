@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-23T10:29:05.671222+00:00",
+  "updated_at": "2026-09-24T10:45:32.233874+00:00",
   "deals": [
     {
       "productnaam": "Goudse belegen stuk kaas",
@@ -392,112 +392,346 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Gepaneerde gehaktstaaf",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Plantaardige ham- of champignonburger",
-      "korting_tekst": null,
-      "actieprijs": 1.75,
-      "inhoud_waarde": 226,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Goudse jonge kaasplakken 48+",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Skyr naturel",
-      "korting_tekst": null,
-      "actieprijs": 2.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "DANIO romige kwark",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "ALMHOF hoekje",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Karnemelk",
+      "productnaam": "Crème brûlée croissant",
       "korting_tekst": null,
       "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "WASA",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "L'OR Koffiecups",
+      "productnaam": "Party donuts",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Zalmfilets op huid",
+      "korting_tekst": null,
+      "actieprijs": 4.79,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Sukadelappen",
+      "korting_tekst": null,
+      "actieprijs": 1.45,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Pepersteaks",
       "korting_tekst": null,
       "actieprijs": 4.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Hamlappen",
+      "korting_tekst": null,
+      "actieprijs": 7.59,
+      "inhoud_waarde": 960,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gepaneerde kipschnitzels",
+      "korting_tekst": null,
+      "actieprijs": 4.49,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Garnalen",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Kipsaté stokjes of bakje",
+      "korting_tekst": null,
+      "actieprijs": 0.95,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gehaktballetjes Zweede stijl",
+      "korting_tekst": null,
+      "actieprijs": 7.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Een verpakking tonijnsalade met een Nutri-Score C en MSC-keurmerk.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Een verpakking kipsalade met pesto van Chef Select met een Nutri-Score D.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Een verpakking eiersalade met een Nutri-Score D en Beter Leven keurmerk.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Oranje serviesset met borden en kommen in diverse maten.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Ronde LED plafondlamp met sterrenhemel effect en zilveren rand",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Blauwe badge met -25% korting via de app.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Ronde zilverkleurige LED-plafondlamp met wit lichtoppervlak.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Ronde LED plafondlamp met zilveren rand",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Drie ronde plafondlampen in diverse ontwerpen, waaronder één met sterreneffect.",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Retailer of the Year 2025",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Populairste Website van het jaar 2024",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Thuiswinkel Waarborg",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Toegankelijkheidsverklaring",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Top Employer Netherlands",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Top Employer Europe",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Logo van AfterPay",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Visa",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Mastercard",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Google Pay",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Apple Pay",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DHL!",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Android-apparaten",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Bedrijfslogo",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Powered by Onetrust",
+      "korting_tekst": "Actieprijzen variëren van €1.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Zonnebloemolie",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
-    },
-    {
-      "productnaam": "Witte scharreleieren",
-      "korting_tekst": null,
-      "actieprijs": 7.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Gebraden gehakt",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gesneden cervelaat",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Grüner Veltliner",
@@ -635,6 +869,15 @@
       "categorie": "Snacks & Snoep"
     },
     {
+      "productnaam": "Vileda Premium 2in1 strijkplankovertrek met QuickFIX systeem en warmtereflecterende functie.",
+      "korting_tekst": null,
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
       "productnaam": "Digitale startset met locomotief en rails, met een bouwplaats thema.",
       "korting_tekst": null,
       "actieprijs": null,
@@ -663,15 +906,6 @@
     },
     {
       "productnaam": "Slimme tv-led-achtergrondverlichting met camera en bedieningskastje.",
-      "korting_tekst": null,
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Twee grijze gootstenen met afdruiprek en kleurstalen.",
       "korting_tekst": null,
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -982,303 +1216,6 @@
       "actieprijs": 5.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Crème brûlée croissant",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Party donuts",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Zalmfilets op huid",
-      "korting_tekst": null,
-      "actieprijs": 4.79,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Sukadelappen",
-      "korting_tekst": null,
-      "actieprijs": 1.45,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipsaté stokjes of bakje",
-      "korting_tekst": null,
-      "actieprijs": 0.95,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Gehaktballetjes Zweede stijl",
-      "korting_tekst": null,
-      "actieprijs": 7.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Een verpakking tonijnsalade met een Nutri-Score C en MSC-keurmerk.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Een verpakking kipsalade met pesto van Chef Select met een Nutri-Score D.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Een verpakking eiersalade met een Nutri-Score D en Beter Leven keurmerk.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Oranje serviesset met borden en kommen in diverse maten.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Ronde LED plafondlamp met sterrenhemel effect en zilveren rand",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Ronde zilverkleurige LED-plafondlamp met wit lichtoppervlak.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Ronde LED plafondlamp met zilveren rand",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Drie ronde plafondlampen in diverse ontwerpen, waaronder één met sterreneffect.",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Retailer of the Year 2025",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Populairste Website van het jaar 2024",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Thuiswinkel Waarborg",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Toegankelijkheidsverklaring",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Top Employer Netherlands",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Top Employer Europe",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Logo van AfterPay",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Visa",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Mastercard",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Google Pay",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Apple Pay",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DHL!",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Android-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Bedrijfslogo",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Powered by Onetrust",
-      "korting_tekst": "Actieprijzen variëren van €1.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Zonnebloemolie",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 2000,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
