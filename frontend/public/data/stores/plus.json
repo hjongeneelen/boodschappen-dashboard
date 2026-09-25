@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-24T10:46:21.005031+00:00",
+  "updated_at": "2026-09-25T10:50:20.039225+00:00",
   "deals": [
     {
       "productnaam": "Alle Bertolli Olijfolie",
@@ -218,6 +218,168 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 23 september t/m dinsdag 29 september",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bananen Fairtrade",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handappels Jonagold",
+      "korting_tekst": "1.29 per kilo",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Limoenen",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Druiven wit pitloos",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Blauwe bessen en frambozen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eat Me Avocado",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Snoeptomaten rood",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Paprikamix",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Suikermais",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Salademix",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Broccoli",
+      "korting_tekst": "500 gram 0.99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bloemkool",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Wortelen biologisch",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neutraal Munt zakje",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 15,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Roerbakgroenten Mexicaanse stijl",
+      "korting_tekst": null,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Verspakket Taco kip",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1127,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Oosterse maaltijd",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 30 september t/m dinsdag 6 oktober",
       "categorie": null
     }
   ]
