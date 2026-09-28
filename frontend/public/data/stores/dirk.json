@@ -2,107 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-27T11:02:20.499826+00:00",
+  "updated_at": "2026-09-28T12:22:03.651749+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Fruitsalade",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bourgondische appeltaart",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luiten ossenworst",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pan-Bake gebak",
-      "korting_tekst": "Van € 4,19 voor € 2,89",
-      "actieprijs": 2.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Tapas",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Boomsma jonge graanjenever",
-      "korting_tekst": "Van € 14,49 voor € 10,99",
-      "actieprijs": 10.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dirk-topwijn",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hardanger gerookte zalm",
-      "korting_tekst": "Van € 2,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Los Taqueros empanadas",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mediterraneo focaccia",
-      "korting_tekst": "Van € 2,49 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
     {
       "productnaam": "Del Monte ananas",
       "korting_tekst": "Van € 1,99 voor € 1,69",
@@ -302,15 +203,6 @@
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Fruitsalade",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "De Vleeschmeesters Magere runderhamburgers",
       "korting_tekst": null,
       "actieprijs": 2.99,
@@ -398,24 +290,6 @@
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "23 - 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luiten ossenworst",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hardanger gerookte zalm",
-      "korting_tekst": "Van € 2,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
       "categorie": null
     },
     {
@@ -515,15 +389,6 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "23 - 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bourgondische appeltaart",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
       "categorie": null
     },
     {
@@ -734,15 +599,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Dirk-topwijn",
-      "korting_tekst": "Van € 4,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "De Cecco pasta",
       "korting_tekst": "Van € 3,19 voor € 1,29",
       "actieprijs": 1.29,
@@ -860,42 +716,6 @@
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Tapas",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Los Taqueros empanadas",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mediterraneo focaccia",
-      "korting_tekst": "Van € 2,49 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Snickers icebars XXL",
       "korting_tekst": "Van € 8,69 voor € 3,99",
       "actieprijs": 3.99,
@@ -923,15 +743,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pan-Bake gebak",
-      "korting_tekst": "Van € 4,19 voor € 2,89",
-      "actieprijs": 2.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "23 - 27 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Sanex douchegel",
       "korting_tekst": null,
       "actieprijs": 2.99,
@@ -942,7 +753,7 @@
     },
     {
       "productnaam": "Elvive shampoo of conditioner",
-      "korting_tekst": "Van € 4,85 voor € 3,49",
+      "korting_tekst": "Van € 4,75 voor € 3,49",
       "actieprijs": 3.49,
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
