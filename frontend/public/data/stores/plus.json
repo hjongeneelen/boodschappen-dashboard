@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-09-28T12:22:49.111477+00:00",
+  "updated_at": "2026-09-29T11:49:37.501990+00:00",
   "deals": [
     {
       "productnaam": "Alle Bertolli Olijfolie",
@@ -46,15 +46,6 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 23 september t/m dinsdag 29 september",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handperen Doyenne du comice",
-      "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 23 september t/m dinsdag 29 september",
       "categorie": null
     },

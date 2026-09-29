@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-28T12:22:02.266880+00:00",
+  "updated_at": "2026-09-29T11:48:48.256698+00:00",
   "deals": [
     {
       "productnaam": "MONSTER",
@@ -221,76 +221,553 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Boerenbruin",
+      "productnaam": "Pangasiusfilet",
       "korting_tekst": null,
-      "actieprijs": 1.19,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Cinnamon bun met chocolade",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Speculaastaartje",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Cookie muffin",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Kaneel cronuts",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Donuts rainbow dot",
-      "korting_tekst": null,
-      "actieprijs": 2.59,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Gehakt cordon bleu",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 500,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 550,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
-      "productnaam": "Gerookte spekreepjes",
+      "productnaam": "Varkensfiletlapjes",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 300,
+      "actieprijs": 6.19,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Hamburger kleinverpakking",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Diamanthaas gemarineerd",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Gelderse rookworst",
+      "korting_tekst": null,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Plantaardig rulgehakt of shoarma",
+      "korting_tekst": null,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Goudse belegen kaasplakken",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Campina",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Milbona Light smeerkaas Naturel met crackers.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Milbona Smeerkaas Oud in een kuipje van 150 gram.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Milbona Sambal smeerkaas met crackers.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Watertekenmatten met dinosaurussen en onderwaterwereld thema's.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Schoolpennenkokers met Disneyfiguren, Barbie, Stitch, Mario en Spiderman.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Schooltassenset: roze met eenhoorn en blauw met voetbal.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Drie etui's met kleurpotloden, stiften en een instructieboekje.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Bluey en Bingo dekbedovertrekset met 'BESTIES FOREVER' tekst en karakteropties.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Retailer of the Year 2025",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Populairste Website van het jaar 2024",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Thuiswinkel Waarborg",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Toegankelijkheidsverklaring",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Top Employer Netherlands",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Top Employer Europe",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Logo van AfterPay",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Visa",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Mastercard",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Google Pay",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Apple Pay",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DHL!",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Android-apparaten",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Bedrijfslogo",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Powered by Onetrust",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Speculoospasta",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "JOHMA Broodsalades",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Tastino gember ontbijtkoek met roggebloem.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Tastino Parelkanddij ontbijtkoek: een ongebroken cake met roggebloem.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Verpakkingen geribde damesonderbroeken met kanten rand in diverse kleuren, waaronder zwart, grijs en bordeaux.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Wit kussen met een ademend mesh middenstuk.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Verpakking vliesbehanglijm, voldoende voor 5-7 rollen, klaar in 5 minuten.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Zwarte vacuümsealer met verpakt vlees, met zwarte en witte kleuropties.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Eenvoudig wit kussen op een witte achtergrond.",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Retailer of the Year 2025",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Populairste Website van het jaar 2024",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Thuiswinkel Waarborg",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Toegankelijkheidsverklaring",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Top Employer Netherlands",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Top Employer Europe",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Logo van AfterPay",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Visa",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Mastercard",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Google Pay",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Betaal gemakkelijk met Apple Pay",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DHL!",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Android-apparaten",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Bedrijfslogo",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Powered by Onetrust",
+      "korting_tekst": "Actieprijzen variëren van €0.",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "EAT NATURAL Granola",
@@ -840,483 +1317,6 @@
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
       "categorie": null
-    },
-    {
-      "productnaam": "Milbona Light smeerkaas Naturel met crackers.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Milbona Smeerkaas Oud in een kuipje van 150 gram.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Milbona Sambal smeerkaas met crackers.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Watertekenmatten met dinosaurussen en onderwaterwereld thema's.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Schoolpennenkokers met Disneyfiguren, Barbie, Stitch, Mario en Spiderman.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Schooltassenset: roze met eenhoorn en blauw met voetbal.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Drie etui's met kleurpotloden, stiften en een instructieboekje.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Bluey en Bingo dekbedovertrekset met 'BESTIES FOREVER' tekst en karakteropties.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Retailer of the Year 2025",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Populairste Website van het jaar 2024",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Thuiswinkel Waarborg",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Toegankelijkheidsverklaring",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Top Employer Netherlands",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Top Employer Europe",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Logo van AfterPay",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Visa",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Mastercard",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Google Pay",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Apple Pay",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DHL!",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Android-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Bedrijfslogo",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Powered by Onetrust",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Speculoospasta",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "JOHMA Broodsalades",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Tastino gember ontbijtkoek met roggebloem.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Tastino Parelkanddij ontbijtkoek: een ongebroken cake met roggebloem.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Verpakkingen geribde damesonderbroeken met kanten rand in diverse kleuren, waaronder zwart, grijs en bordeaux.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Verpakking vliesbehanglijm, voldoende voor 5-7 rollen, klaar in 5 minuten.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Zwarte vacuümsealer met verpakt vlees, met zwarte en witte kleuropties.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Eenvoudig wit kussen op een witte achtergrond.",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Wit gewatteerd kussen met een golvend stikpatroon",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Retailer of the Year 2025",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Populairste Website van het jaar 2024",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Thuiswinkel Waarborg",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Toegankelijkheidsverklaring",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Top Employer Netherlands",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Top Employer Europe",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met iDEAL | Wero",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Logo van AfterPay",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Visa",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Mastercard",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Google Pay",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Betaal gemakkelijk met Apple Pay",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DHL!",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Bij Lidl verzenden we met DynaLogic!",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Android-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Download onze Lidl-app voor Apple-apparaten",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Bedrijfslogo",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "Powered by Onetrust",
-      "korting_tekst": "Actieprijzen variëren van €0.",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Amaryllisbol",
