@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-09-29T11:48:48.256698+00:00",
+  "updated_at": "2026-09-30T11:35:22.711011+00:00",
   "deals": [
     {
       "productnaam": "MONSTER",
@@ -149,42 +149,6 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Bio prei",
-      "korting_tekst": null,
-      "actieprijs": 0.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Snackradijs",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Granaatappel",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Rucola slamelange",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
       "productnaam": "Boeren kool",
       "korting_tekst": null,
       "actieprijs": 1.49,
@@ -221,76 +185,76 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Pangasiusfilet",
+      "productnaam": "Boerenbruin",
       "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 550,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Varkensfiletlapjes",
+      "productnaam": "Cinnamon bun met chocolade",
       "korting_tekst": null,
-      "actieprijs": 6.19,
-      "inhoud_waarde": 750,
+      "actieprijs": 0.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Speculaastaartje",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "Hamburger kleinverpakking",
+      "productnaam": "Cookie muffin",
       "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
-      "categorie": "Diepvries"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Diamanthaas gemarineerd",
+      "productnaam": "Kaneel cronuts",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Gelderse rookworst",
+      "productnaam": "Donuts rainbow dot",
       "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Plantaardig rulgehakt of shoarma",
-      "korting_tekst": null,
-      "actieprijs": 2.29,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Goudse belegen kaasplakken",
+      "productnaam": "Gehakt cordon bleu",
       "korting_tekst": null,
       "actieprijs": 3.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Diepvries"
     },
     {
-      "productnaam": "Campina",
+      "productnaam": "Gerookte spekreepjes",
       "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Milbona Light smeerkaas Naturel met crackers.",
@@ -874,7 +838,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 800,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1279,7 +1243,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -1288,7 +1252,7 @@
       "actieprijs": 1.59,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1297,7 +1261,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1306,7 +1270,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1315,7 +1279,7 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 30/09 - 04/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
