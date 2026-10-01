@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-09-30T11:35:24.537888+00:00",
+  "updated_at": "2026-10-01T12:03:51.112245+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Boerenkool grof",
@@ -582,8 +582,8 @@
     },
     {
       "productnaam": "Maggi Mixen",
-      "korting_tekst": "Van € 1,89 voor € 0,89",
-      "actieprijs": 0.89,
+      "korting_tekst": "Van € 1,89 voor € 0,69",
+      "actieprijs": 0.69,
       "inhoud_waarde": 36,
       "inhoud_unit": "gram",
       "geldig_tekst": "30 sep - 6 okt",
