@@ -2,107 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-04T11:31:46.757082+00:00",
+  "updated_at": "2026-10-05T13:01:13.350600+00:00",
   "deals": [
-    {
-      "productnaam": "De Vleeschmeesters Gegaarde spareribs",
-      "korting_tekst": "Van € 9,59 voor € 6,99",
-      "actieprijs": 6.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele gamba's",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kersenrastervlaai",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pastasalade",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vijgen",
-      "korting_tekst": "Van € 0,69 voor € 0,39",
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Gebraden rosbief",
-      "korting_tekst": "Van € 3,19 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperitivo tapasschotel",
-      "korting_tekst": "Van € 4,75 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Kaasblokjes",
-      "korting_tekst": "Van € 2,35 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Premix",
-      "korting_tekst": "Van € 2,19 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse mini kaasbroodjes of saucijzenstaaf",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste Boerenkool grof",
       "korting_tekst": "Van € 1,95 voor € 0,99",
@@ -257,24 +158,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vijgen",
-      "korting_tekst": "Van € 0,69 voor € 0,39",
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "De Vleeschmeesters Steaks à la minute black pepper coffee",
       "korting_tekst": null,
       "actieprijs": 4.99,
@@ -356,33 +239,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Gegaarde spareribs",
-      "korting_tekst": "Van € 9,59 voor € 6,99",
-      "actieprijs": 6.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hele gamba's",
-      "korting_tekst": "Van € 3,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Gebraden rosbief",
-      "korting_tekst": "Van € 3,19 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Bakker Bollebof mini cake duo",
       "korting_tekst": null,
       "actieprijs": 2.99,
@@ -443,15 +299,6 @@
       "inhoud_waarde": 320,
       "inhoud_unit": "gram",
       "geldig_tekst": "30 sep - 6 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kersenrastervlaai",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
       "categorie": null
     },
     {
@@ -689,15 +536,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Premix",
-      "korting_tekst": "Van € 2,19 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Maggi Mixen",
       "korting_tekst": "Van € 1,89 voor € 0,69",
       "actieprijs": 0.69,
@@ -767,42 +605,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "30 sep - 6 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pastasalade",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperitivo tapasschotel",
-      "korting_tekst": "Van € 4,75 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Kaasblokjes",
-      "korting_tekst": "Van € 2,35 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "30 sep - 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse mini kaasbroodjes of saucijzenstaaf",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "30 sep - 4 okt",
       "categorie": null
     },
     {

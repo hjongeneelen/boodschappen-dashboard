@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-10-04T11:31:45.080354+00:00",
+  "updated_at": "2026-10-05T13:01:11.659994+00:00",
   "deals": [
     {
       "productnaam": "Walnoten",
@@ -10,7 +10,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 120,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Huishouden"
     },
     {
@@ -37,7 +37,7 @@
       "actieprijs": 4.88,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 5.99,
       "inhoud_waarde": 600,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -73,7 +73,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -82,7 +82,7 @@
       "actieprijs": 0.59,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -91,7 +91,7 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -100,7 +100,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -109,7 +109,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -118,7 +118,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -127,7 +127,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -136,7 +136,7 @@
       "actieprijs": 0.59,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -145,7 +145,7 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Groente & Fruit"
     },
     {
@@ -154,7 +154,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -163,7 +163,7 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -172,7 +172,7 @@
       "actieprijs": 0.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -181,116 +181,80 @@
       "actieprijs": 0.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
-      "productnaam": "Yorkham",
+      "productnaam": "Tijgervolkoren heel vloerbrood",
       "korting_tekst": null,
-      "actieprijs": 1.89,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": null
-    },
-    {
-      "productnaam": "ALMHOF Volle kwark",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "DANIO",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": 165,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "DUO PENOTTI",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "ACTIMEL",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Kipfilet",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "JOHN WEST Tonijn",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 145,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Goudse kaasplakken extra oud",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
+      "actieprijs": 0.95,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "KARVAN CÉVITAM",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Eierwafels",
-      "korting_tekst": null,
-      "actieprijs": 1.09,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Yoghurtrepen",
-      "korting_tekst": null,
-      "actieprijs": 1.09,
-      "inhoud_waarde": 185,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "CHIO Heartbreakers naturel of POM-BÄR Original",
+      "productnaam": "Gevulde mini pizzadonut",
       "korting_tekst": null,
       "actieprijs": 0.99,
-      "inhoud_waarde": 80,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Cronut",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Brownie NY-style cheesecake",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Snacks & Snoep"
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Speklapjes kleinverpakking",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Spekburgers",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Hele zalmzijde met huid",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Worstjes Catalaanse wijze",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
     },
     {
       "productnaam": "Poffertjes of ongezoete pannenkoeken",
@@ -298,7 +262,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -307,7 +271,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
@@ -316,7 +280,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
@@ -325,7 +289,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -334,7 +298,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -343,7 +307,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -352,7 +316,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 71,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -361,7 +325,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 430,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -370,7 +334,7 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 175,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -379,7 +343,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -388,7 +352,7 @@
       "actieprijs": 1.09,
       "inhoud_waarde": 12,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -397,7 +361,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 110,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     },
     {
@@ -406,7 +370,7 @@
       "actieprijs": 1.19,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -415,7 +379,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -424,7 +388,7 @@
       "actieprijs": null,
       "inhoud_waarde": 3000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -433,7 +397,7 @@
       "actieprijs": null,
       "inhoud_waarde": 3000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -442,7 +406,7 @@
       "actieprijs": null,
       "inhoud_waarde": 3000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -451,7 +415,7 @@
       "actieprijs": null,
       "inhoud_waarde": 3000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -460,7 +424,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -469,7 +433,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -478,7 +442,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -487,7 +451,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -496,7 +460,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -505,7 +469,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -514,7 +478,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -523,7 +487,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -532,7 +496,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -541,7 +505,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -550,7 +514,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -559,7 +523,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -568,7 +532,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -577,7 +541,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -586,7 +550,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -595,7 +559,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -604,7 +568,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -613,7 +577,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -622,7 +586,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -631,7 +595,7 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -640,7 +604,7 @@
       "actieprijs": 8.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -649,7 +613,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -658,7 +622,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -667,7 +631,7 @@
       "actieprijs": 6.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -676,7 +640,7 @@
       "actieprijs": 1.79,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
@@ -734,112 +698,40 @@
       "categorie": null
     },
     {
-      "productnaam": "Tijgervolkoren heel vloerbrood",
-      "korting_tekst": null,
-      "actieprijs": 0.95,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Gevulde mini pizzadonut",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Cronut",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Brownie NY-style cheesecake",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Speklapjes kleinverpakking",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Spekburgers",
+      "productnaam": "KARVAN CÉVITAM",
       "korting_tekst": null,
       "actieprijs": 2.49,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Eierwafels",
+      "korting_tekst": null,
+      "actieprijs": 1.09,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Vlees & Vis"
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Hele zalmzijde met huid",
+      "productnaam": "Yoghurtrepen",
       "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Worstjes Catalaanse wijze",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
+      "actieprijs": 1.09,
+      "inhoud_waarde": 185,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Plantaardige nuggets of krokante kipburgers",
-      "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdijschotel Aziatische stijl",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Amandelen ongebrand",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
       "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "LEERDAMMER Kaasplakken",
+      "productnaam": "CHIO Heartbreakers naturel of POM-BÄR Original",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 160,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 80,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 05/10 - 11/10",
-      "categorie": "Zuivel & Eieren"
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Heide triomix",
