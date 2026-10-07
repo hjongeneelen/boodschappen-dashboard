@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-10-06T12:25:47.563697+00:00",
+  "updated_at": "2026-10-07T12:18:47.808641+00:00",
   "deals": [
     {
       "productnaam": "Walnoten",
@@ -255,6 +255,78 @@
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Plantaardige nuggets of krokante kipburgers",
+      "korting_tekst": null,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Kipdijschotel Aziatische stijl",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Amandelen ongebrand",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "LEERDAMMER Kaasplakken",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Yorkham",
+      "korting_tekst": null,
+      "actieprijs": 1.89,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "ALMHOF Volle kwark",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "DANIO",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "DUO PENOTTI",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
     },
     {
       "productnaam": "ACTIMEL",
@@ -721,7 +793,7 @@
       "actieprijs": 5.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -730,7 +802,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -739,7 +811,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -748,7 +820,7 @@
       "actieprijs": 9.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -757,7 +829,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -766,7 +838,7 @@
       "actieprijs": 12.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 07/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
