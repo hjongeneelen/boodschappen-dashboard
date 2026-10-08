@@ -2,12 +2,21 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-07T12:18:48.989193+00:00",
+  "updated_at": "2026-10-08T12:29:08.675987+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Verse frites",
       "korting_tekst": "Van € 2,39 voor € 1,99",
       "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "Van € 3,99 voor € 3,69",
+      "actieprijs": 3.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "7 - 11 okt",
