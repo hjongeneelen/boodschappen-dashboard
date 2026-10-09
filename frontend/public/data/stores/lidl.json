@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-10-08T12:29:07.225379+00:00",
+  "updated_at": "2026-10-09T12:17:36.497696+00:00",
   "deals": [
     {
       "productnaam": "Walnoten",
@@ -221,76 +221,40 @@
       "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Speklapjes kleinverpakking",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Spekburgers",
+      "productnaam": "KARVAN CÉVITAM",
       "korting_tekst": null,
       "actieprijs": 2.49,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Eierwafels",
+      "korting_tekst": null,
+      "actieprijs": 1.09,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
+      "categorie": "Brood & Bakkerij"
     },
     {
-      "productnaam": "Hele zalmzijde met huid",
+      "productnaam": "Yoghurtrepen",
       "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Worstjes Catalaanse wijze",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Plantaardige nuggets of krokante kipburgers",
-      "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdijschotel Aziatische stijl",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Amandelen ongebrand",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
+      "actieprijs": 1.09,
+      "inhoud_waarde": 185,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Snacks & Snoep"
     },
     {
-      "productnaam": "LEERDAMMER Kaasplakken",
+      "productnaam": "CHIO Heartbreakers naturel of POM-BÄR Original",
       "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 160,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 80,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
+      "categorie": "Snacks & Snoep"
     },
     {
       "productnaam": "Poffertjes of ongezoete pannenkoeken",
@@ -734,12 +698,48 @@
       "categorie": null
     },
     {
+      "productnaam": "Speklapjes kleinverpakking",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Spekburgers",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Hele zalmzijde met huid",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Worstjes Catalaanse wijze",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
       "productnaam": "Heide triomix",
       "korting_tekst": null,
       "actieprijs": 2.79,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -748,7 +748,7 @@
       "actieprijs": 1.79,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -757,7 +757,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -766,7 +766,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
@@ -775,7 +775,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Diepvries"
     },
     {
@@ -784,7 +784,7 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -793,7 +793,7 @@
       "actieprijs": 2.69,
       "inhoud_waarde": 150,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Verzorging & Drogisterij"
     },
     {
@@ -802,7 +802,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 09/10 - 11/10",
+      "geldig_tekst": null,
       "categorie": "Brood & Bakkerij"
     }
   ]

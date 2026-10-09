@@ -2,8 +2,107 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-08T12:29:08.675987+00:00",
+  "updated_at": "2026-10-09T12:17:37.754979+00:00",
   "deals": [
+    {
+      "productnaam": "1 de Beste Verse frites",
+      "korting_tekst": "Van € 2,39 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "Van € 3,99 voor € 3,69",
+      "actieprijs": 3.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Culinaire beenham",
+      "korting_tekst": "Van € 5,99 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Premier Zeeuwse mosselen",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alsace Pinot Blanc",
+      "korting_tekst": "Van € 5,79 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Speculaas appeltaart",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verse worstenbroodjes",
+      "korting_tekst": "Van € 2,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Salade",
+      "korting_tekst": "Van € 2,45 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bits & Bites Groene olijven",
+      "korting_tekst": "Van € 2,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Montclair kaas",
+      "korting_tekst": "Van € 2,49 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oma's snacks",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "7 - 11 okt",
+      "categorie": null
+    },
     {
       "productnaam": "1 de Beste Verse frites",
       "korting_tekst": "Van € 2,39 voor € 1,99",
@@ -154,6 +253,15 @@
       "actieprijs": 1.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "7 - 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hollandse aardbeien",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
       "geldig_tekst": "7 - 13 okt",
       "categorie": null
     },
