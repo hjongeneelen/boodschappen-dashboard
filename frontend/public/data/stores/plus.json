@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-09T12:18:24.429568+00:00",
+  "updated_at": "2026-10-10T11:35:44.737284+00:00",
   "deals": [
     {
       "productnaam": "PLUS Stamppotgroente en Nederlandse aardappels",
@@ -194,15 +194,6 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Kies & Mix Verse soep",
-      "korting_tekst": "2 voor 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
       "korting_tekst": "2 voor 5.50",
       "actieprijs": 5.5,
@@ -244,15 +235,6 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Perssinaasappelen",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "kg",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
     },
