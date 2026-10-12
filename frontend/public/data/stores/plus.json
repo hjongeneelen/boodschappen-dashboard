@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-11T11:49:37.090090+00:00",
+  "updated_at": "2026-10-12T13:54:05.260163+00:00",
   "deals": [
     {
       "productnaam": "PLUS Stamppotgroente en Nederlandse aardappels",
@@ -131,7 +131,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Gember biologisch",
+      "productnaam": "Biologisch PLUS Gember",
       "korting_tekst": null,
       "actieprijs": 1.19,
       "inhoud_waarde": 1,
@@ -154,15 +154,6 @@
       "actieprijs": 5.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Verse Loempia",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
       "categorie": null
     },
@@ -221,7 +212,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Bananen biologisch Fairtrade",
+      "productnaam": "Biologisch PLUS Bananen",
       "korting_tekst": null,
       "actieprijs": 1.69,
       "inhoud_waarde": 1,
@@ -275,7 +266,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Spinazie biologisch",
+      "productnaam": "Biologisch PLUS Spinazie",
       "korting_tekst": null,
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
@@ -302,7 +293,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Wortelen biologisch",
+      "productnaam": "Biologisch PLUS Wortelen",
       "korting_tekst": null,
       "actieprijs": 1.49,
       "inhoud_waarde": 1,
