@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-12T13:54:05.260163+00:00",
+  "updated_at": "2026-10-13T13:11:35.749340+00:00",
   "deals": [
     {
       "productnaam": "PLUS Stamppotgroente en Nederlandse aardappels",
@@ -46,15 +46,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 1,
       "inhoud_unit": "kg",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handappels elstar",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
       "categorie": null
     },
@@ -234,15 +225,6 @@
       "korting_tekst": null,
       "actieprijs": 2.99,
       "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zespri Kiwi gold",
-      "korting_tekst": "500 gram 2.99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
