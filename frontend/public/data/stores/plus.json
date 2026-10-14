@@ -2,203 +2,50 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-13T13:11:35.749340+00:00",
+  "updated_at": "2026-10-14T10:52:10.942274+00:00",
   "deals": [
-    {
-      "productnaam": "PLUS Stamppotgroente en Nederlandse aardappels",
-      "korting_tekst": "VOORDEELVERPAKKING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Honig pasta, Mix voor soep en maaltijdmix",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Groenteconserven",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handperen Conference",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "kg",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mandarijnen extra groot GVP",
-      "korting_tekst": "VOORDEELVERPAKKING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Druiven Sweet White",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.29,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Blauwe bessen",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Avocado",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Stamppotgroente en Nederlandse aardappels",
-      "korting_tekst": "VOORDEELVERPAKKING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS zoete aardappel",
-      "korting_tekst": "2.49 per kilo",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Spitskool",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Witlof",
-      "korting_tekst": "500 gram 1.00",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Gember",
-      "korting_tekst": null,
-      "actieprijs": 1.19,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Gele uien",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "kg",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Flemmings Hamburgerbroodjes",
-      "korting_tekst": "2 voor 2.99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle PLUS Bapao",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Portie poffertjes",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
-      "korting_tekst": "2 voor 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
-      "korting_tekst": "2 voor 7.50",
-      "actieprijs": 7.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 7 oktober t/m dinsdag 13 oktober",
-      "categorie": null
-    },
     {
       "productnaam": "Page Toiletpapier",
       "korting_tekst": "OP=OP",
       "actieprijs": 19.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Milner Kaas plakken en -stukken",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle PLUS Ongekoelde maaltijd verspakketten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Verkade en McVitie's Koek en Chocolade",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Slimpie Siroop",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
     },
@@ -221,11 +68,38 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Nederlandse Aardbeien",
       "korting_tekst": null,
       "actieprijs": 2.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 gram 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Avocado",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
     },
@@ -266,6 +140,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Biologisch PLUS Spitskool",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Bloemkool",
       "korting_tekst": null,
       "actieprijs": 0.99,
@@ -280,6 +163,24 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 1,
       "inhoud_unit": "kg",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
     }
