@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-10-14T10:52:32.263421+00:00",
+  "updated_at": "2026-10-15T10:35:06.426199+00:00",
   "deals": [
     {
       "productnaam": "Pitloze witte druiven",
@@ -1445,6 +1445,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Nederlandse aardbeien",
+      "korting_tekst": "-16%",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Paprikamix",
       "korting_tekst": "OP=OP",
       "actieprijs": 1.99,
@@ -1832,7 +1841,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Jurk met tule rok",
+      "productnaam": "Jurk met tulen rok",
       "korting_tekst": null,
       "actieprijs": 17.1,
       "inhoud_waarde": 1,
@@ -1940,7 +1949,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Squishmallows Mystery Box",
+      "productnaam": "Squishmallows mystery box",
       "korting_tekst": null,
       "actieprijs": 17.1,
       "inhoud_waarde": 1,

@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-14T10:52:10.942274+00:00",
+  "updated_at": "2026-10-15T10:34:43.648728+00:00",
   "deals": [
     {
       "productnaam": "Page Toiletpapier",
@@ -59,11 +59,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Alle PLUS Nederlandse Handperen",
+      "productnaam": "PLUS Perssinaasappelen",
       "korting_tekst": null,
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "kg",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
     },
