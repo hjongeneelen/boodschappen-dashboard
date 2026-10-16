@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-15T10:34:43.648728+00:00",
+  "updated_at": "2026-10-16T10:40:36.050769+00:00",
   "deals": [
     {
       "productnaam": "Page Toiletpapier",
@@ -114,18 +114,9 @@
     },
     {
       "productnaam": "PLUS Trostomaten",
-      "korting_tekst": "500 gram 0.99",
+      "korting_tekst": "500 gram 0.89",
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Spinazie",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
@@ -181,6 +172,42 @@
       "actieprijs": 5.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Milner Kaas plakken en -stukken",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle PLUS Ongekoelde maaltijd verspakketten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Verkade en McVitie's Koek en Chocolade",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle Slimpie Siroop",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
       "geldig_tekst": "Woensdag 14 oktober t/m dinsdag 20 oktober",
       "categorie": null
     }
