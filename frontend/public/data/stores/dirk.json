@@ -2,125 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-18T10:06:03.410819+00:00",
+  "updated_at": "2026-10-19T11:33:51.918125+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Gevulde speculaas",
-      "korting_tekst": "Van € 3,69 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beenhamschotel met honing-mosterdsaus",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Runderrookvlees",
-      "korting_tekst": "Van € 2,89 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Cappuccino bavarois taartje",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstukreepjes",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Gevulde stokbroodjes",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pokébowl",
-      "korting_tekst": "Van € 4,49 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Tapas",
-      "korting_tekst": "Van € 1,99 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Borrelkaas",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hartige taart",
-      "korting_tekst": "Van € 3,69 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse sushi",
-      "korting_tekst": "Van € 3,99 voor € 3,29",
-      "actieprijs": 3.29,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aardbeien",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
     {
       "productnaam": "Hak groente of appelmoes",
       "korting_tekst": "Van € 2,85 voor € 0,89",
@@ -293,42 +176,6 @@
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Runderrookvlees",
-      "korting_tekst": "Van € 2,89 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstukreepjes",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Gevulde stokbroodjes",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse sushi",
-      "korting_tekst": "Van € 3,99 voor € 3,29",
-      "actieprijs": 3.29,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Slagershuis Gelderse rookworst",
       "korting_tekst": "Van € 1,09 voor € 0,79",
       "actieprijs": 0.79,
@@ -419,15 +266,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Cappuccino bavarois taartje",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Wasa knäckebröd",
       "korting_tekst": "Van € 1,92 voor € 0,99",
       "actieprijs": 0.99,
@@ -461,15 +299,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "14 - 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Borrelkaas",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
       "categorie": null
     },
     {
@@ -815,33 +644,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pokébowl",
-      "korting_tekst": "Van € 4,49 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Tapas",
-      "korting_tekst": "Van € 1,99 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hartige taart",
-      "korting_tekst": "Van € 3,69 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Daily Chef bapao",
       "korting_tekst": "Van € 1,05 voor € 0,69",
       "actieprijs": 0.69,
@@ -1064,15 +866,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "14 - 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Gevulde speculaas",
-      "korting_tekst": "Van € 3,69 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "14 - 18 okt",
       "categorie": null
     },
     {
