@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-23T10:52:28.923788+00:00",
+  "updated_at": "2026-10-24T10:00:40.299282+00:00",
   "deals": [
     {
       "productnaam": "Dubbelfrisss Original en 1kcal, Dubbeldrank en Van de Boom",
@@ -306,6 +306,15 @@
       "korting_tekst": "50 % korting",
       "actieprijs": 1.1,
       "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Snoeptomaten fairtrade",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null

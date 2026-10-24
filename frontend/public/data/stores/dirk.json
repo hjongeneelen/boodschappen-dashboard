@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-23T10:51:41.976983+00:00",
+  "updated_at": "2026-10-24T09:59:55.349878+00:00",
   "deals": [
     {
       "productnaam": "Bossche bollen",
@@ -208,6 +208,15 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
+      "geldig_tekst": "21 - 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "21 - 27 okt",
       "categorie": null
     },
@@ -956,15 +965,6 @@
       "inhoud_waarde": 28,
       "inhoud_unit": "stuks",
       "geldig_tekst": "21 - 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Geurkaars in glas",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "18 - 24 okt",
       "categorie": null
     },
     {
