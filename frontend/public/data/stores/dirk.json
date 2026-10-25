@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-24T09:59:55.349878+00:00",
+  "updated_at": "2026-10-25T10:23:26.695670+00:00",
   "deals": [
     {
       "productnaam": "Bossche bollen",
@@ -1028,6 +1028,15 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "21 - 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Luxe geurkaars",
+      "korting_tekst": "Van € 4,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "25 - 31 okt",
       "categorie": null
     },
     {
