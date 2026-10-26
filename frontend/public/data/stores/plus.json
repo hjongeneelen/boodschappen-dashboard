@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-25T10:24:11.889769+00:00",
+  "updated_at": "2026-10-26T11:52:46.665024+00:00",
   "deals": [
     {
       "productnaam": "Dubbelfrisss Original en 1kcal, Dubbeldrank en Van de Boom",
@@ -185,20 +185,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Uit de keuken van Hachee met krieltjes en rode kool",
+      "productnaam": "Uit de keuken van PLUS Tom kha kai soep",
       "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de Keuken van PLUS Poké bowl",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 310,
+      "inhoud_unit": "ml",
       "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
       "categorie": null
     },
