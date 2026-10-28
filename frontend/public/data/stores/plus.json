@@ -2,195 +2,42 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-27T11:17:02.250938+00:00",
+  "updated_at": "2026-10-28T11:51:05.820074+00:00",
   "deals": [
     {
-      "productnaam": "Dubbelfrisss Original en 1kcal, Dubbeldrank en Van de Boom",
+      "productnaam": "PLUS Roerbakgroenten",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
+      "actieprijs": 2.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
     {
-      "productnaam": "Alle Dr. Oetker Big American pizza's",
+      "productnaam": "Alle Robijn",
+      "korting_tekst": "1+2 gratis",
+      "actieprijs": 6.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola en Fanta",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle PLUS Koffiepads, nespresso koffiecups en dolce gusto koffiecapsules",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 4.99,
-      "inhoud_waarde": 435,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Unox Soep in zak",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.85,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Handappels",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mandarijnen",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Druiven Sweet White",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.29,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Pruimen los",
-      "korting_tekst": "500 gram 1.49",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nederlandse Aardbeien",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Blauwe bessen",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kaki",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "kg",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Frites uit Zuyd Dag verse friet",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 3.65,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Puntpaprika rood",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Pijnboompitten",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Broccoli",
-      "korting_tekst": "500 gram 0.99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Witlof",
-      "korting_tekst": "500 gram 0.79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Halloweenpompoen",
-      "korting_tekst": "OP=OP",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 1,
+      "inhoud_waarde": 20,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Pastinaak",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Neutraal Kastanjechampignons",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Tom kha kai soep",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 310,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
-      "korting_tekst": "2 voor 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 21 oktober t/m dinsdag 27 oktober",
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
     {
@@ -235,6 +82,15 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
@@ -302,6 +158,15 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Salades",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Bloemkool",
       "korting_tekst": null,
       "actieprijs": 0.99,
@@ -343,6 +208,15 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
