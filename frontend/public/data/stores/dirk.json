@@ -2,8 +2,107 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-29T11:58:04.810082+00:00",
+  "updated_at": "2026-10-30T11:51:57.408011+00:00",
   "deals": [
+    {
+      "productnaam": "1 de Beste Fruitsalade",
+      "korting_tekst": "Van € 3,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Polderkiprollade",
+      "korting_tekst": "Van € 2,29 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "Van € 3,99 voor € 3,89",
+      "actieprijs": 3.89,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Biefstuk",
+      "korting_tekst": "Van € 7,49 voor € 5,99",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Halloween schnitt",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hardanger gerookte zalm",
+      "korting_tekst": "Van € 2,49 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bits & Bites Buitenlandse kaas",
+      "korting_tekst": "Van € 2,29 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bits & Bites Tapas",
+      "korting_tekst": "Van € 1,99 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Soupy verse soep",
+      "korting_tekst": "Van € 3,49 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 950,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Viper Hard Seltzer",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wahid Turkse pizza lahmacun",
+      "korting_tekst": "Van € 3,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "28 okt - 1 nov",
+      "categorie": null
+    },
     {
       "productnaam": "1 de Beste Fruitsalade",
       "korting_tekst": "Van € 3,99 voor € 2,99",
