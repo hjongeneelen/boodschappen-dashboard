@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-10-30T11:52:43.478712+00:00",
+  "updated_at": "2026-10-31T11:26:18.098758+00:00",
   "deals": [
     {
       "productnaam": "PLUS Roerbakgroenten",
@@ -50,9 +50,9 @@
       "categorie": null
     },
     {
-      "productnaam": "Alle PLUS en Biologisch PLUS Verspakketten soep",
+      "productnaam": "PLUS Nederlandse Kruimige-, vastkokende- en vrij vastkokende aardappels",
       "korting_tekst": null,
-      "actieprijs": 3.99,
+      "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
@@ -68,11 +68,20 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS Nederlandse Witte en rode kool",
+      "productnaam": "Alle PLUS en Biologisch PLUS Verspakketten soep",
       "korting_tekst": null,
-      "actieprijs": 1.49,
+      "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Zoete aardappel",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
@@ -95,10 +104,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Neutraal Medjoul dadels",
+      "productnaam": "PLUS Handappels Morgana tas",
       "korting_tekst": null,
       "actieprijs": 2.99,
-      "inhoud_waarde": 225,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
@@ -131,6 +140,15 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Aardappelparten Koreaanse stijl",
+      "korting_tekst": "50 % korting",
+      "actieprijs": 1.1,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Halloweenpompoen",
       "korting_tekst": "OP=OP",
       "actieprijs": 3.99,
@@ -140,10 +158,10 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Handappels Morgana tas",
+      "productnaam": "Neutraal Medjoul dadels",
       "korting_tekst": null,
       "actieprijs": 2.99,
-      "inhoud_waarde": 1500,
+      "inhoud_waarde": 225,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
@@ -172,15 +190,6 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
-      "korting_tekst": "3 voor 5.00",
-      "actieprijs": 5.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
@@ -239,15 +248,6 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Spruitjes slavink en aardappelpuree",
-      "korting_tekst": "50 % korting",
-      "actieprijs": 2.74,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
-      "categorie": null
-    },
-    {
       "productnaam": "Uit de keuken van PLUS Spaghetti meatball",
       "korting_tekst": "450 gram 5.99",
       "actieprijs": 5.99,
@@ -284,11 +284,11 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Handappels Elstar",
-      "korting_tekst": "1 per kilo",
+      "productnaam": "PLUS Avocado",
+      "korting_tekst": null,
       "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
       "categorie": null
     },
@@ -320,10 +320,10 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Witlof",
-      "korting_tekst": "500 gram 1.00",
+      "productnaam": "PLUS Handappels Elstar",
+      "korting_tekst": "1 per kilo",
       "actieprijs": 1.0,
-      "inhoud_waarde": 500,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
       "categorie": null
@@ -338,16 +338,16 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Soepgroente",
-      "korting_tekst": null,
+      "productnaam": "PLUS Broccoli",
+      "korting_tekst": "500 gram 1.00",
       "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Broccoli",
+      "productnaam": "PLUS Witlof",
       "korting_tekst": "500 gram 1.00",
       "actieprijs": 1.0,
       "inhoud_waarde": 500,
