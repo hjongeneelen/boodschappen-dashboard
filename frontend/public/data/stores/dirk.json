@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-10-31T11:25:28.235578+00:00",
+  "updated_at": "2026-11-01T12:19:04.449047+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Fruitsalade",
@@ -1073,15 +1073,6 @@
       "inhoud_waarde": 600,
       "inhoud_unit": "ml",
       "geldig_tekst": "28 okt - 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luxe geurkaars",
-      "korting_tekst": "Van € 4,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "25 - 31 okt",
       "categorie": null
     },
     {
