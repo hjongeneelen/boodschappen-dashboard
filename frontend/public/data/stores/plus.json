@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-11-01T12:19:53.496133+00:00",
+  "updated_at": "2026-11-02T14:12:48.586403+00:00",
   "deals": [
     {
       "productnaam": "PLUS Roerbakgroenten",
@@ -59,20 +59,20 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Stoofperen Gieser Wildeman los",
-      "korting_tekst": "1.49 per kilo",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
-      "categorie": null
-    },
-    {
       "productnaam": "Alle PLUS en Biologisch PLUS Verspakketten soep",
       "korting_tekst": null,
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Stoofperen Gieser Wildeman los",
+      "korting_tekst": "1.49 per kilo",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
     },
@@ -104,10 +104,10 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Handappels Morgana tas",
+      "productnaam": "Neutraal Medjoul dadels",
       "korting_tekst": null,
       "actieprijs": 2.99,
-      "inhoud_waarde": 1500,
+      "inhoud_waarde": 225,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
@@ -158,10 +158,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Neutraal Medjoul dadels",
+      "productnaam": "Biologisch PLUS Boerenkool",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Handappels Morgana tas",
       "korting_tekst": null,
       "actieprijs": 2.99,
-      "inhoud_waarde": 225,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 28 oktober t/m dinsdag 3 november",
       "categorie": null
