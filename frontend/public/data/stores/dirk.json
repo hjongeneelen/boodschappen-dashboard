@@ -2,8 +2,98 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-11-05T13:43:00.168491+00:00",
+  "updated_at": "2026-11-06T13:27:12.617456+00:00",
   "deals": [
+    {
+      "productnaam": "1 de Beste Maaltijdsalade",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "Van € 3,99 voor € 3,89",
+      "actieprijs": 3.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Daily Chef verse kiploempia's",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vleeschmeesters Varkensentrecote",
+      "korting_tekst": "Van € 5,99 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eclairs",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bits & Bites Olijven",
+      "korting_tekst": "Van € 2,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bits & Bites Tapas",
+      "korting_tekst": "Van € 1,69 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Tukker boerenmetworst",
+      "korting_tekst": "Van € 4,85 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 220,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Premix",
+      "korting_tekst": "Van € 2,19 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verse salade",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "4 - 8 nov",
+      "categorie": null
+    },
     {
       "productnaam": "Blauwe bessen",
       "korting_tekst": "Van € 3,99 voor € 3,89",
