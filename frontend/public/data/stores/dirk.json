@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-11-07T12:06:03.330868+00:00",
+  "updated_at": "2026-11-08T12:26:52.445432+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Maaltijdsalade",
@@ -1199,6 +1199,42 @@
       "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": "4 - 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Draadloze oplaadbare wandlamp",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "8 - 14 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius rustieke kaars",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "8 - 14 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mood dinerkaarsen",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "8 - 14 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kaarsenhouder op schaal",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "8 - 14 nov",
       "categorie": null
     },
     {
