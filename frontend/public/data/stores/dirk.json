@@ -2,107 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-11-08T12:26:52.445432+00:00",
+  "updated_at": "2026-11-09T14:41:53.483765+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen",
-      "korting_tekst": "Van € 3,99 voor € 3,89",
-      "actieprijs": 3.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Daily Chef verse kiploempia's",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Varkensentrecote",
-      "korting_tekst": "Van € 5,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Eclairs",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Olijven",
-      "korting_tekst": "Van € 2,99 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Tapas",
-      "korting_tekst": "Van € 1,69 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Tukker boerenmetworst",
-      "korting_tekst": "Van € 4,85 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 220,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Premix",
-      "korting_tekst": "Van € 2,19 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse salade",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen",
-      "korting_tekst": "Van € 3,99 voor € 3,89",
-      "actieprijs": 3.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste Aardappelen",
       "korting_tekst": "Van € 1,19 voor € 0,99",
@@ -213,7 +114,7 @@
     },
     {
       "productnaam": "Hollandse aardbeien",
-      "korting_tekst": null,
+      "korting_tekst": "Van € 3,99 voor € 3,49",
       "actieprijs": 3.49,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
@@ -248,6 +149,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Mini romaine sla",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "4 - 10 nov",
+      "categorie": null
+    },
+    {
       "productnaam": "Pitloze rode druiven",
       "korting_tekst": "Van € 2,39 voor € 2,29",
       "actieprijs": 2.29,
@@ -272,15 +182,6 @@
       "inhoud_waarde": 550,
       "inhoud_unit": "gram",
       "geldig_tekst": "4 - 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Varkensentrecote",
-      "korting_tekst": "Van € 5,99 voor € 3,99",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "4 - 8 nov",
       "categorie": null
     },
     {
@@ -389,15 +290,6 @@
       "inhoud_waarde": 550,
       "inhoud_unit": "gram",
       "geldig_tekst": "4 - 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Eclairs",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "4 - 8 nov",
       "categorie": null
     },
     {
@@ -578,15 +470,6 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "4 - 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Premix",
-      "korting_tekst": "Van € 2,19 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "4 - 8 nov",
       "categorie": null
     },
     {
@@ -941,60 +824,6 @@
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Maaltijdsalade",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Daily Chef verse kiploempia's",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Olijven",
-      "korting_tekst": "Van € 2,99 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Tapas",
-      "korting_tekst": "Van € 1,69 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Tukker boerenmetworst",
-      "korting_tekst": "Van € 4,85 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 220,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verse salade",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "4 - 8 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "No Fairytales zoete aardappel tortilla",
       "korting_tekst": "Van € 2,85 voor € 1,39",
       "actieprijs": 1.39,
@@ -1157,15 +986,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Edet keukenpapier",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "4 - 10 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Dreft handafwas",
       "korting_tekst": null,
       "actieprijs": 0.99,
@@ -1199,42 +1019,6 @@
       "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": "4 - 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Draadloze oplaadbare wandlamp",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bolsius rustieke kaars",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mood dinerkaarsen",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kaarsenhouder op schaal",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 nov",
       "categorie": null
     },
     {
