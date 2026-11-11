@@ -2,174 +2,21 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-11-10T13:58:33.109463+00:00",
+  "updated_at": "2026-11-11T13:13:10.647339+00:00",
   "deals": [
     {
-      "productnaam": "Campina Langlekker",
+      "productnaam": "PLUS Ambachtelijke chocoladeletters",
       "korting_tekst": null,
-      "actieprijs": 1.0,
+      "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
       "categorie": null
     },
     {
-      "productnaam": "Milka",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Bananen Fairtrade",
-      "korting_tekst": "1 per kilo",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "First Choice",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Andijvie fijn, hutspot, boerenkool fijn en verse zuurkool",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Avocado",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Aubergine",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kaki",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "kg",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Rucola",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handappels Elstar",
-      "korting_tekst": "1 per kilo",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kiwi Green",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Broccoli",
-      "korting_tekst": "500 gram 1.00",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Witlof",
-      "korting_tekst": "500 gram 1.00",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mandarijnen",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle PLUS Bapao",
-      "korting_tekst": null,
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Spaghetti meatball",
-      "korting_tekst": "450 gram 5.99",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Salade Kip Italiaanse stijl",
-      "korting_tekst": null,
-      "actieprijs": 5.49,
-      "inhoud_waarde": 445,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Pizza Funghi",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 4 november t/m dinsdag 10 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beter Bikken Buddies",
+      "productnaam": "PLUS Chocoladeletters speciaal",
       "korting_tekst": "OP=OP",
-      "actieprijs": 2.99,
+      "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
@@ -181,6 +28,15 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Beter Bikken Buddies",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
       "categorie": null
     },
@@ -212,6 +68,15 @@
       "categorie": null
     },
     {
+      "productnaam": "PLUS Mandarijnen extra groot GVP",
+      "korting_tekst": "VOORDEELVERPAKKING",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Mango",
       "korting_tekst": null,
       "actieprijs": 1.0,
@@ -230,11 +95,29 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Courgette groen",
-      "korting_tekst": "2 voor 1.00",
-      "actieprijs": 0.75,
+      "productnaam": "PLUS Avocado",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Courgette groen",
+      "korting_tekst": "2 voor 1.00",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
       "categorie": null
     },
