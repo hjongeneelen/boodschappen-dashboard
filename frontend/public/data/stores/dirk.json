@@ -2,8 +2,17 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-11-11T13:12:21.042827+00:00",
+  "updated_at": "2026-11-12T14:15:17.030039+00:00",
   "deals": [
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "11 - 15 nov",
+      "categorie": null
+    },
     {
       "productnaam": "1 de Beste Verse frites",
       "korting_tekst": "Van € 2,39 voor € 1,99",
@@ -299,6 +308,15 @@
       "inhoud_waarde": 145,
       "inhoud_unit": "gram",
       "geldig_tekst": "11 - 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Crunchy speculoos schnitt",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "11 - 15 nov",
       "categorie": null
     },
     {
