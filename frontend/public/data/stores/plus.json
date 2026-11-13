@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-11-12T14:16:05.673515+00:00",
+  "updated_at": "2026-11-13T13:39:13.505923+00:00",
   "deals": [
     {
       "productnaam": "PLUS Ambachtelijke chocoladeletters",
@@ -113,7 +113,16 @@
       "categorie": null
     },
     {
-      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "productnaam": "PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 voor 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
       "korting_tekst": "3 voor 5.00",
       "actieprijs": 5.0,
       "inhoud_waarde": null,
@@ -173,6 +182,87 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alle XXL Nutrition Repen",
+      "korting_tekst": "5 voor 4.99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Toiletpapier 4-laags",
+      "korting_tekst": "4 voor 14.99",
+      "actieprijs": 5.49,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Kaki en kleine zoete appeltjes",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zespri Kiwi green",
+      "korting_tekst": "500 gram 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Druiven rood pitloos",
+      "korting_tekst": null,
+      "actieprijs": 2.19,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Pruimen los",
+      "korting_tekst": "500 gram 1.49",
+      "actieprijs": 2.98,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nederlandse aardappelen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Gember los",
+      "korting_tekst": "500 gram 2.49",
+      "actieprijs": 0.75,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 18 november t/m dinsdag 24 november",
       "categorie": null
     }
   ]
