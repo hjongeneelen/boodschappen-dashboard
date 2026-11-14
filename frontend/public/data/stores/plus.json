@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-11-13T13:39:13.505923+00:00",
+  "updated_at": "2026-11-14T12:43:37.779481+00:00",
   "deals": [
     {
       "productnaam": "PLUS Ambachtelijke chocoladeletters",
@@ -35,15 +35,6 @@
       "productnaam": "Beter Bikken Buddies",
       "korting_tekst": "OP=OP",
       "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Chocoladeletters speciaal",
-      "korting_tekst": "OP=OP",
-      "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
@@ -181,6 +172,33 @@
       "actieprijs": 1.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Flammkuchen- en bladerdeeg",
+      "korting_tekst": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Spaghetti meatball",
+      "korting_tekst": "450 gram 5.99",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
+      "categorie": null
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Salade Kip Italiaanse stijl",
+      "korting_tekst": null,
+      "actieprijs": 5.49,
+      "inhoud_waarde": 445,
+      "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 11 november t/m dinsdag 17 november",
       "categorie": null
     },
